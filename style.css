@@ -1,0 +1,49 @@
+:root{
+  --bg:#f3f4f6;--card:#ffffff;--text:#0f172a;--muted:#6b7280;--accent:#0ea5a4;
+}
+[data-theme="dark"]{
+  --bg:#0b1220;--card:#141a29;--text:#ffffff;--muted:#9aa9b7;--accent:#34d399;
+
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,'Trebuchet MS', sans-serif;background:var(--bg);color:var(--text);}
+.app{max-width:980px;margin:28px auto;padding:16px;}
+.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.brand{font-weight:800;font-size:18px}
+.card{background:var(--card);padding:18px;border-radius:12px;box-shadow:0 6px 20px rgba(2,6,23,0.06);margin-bottom:16px}
+.hidden{display:none}
+.row{margin:10px 0;display:flex;flex-direction:column}
+.row input, .row select{padding:8px;border-radius:8px;border:1px solid #e6eef6}
+.label{font-weight:600}
+.actions{margin-top:12px;display:flex;gap:8px}
+.btn{border:0;padding:8px 12px;border-radius:8px;background:#d5e8fb;color:#071028;cursor:pointer}
+.btn.small{padding:6px 8px}
+.btn.primary{background:var(--accent);color:white}
+.muted{color:var(--muted);font-size:13px;margin-top:8px}
+.lifelines-legend .pill{display:inline-block;padding:6px 8px;background:#c7efcd;border-radius:999px;margin-right:6px;font-size:13px;color: #071028;}
+
+.scoreboard{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.team{width:30%;text-align:center}
+.team-name{font-weight:700}
+.team-score{font-size:20px;margin-top:6px}
+.center-info{text-align:center}
+.timer{margin-top:6px;font-weight:600}
+
+.question-card{margin-top:10px}
+.q-meta{display:inline-block;margin-right:8px;padding:4px 8px;background:#393651;border-radius:8px;font-size:12px;color: #ffffff;}
+.q-meta + .q-meta{margin-left:6px}
+.choices{display:grid;grid-template-columns:1fr;gap:8px;margin-top:12px}
+.choice-btn{padding:12px;border-radius:10px;border:1px solid #e2e8f0;background:white;text-align:left;cursor:pointer;font-family:'Trebuchet MS', sans-serif ;}
+.choice-btn.disabled{opacity:0.6;pointer-events:none}
+.choice-btn.correct{background:#d1fae5;border-color:#10b981}
+.choice-btn.wrong{background:#fee2e2;border-color:#ef4444}
+
+.feedback{margin-top:12px;font-weight:700}
+.q-actions{display:flex;justify-content:space-between;align-items:center;margin-top:12px}
+.lifelines-row button{margin-right:8px}
+
+.footer{margin-top:12px;text-align:center;color:var(--muted)}
+@media(min-width:720px){
+  .choices{grid-template-columns:1fr 1fr}
+}
+

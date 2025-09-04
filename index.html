@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Medical SeenJeem</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">⚕️ Medical SeenJeem❤️</div>
+      <div class="controls">
+        <button id="themeBtn" class="btn small">🌙 Dark</button>
+      </div>
+    </header>
+
+    <main class="main">
+      <!-- Setup Screen -->
+      <section id="setup" class="card">
+        <h2>Game Setup</h2>
+
+        <div class="row">
+          <label>Team A name</label>
+          <input id="teamA" placeholder="Team A" />
+        </div>
+        <div class="row">
+          <label>Team B name</label>
+          <input id="teamB" placeholder="Team B" />
+        </div>
+
+        <div class="row">
+          <label>Difficulty</label>
+          <select id="difficulty">
+            <option value="mixed">Mixed</option>
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+        </div>
+
+        <div class="row">
+          <label>Time per question (seconds)</label>
+          <input id="timeLimit" type="number" min="0" value="30" />
+          <small>0 = no timer</small>
+        </div>
+
+        <div class="row">
+          <label>Number of questions per game</label>
+          <input id="numQuestions" type="number" min="1" value="50" />
+        </div>
+
+        <div class="row lifelines-legend">
+          <label>Lifelines (each team can use each once)</label>
+          <div class="legend">
+            <span class="pill">50:50</span>
+            <span class="pill">Pass</span>
+            <span class="pill">Consult</span>
+          </div>
+        </div>
+
+        <div class="actions">
+          <button id="startBtn" class="btn primary">Start Game ▶</button>
+        </div>
+
+    
+      </section>
+
+      <!-- Game Screen -->
+      <section id="game" class="card hidden">
+        <div class="scoreboard">
+          <div class="team">
+            <div class="team-name" id="teamAName">Team A</div>
+            <div class="team-score" id="scoreA">0</div>
+            <div class="lifelines" id="lifelinesA"></div>
+          </div>
+          <div class="center-info">
+            <div id="turnLabel">Turn: Team A</div>
+            <div id="progress">Q 0 / 0</div>
+            <div id="timer" class="timer">⏱ 0s</div>
+          </div>
+          <div class="team">
+            <div class="team-name" id="teamBName">Team B</div>
+            <div class="team-score" id="scoreB">0</div>
+            <div class="lifelines" id="lifelinesB"></div>
+          </div>
+        </div>
+
+        <div id="questionCard" class="question-card">
+          <div id="qCategory" class="q-meta"></div>
+          <div id="qDifficulty" class="q-meta"></div>
+          <h3 id="questionText">Question text</h3>
+
+          <div id="choices" class="choices"></div>
+
+          <div id="feedback" class="feedback"></div>
+
+          <div class="q-actions">
+            <div class="lifelines-row">
+              <button id="use50" class="btn">50:50</button>
+              <button id="usePass" class="btn">Pass</button>
+              <button id="useConsult" class="btn">Consult</button>
+            </div>
+            <div class="next-row">
+              <button id="nextBtn" class="btn primary hidden">➡ Next Question</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Game Over -->
+      <section id="gameOver" class="card hidden">
+        <h2>🎉 Game Over</h2>
+        <p id="finalText"></p>
+        <div class="actions">
+          <button id="restartBtn" class="btn">Restart</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">Built with ❤️<code></code></footer>
+  </div>
+
+  <audio id="soundCorrect" src="correct.mp3" preload="auto"></audio>
+  <audio id="soundWrong" src="wrong.mp3" preload="auto"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
