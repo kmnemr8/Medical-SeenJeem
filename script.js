@@ -6,7 +6,16 @@
 */
 
 const QUESTION_FILES = [
-
+  "./questions/questions_medicine.json",
+  "./questions/questions_surgery.json",
+  "./questions/questions_pediatrics.json",
+  "./questions/questions_obgyn.json",
+  "./questions/questions_misc.json",
+  "./questions/questions_medicine_2.json",
+  "./questions/questions_surgery_2.json",
+  "./questions/questions_pediatrics_2.json",
+  "./questions/questions_obgyn_2.json",
+  "./questions/questions_misc_2.json",
   //"./questions/Academic/questions_pathology.json",
   "./questions/Academic/questions_pharmacology.json",
   "./questions/Academic/questions_ethics.json",
@@ -445,5 +454,6 @@ async function loadAllBanks(){
   // 🟢 هنا بقى
   return removeDuplicates(combined);
 }
+
 
 
