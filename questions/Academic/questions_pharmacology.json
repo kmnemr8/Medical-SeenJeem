@@ -1,0 +1,1302 @@
+[
+  {
+    "question": "A 40-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Dabigatran",
+      "Heparin",
+      "Aspirin",
+      "Rivaroxaban"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy?",
+    "choices": [
+      "Vitamin C",
+      "Pyridoxine (vitamin B6)",
+      "Vitamin B12",
+      "Folic acid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis?",
+    "choices": [
+      "HMG-CoA reductase",
+      "PCSK9",
+      "Hepatic lipase",
+      "ACAT"
+    ],
+    "answerIndex": 0,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation?",
+    "choices": [
+      "Vitamin D",
+      "Folic acid",
+      "Vitamin K (phytonadione)",
+      "Vitamin B6"
+    ],
+    "answerIndex": 2,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class?",
+    "choices": [
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "Integrase inhibitor",
+      "NRTI",
+      "Protease inhibitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy?",
+    "choices": [
+      "AUC/MIC (area under the curve to MIC)",
+      "Time above MIC only",
+      "Post-antibiotic effect only",
+      "Peak/MIC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed?",
+    "choices": [
+      "Pulmonary hypoplasia",
+      "Neural tube defects (eg, spina bifida)",
+      "Cardiac arrhythmias",
+      "Renal agenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics?",
+    "choices": [
+      "Increased proximal Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Increased PTH activity"
+    ],
+    "answerIndex": 2,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal?",
+    "choices": [
+      "Naltrexone",
+      "Naloxone",
+      "Flumazenil",
+      "Nalmefene"
+    ],
+    "answerIndex": 1,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism?",
+    "choices": [
+      "Adenine phosphoribosyltransferase",
+      "Xanthine oxidase",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Xanthine dehydrogenase only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 33-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Dabigatran",
+      "Aspirin",
+      "Rivaroxaban",
+      "Heparin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 12)",
+    "choices": [
+      "Folic acid",
+      "Pyridoxine (vitamin B6)",
+      "Vitamin C",
+      "Vitamin B12"
+    ],
+    "answerIndex": 1,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 13)",
+    "choices": [
+      "PCSK9",
+      "Hepatic lipase",
+      "HMG-CoA reductase",
+      "ACAT"
+    ],
+    "answerIndex": 2,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 14)",
+    "choices": [
+      "Vitamin D",
+      "Folic acid",
+      "Vitamin K (phytonadione)",
+      "Vitamin B6"
+    ],
+    "answerIndex": 2,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 15)",
+    "choices": [
+      "NRTI",
+      "Integrase inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "Protease inhibitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 16)",
+    "choices": [
+      "Peak/MIC",
+      "AUC/MIC (area under the curve to MIC)",
+      "Post-antibiotic effect only",
+      "Time above MIC only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 17)",
+    "choices": [
+      "Pulmonary hypoplasia",
+      "Cardiac arrhythmias",
+      "Renal agenesis",
+      "Neural tube defects (eg, spina bifida)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 18)",
+    "choices": [
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Increased PTH activity",
+      "Increased proximal Ca2+ reabsorption"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 19)",
+    "choices": [
+      "Naltrexone",
+      "Flumazenil",
+      "Nalmefene",
+      "Naloxone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 20)",
+    "choices": [
+      "Xanthine dehydrogenase only",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Xanthine oxidase",
+      "Adenine phosphoribosyltransferase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 61-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Heparin",
+      "Aspirin",
+      "Dabigatran",
+      "Rivaroxaban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 22)",
+    "choices": [
+      "Vitamin C",
+      "Folic acid",
+      "Vitamin B12",
+      "Pyridoxine (vitamin B6)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 23)",
+    "choices": [
+      "HMG-CoA reductase",
+      "ACAT",
+      "PCSK9",
+      "Hepatic lipase"
+    ],
+    "answerIndex": 0,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 24)",
+    "choices": [
+      "Folic acid",
+      "Vitamin B6",
+      "Vitamin D",
+      "Vitamin K (phytonadione)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 25)",
+    "choices": [
+      "Protease inhibitor",
+      "Integrase inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "NRTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 26)",
+    "choices": [
+      "Peak/MIC",
+      "Post-antibiotic effect only",
+      "Time above MIC only",
+      "AUC/MIC (area under the curve to MIC)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 27)",
+    "choices": [
+      "Renal agenesis",
+      "Pulmonary hypoplasia",
+      "Cardiac arrhythmias",
+      "Neural tube defects (eg, spina bifida)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 28)",
+    "choices": [
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Increased PTH activity",
+      "Direct inhibition of calcium channels",
+      "Increased proximal Ca2+ reabsorption"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 29)",
+    "choices": [
+      "Naltrexone",
+      "Naloxone",
+      "Nalmefene",
+      "Flumazenil"
+    ],
+    "answerIndex": 1,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 30)",
+    "choices": [
+      "Xanthine dehydrogenase only",
+      "Adenine phosphoribosyltransferase",
+      "Xanthine oxidase",
+      "Hypoxanthine-guanine phosphoribosyltransferase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 25-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Dabigatran",
+      "Heparin",
+      "Aspirin",
+      "Rivaroxaban"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 32)",
+    "choices": [
+      "Pyridoxine (vitamin B6)",
+      "Folic acid",
+      "Vitamin C",
+      "Vitamin B12"
+    ],
+    "answerIndex": 0,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 33)",
+    "choices": [
+      "HMG-CoA reductase",
+      "Hepatic lipase",
+      "ACAT",
+      "PCSK9"
+    ],
+    "answerIndex": 0,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 34)",
+    "choices": [
+      "Folic acid",
+      "Vitamin K (phytonadione)",
+      "Vitamin D",
+      "Vitamin B6"
+    ],
+    "answerIndex": 1,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 35)",
+    "choices": [
+      "Protease inhibitor",
+      "Integrase inhibitor",
+      "NRTI",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 36)",
+    "choices": [
+      "AUC/MIC (area under the curve to MIC)",
+      "Post-antibiotic effect only",
+      "Time above MIC only",
+      "Peak/MIC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 37)",
+    "choices": [
+      "Cardiac arrhythmias",
+      "Neural tube defects (eg, spina bifida)",
+      "Pulmonary hypoplasia",
+      "Renal agenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 38)",
+    "choices": [
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Increased proximal Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Increased PTH activity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 39)",
+    "choices": [
+      "Flumazenil",
+      "Naltrexone",
+      "Nalmefene",
+      "Naloxone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 40)",
+    "choices": [
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Adenine phosphoribosyltransferase",
+      "Xanthine dehydrogenase only",
+      "Xanthine oxidase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 27-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Rivaroxaban",
+      "Dabigatran",
+      "Aspirin",
+      "Heparin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 42)",
+    "choices": [
+      "Folic acid",
+      "Pyridoxine (vitamin B6)",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "answerIndex": 1,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 43)",
+    "choices": [
+      "HMG-CoA reductase",
+      "PCSK9",
+      "ACAT",
+      "Hepatic lipase"
+    ],
+    "answerIndex": 0,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 44)",
+    "choices": [
+      "Vitamin K (phytonadione)",
+      "Folic acid",
+      "Vitamin D",
+      "Vitamin B6"
+    ],
+    "answerIndex": 0,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 45)",
+    "choices": [
+      "Integrase inhibitor",
+      "NRTI",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "Protease inhibitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 46)",
+    "choices": [
+      "Peak/MIC",
+      "Post-antibiotic effect only",
+      "AUC/MIC (area under the curve to MIC)",
+      "Time above MIC only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 47)",
+    "choices": [
+      "Neural tube defects (eg, spina bifida)",
+      "Renal agenesis",
+      "Cardiac arrhythmias",
+      "Pulmonary hypoplasia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 48)",
+    "choices": [
+      "Increased PTH activity",
+      "Increased proximal Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption"
+    ],
+    "answerIndex": 3,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 49)",
+    "choices": [
+      "Flumazenil",
+      "Naltrexone",
+      "Nalmefene",
+      "Naloxone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 50)",
+    "choices": [
+      "Xanthine oxidase",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Adenine phosphoribosyltransferase",
+      "Xanthine dehydrogenase only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 38-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Rivaroxaban",
+      "Heparin",
+      "Aspirin",
+      "Dabigatran"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 52)",
+    "choices": [
+      "Folic acid",
+      "Vitamin C",
+      "Pyridoxine (vitamin B6)",
+      "Vitamin B12"
+    ],
+    "answerIndex": 2,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 53)",
+    "choices": [
+      "PCSK9",
+      "ACAT",
+      "HMG-CoA reductase",
+      "Hepatic lipase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 54)",
+    "choices": [
+      "Vitamin D",
+      "Vitamin K (phytonadione)",
+      "Vitamin B6",
+      "Folic acid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 55)",
+    "choices": [
+      "Integrase inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "Protease inhibitor",
+      "NRTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 56)",
+    "choices": [
+      "AUC/MIC (area under the curve to MIC)",
+      "Post-antibiotic effect only",
+      "Time above MIC only",
+      "Peak/MIC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 57)",
+    "choices": [
+      "Neural tube defects (eg, spina bifida)",
+      "Pulmonary hypoplasia",
+      "Cardiac arrhythmias",
+      "Renal agenesis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 58)",
+    "choices": [
+      "Increased PTH activity",
+      "Direct inhibition of calcium channels",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Increased proximal Ca2+ reabsorption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 59)",
+    "choices": [
+      "Flumazenil",
+      "Naltrexone",
+      "Naloxone",
+      "Nalmefene"
+    ],
+    "answerIndex": 2,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 60)",
+    "choices": [
+      "Xanthine dehydrogenase only",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Adenine phosphoribosyltransferase",
+      "Xanthine oxidase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 46-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Rivaroxaban",
+      "Aspirin",
+      "Dabigatran",
+      "Heparin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 62)",
+    "choices": [
+      "Pyridoxine (vitamin B6)",
+      "Vitamin C",
+      "Vitamin B12",
+      "Folic acid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 63)",
+    "choices": [
+      "ACAT",
+      "Hepatic lipase",
+      "PCSK9",
+      "HMG-CoA reductase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 64)",
+    "choices": [
+      "Vitamin B6",
+      "Vitamin K (phytonadione)",
+      "Folic acid",
+      "Vitamin D"
+    ],
+    "answerIndex": 1,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 65)",
+    "choices": [
+      "Integrase inhibitor",
+      "Protease inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "NRTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 66)",
+    "choices": [
+      "Time above MIC only",
+      "AUC/MIC (area under the curve to MIC)",
+      "Peak/MIC",
+      "Post-antibiotic effect only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 67)",
+    "choices": [
+      "Cardiac arrhythmias",
+      "Renal agenesis",
+      "Neural tube defects (eg, spina bifida)",
+      "Pulmonary hypoplasia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 68)",
+    "choices": [
+      "Increased PTH activity",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Increased proximal Ca2+ reabsorption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 69)",
+    "choices": [
+      "Naloxone",
+      "Nalmefene",
+      "Flumazenil",
+      "Naltrexone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 70)",
+    "choices": [
+      "Adenine phosphoribosyltransferase",
+      "Xanthine dehydrogenase only",
+      "Xanthine oxidase",
+      "Hypoxanthine-guanine phosphoribosyltransferase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 26-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Rivaroxaban",
+      "Heparin",
+      "Dabigatran",
+      "Aspirin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 72)",
+    "choices": [
+      "Vitamin B12",
+      "Folic acid",
+      "Pyridoxine (vitamin B6)",
+      "Vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 73)",
+    "choices": [
+      "ACAT",
+      "HMG-CoA reductase",
+      "PCSK9",
+      "Hepatic lipase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 74)",
+    "choices": [
+      "Vitamin B6",
+      "Vitamin D",
+      "Vitamin K (phytonadione)",
+      "Folic acid"
+    ],
+    "answerIndex": 2,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 75)",
+    "choices": [
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "NRTI",
+      "Protease inhibitor",
+      "Integrase inhibitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 76)",
+    "choices": [
+      "AUC/MIC (area under the curve to MIC)",
+      "Time above MIC only",
+      "Peak/MIC",
+      "Post-antibiotic effect only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 77)",
+    "choices": [
+      "Cardiac arrhythmias",
+      "Pulmonary hypoplasia",
+      "Renal agenesis",
+      "Neural tube defects (eg, spina bifida)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 78)",
+    "choices": [
+      "Direct inhibition of calcium channels",
+      "Increased proximal Ca2+ reabsorption",
+      "Increased PTH activity",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption"
+    ],
+    "answerIndex": 3,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 79)",
+    "choices": [
+      "Naltrexone",
+      "Nalmefene",
+      "Naloxone",
+      "Flumazenil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 80)",
+    "choices": [
+      "Adenine phosphoribosyltransferase",
+      "Xanthine oxidase",
+      "Xanthine dehydrogenase only",
+      "Hypoxanthine-guanine phosphoribosyltransferase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 46-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin? (variant 81)",
+    "choices": [
+      "Dabigatran",
+      "Aspirin",
+      "Rivaroxaban",
+      "Heparin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 82)",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Pyridoxine (vitamin B6)",
+      "Folic acid"
+    ],
+    "answerIndex": 2,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 83)",
+    "choices": [
+      "PCSK9",
+      "ACAT",
+      "Hepatic lipase",
+      "HMG-CoA reductase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 84)",
+    "choices": [
+      "Vitamin D",
+      "Vitamin B6",
+      "Folic acid",
+      "Vitamin K (phytonadione)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 85)",
+    "choices": [
+      "Integrase inhibitor",
+      "Protease inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)",
+      "NRTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 86)",
+    "choices": [
+      "Peak/MIC",
+      "AUC/MIC (area under the curve to MIC)",
+      "Post-antibiotic effect only",
+      "Time above MIC only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 87)",
+    "choices": [
+      "Pulmonary hypoplasia",
+      "Neural tube defects (eg, spina bifida)",
+      "Cardiac arrhythmias",
+      "Renal agenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 88)",
+    "choices": [
+      "Increased proximal Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Increased PTH activity",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption"
+    ],
+    "answerIndex": 3,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 89)",
+    "choices": [
+      "Naltrexone",
+      "Nalmefene",
+      "Flumazenil",
+      "Naloxone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 90)",
+    "choices": [
+      "Adenine phosphoribosyltransferase",
+      "Xanthine dehydrogenase only",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Xanthine oxidase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 49-year-old patient with atrial fibrillation needs stroke prophylaxis. Which anticoagulant is a direct thrombin inhibitor commonly used as an oral alternative to warfarin?",
+    "choices": [
+      "Rivaroxaban",
+      "Heparin",
+      "Dabigatran",
+      "Aspirin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet. Key teaching point: Dabigatran is an oral direct thrombin (factor IIa) inhibitor used for stroke prevention in nonvalvular atrial fibrillation. Rivaroxaban is a direct factor Xa inhibitor; heparin is parenteral and aspirin is an antiplatelet.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on isoniazid for latent TB reports numbness and paresthesias. Which vitamin prevents INH-induced peripheral neuropathy? (variant 92)",
+    "choices": [
+      "Pyridoxine (vitamin B6)",
+      "Vitamin B12",
+      "Folic acid",
+      "Vitamin C"
+    ],
+    "answerIndex": 0,
+    "explanation": "Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy. Key teaching point: Isoniazid causes pyridoxine deficiency leading to peripheral neuropathy; coadministration of pyridoxine prevents this. B12 treats different neuropathies; folate and vitamin C are not preventive for INH neuropathy.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A 55-year-old with severe hypercholesterolemia is prescribed a statin. Which enzyme do statins inhibit to reduce cholesterol synthesis? (variant 93)",
+    "choices": [
+      "ACAT",
+      "Hepatic lipase",
+      "HMG-CoA reductase",
+      "PCSK9"
+    ],
+    "answerIndex": 2,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles. Key teaching point: Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, lowering LDL. PCSK9 is a protein targeted by monoclonal antibodies; ACAT and hepatic lipase have different roles.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient treated with warfarin develops an elevated INR and warfarin needs reversal. Which vitamin is used to reverse warfarin anticoagulation? (variant 94)",
+    "choices": [
+      "Folic acid",
+      "Vitamin D",
+      "Vitamin K (phytonadione)",
+      "Vitamin B6"
+    ],
+    "answerIndex": 2,
+    "explanation": "Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated. Key teaching point: Warfarin antagonizes vitamin K–dependent clotting factors; giving vitamin K (phytonadione) restores gamma-carboxylation and reverses anticoagulation. B6, folate, and D are unrelated.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "An HIV patient on efavirenz experiences vivid dreams and dizziness. Efavirenz belongs to which antiretroviral class? (variant 95)",
+    "choices": [
+      "Protease inhibitor",
+      "NRTI",
+      "Integrase inhibitor",
+      "NNRTI (non-nucleoside reverse transcriptase inhibitor)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles. Key teaching point: Efavirenz is an NNRTI associated with CNS side effects including vivid dreams. NRTIs are nucleoside analogs; PIs and integrase inhibitors have different mechanisms and side-effect profiles.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with severe sepsis is receiving vancomycin. Which pharmacodynamic parameter best correlates with vancomycin efficacy? (variant 96)",
+    "choices": [
+      "AUC/MIC (area under the curve to MIC)",
+      "Post-antibiotic effect only",
+      "Time above MIC only",
+      "Peak/MIC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC. Key teaching point: Vancomycin efficacy correlates best with AUC/MIC. Some antibiotics are time-dependent (T>MIC) or concentration-dependent (peak/MIC), but vancomycin is best described by AUC/MIC.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A woman of childbearing age is started on valproate. Which major teratogenic risk must be discussed? (variant 97)",
+    "choices": [
+      "Pulmonary hypoplasia",
+      "Cardiac arrhythmias",
+      "Renal agenesis",
+      "Neural tube defects (eg, spina bifida)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential. Key teaching point: Valproate is teratogenic and increases the risk of neural tube defects; counseling and alternative therapies are important for women of reproductive potential.",
+    "difficulty": "hard",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient on long-term loop diuretics develops hypokalemia. Which mechanism explains increased urinary calcium excretion with loop diuretics? (variant 98)",
+    "choices": [
+      "Increased PTH activity",
+      "Increased proximal Ca2+ reabsorption",
+      "Direct inhibition of calcium channels",
+      "Inhibition of NKCC2 reduces lumen-positive potential in TAL, decreasing paracellular Ca2+ reabsorption"
+    ],
+    "answerIndex": 3,
+    "explanation": "Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium. Key teaching point: Loop diuretics block NKCC2 in the thick ascending limb, abolishing the lumen-positive transepithelial potential that drives paracellular cation (Ca2+, Mg2+) reabsorption, leading to increased urinary calcium.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with suspected opioid overdose has respiratory depression. Which drug is an opioid receptor antagonist used for rapid reversal? (variant 99)",
+    "choices": [
+      "Flumazenil",
+      "Nalmefene",
+      "Naltrexone",
+      "Naloxone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines. Key teaching point: Naloxone is a short-acting opioid antagonist used for acute reversal of opioid-induced respiratory depression. Naltrexone is longer-acting for maintenance; nalmefene is similar to naltrexone; flumazenil reverses benzodiazepines.",
+    "difficulty": "easy",
+    "category": "Pharmacology"
+  },
+  {
+    "question": "A patient with gout is started on allopurinol. Allopurinol inhibits which enzyme in purine metabolism? (variant 100)",
+    "choices": [
+      "Xanthine dehydrogenase only",
+      "Adenine phosphoribosyltransferase",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Xanthine oxidase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase. Key teaching point: Allopurinol inhibits xanthine oxidase, decreasing uric acid production. HPRT and APRT are different enzymes; xanthine dehydrogenase is functionally related to xanthine oxidase.",
+    "difficulty": "medium",
+    "category": "Pharmacology"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2001,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2002,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2003,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2004,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2005,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2006,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease",
+      "Meconium ileus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2007,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2008,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2009,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Asthma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2010,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2011,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2012,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2013,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2014,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2015,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2016,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Meconium ileus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2017,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2018,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2019,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2020,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2021,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2022,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2023,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2024,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Meconium ileus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2025,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2026,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2027,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2028,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2029,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2030,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2031,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2032,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2033,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2034,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2035,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2036,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2037,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Asthma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2038,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2039,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2040,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Meconium ileus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2041,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Asthma",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2042,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2043,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2044,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2045,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2046,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Meconium ileus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2047,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2048,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2049,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2050,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2051,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2052,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2053,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2054,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2055,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2056,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2057,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2058,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2059,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2060,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2061,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2062,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2063,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Asthma",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2064,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2065,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2066,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2067,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2068,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2069,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2070,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease",
+      "Meconium ileus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2071,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2072,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2073,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Epiglottitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2074,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2075,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Asthma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2076,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2077,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2078,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2079,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2080,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2081,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2082,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2083,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Bronchiolitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2084,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Meconium ileus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2085,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2086,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2087,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2088,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Meconium ileus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2089,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2090,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Hirschsprung disease",
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2091,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2092,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Meconium ileus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2093,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2094,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Meconium ileus",
+      "Duodenal atresia",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2095,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Croup (laryngotracheobronchitis)",
+      "Epiglottitis",
+      "Asthma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2096,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Duodenal atresia",
+      "Meconium ileus",
+      "Hirschsprung disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2097,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Bronchiolitis",
+      "Epiglottitis",
+      "Asthma",
+      "Croup (laryngotracheobronchitis)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2098,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Necrotizing enterocolitis",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  },
+  {
+    "id": 2099,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "A 2-year-old child presents with barking cough, stridor, and hoarseness. Diagnosis?",
+    "choices": [
+      "Epiglottitis",
+      "Croup (laryngotracheobronchitis)",
+      "Asthma",
+      "Bronchiolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Barking cough and inspiratory stridor are classic for croup."
+  },
+  {
+    "id": 2100,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "A neonate fails to pass meconium within 48 hours and has abdominal distension. Diagnosis?",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Necrotizing enterocolitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Failure to pass meconium with distension suggests Hirschsprung disease."
+  }
+]

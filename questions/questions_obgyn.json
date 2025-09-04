@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 3001,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3002,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3003,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3004,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3005,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placental abruption",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3006,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3007,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3008,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3009,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3010,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3011,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3012,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3013,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3014,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3015,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Uterine rupture"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3016,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3017,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3018,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3019,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3020,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3021,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3022,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3023,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3024,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3025,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3026,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3027,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3028,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3029,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Placental abruption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3030,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Choriocarcinoma",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3031,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placenta previa",
+      "Placental abruption",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3032,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3033,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3034,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3035,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3036,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3037,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3038,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3039,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3040,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3041,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3042,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3043,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placenta previa",
+      "Placental abruption",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3044,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3045,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Uterine rupture"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3046,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3047,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3048,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3049,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3050,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3051,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3052,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3053,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placental abruption",
+      "Placenta previa",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3054,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3055,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3056,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3057,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3058,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3059,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3060,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3061,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3062,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3063,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3064,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3065,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3066,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Choriocarcinoma",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3067,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3068,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3069,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Placental abruption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3070,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Choriocarcinoma",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3071,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3072,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3073,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placenta previa",
+      "Placental abruption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3074,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3075,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Cervical carcinoma",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3076,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3077,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3078,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3079,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3080,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3081,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3082,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3083,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3084,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Choriocarcinoma",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3085,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3086,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3087,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Cervical carcinoma",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3088,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Hydatidiform mole",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3089,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Uterine rupture",
+      "Placenta previa",
+      "Cervical carcinoma",
+      "Placental abruption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3090,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3091,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placenta previa",
+      "Uterine rupture",
+      "Placental abruption"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3092,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3093,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Placenta previa",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3094,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Hydatidiform mole",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3095,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3096,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Ovarian cyst",
+      "Choriocarcinoma",
+      "Hydatidiform mole",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3097,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Placental abruption",
+      "Placenta previa",
+      "Uterine rupture",
+      "Cervical carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3098,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  },
+  {
+    "id": 3099,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "A 28-year-old pregnant woman at 32 weeks has painless vaginal bleeding. Diagnosis?",
+    "choices": [
+      "Cervical carcinoma",
+      "Uterine rupture",
+      "Placental abruption",
+      "Placenta previa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless vaginal bleeding in third trimester is placenta previa."
+  },
+  {
+    "id": 3100,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "A 25-year-old woman presents with secondary amenorrhea and positive pregnancy test. Ultrasound shows 'snowstorm' appearance. Diagnosis?",
+    "choices": [
+      "Hydatidiform mole",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snowstorm ultrasound appearance is molar pregnancy."
+  }
+]

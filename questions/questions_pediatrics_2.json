@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 20201,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "25-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20202,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "55-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20203,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "45-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20204,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "34-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20205,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "60-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20206,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "70-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Viral gastroenteritis",
+      "UTI only",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20207,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "25-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Oral antibiotics only",
+      "Nebulized epinephrine and dexamethasone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20208,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "30-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began several months ago.",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Foreign body aspiration",
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20209,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "25-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "UTI only",
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20210,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "70-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20211,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "45-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20212,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "70-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "UTI only",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20213,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "55-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20214,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "65-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20215,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "30-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Viral gastroenteritis",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20216,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "25-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began two weeks ago.",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20217,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "34-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began two weeks ago.",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20218,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "25-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "UTI only",
+      "Viral gastroenteritis",
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20219,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "70-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began 48 hours ago.",
+    "choices": [
+      "Oral antibiotics only",
+      "Albuterol inhaler",
+      "Immediate intubation",
+      "Nebulized epinephrine and dexamethasone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20220,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "55-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began two weeks ago.",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Foreign body aspiration",
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20221,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "45-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Viral gastroenteritis",
+      "UTI only",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20222,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "70-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began two weeks ago.",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20223,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "65-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20224,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "65-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Bacterial meningitis",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20225,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "60-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Immediate intubation",
+      "Oral antibiotics only",
+      "Nebulized epinephrine and dexamethasone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20226,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "22-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20227,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "65-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "UTI only",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20228,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "60-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20229,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "65-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20230,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "50-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "UTI only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20231,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "30-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20232,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "65-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20233,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "60-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Viral gastroenteritis",
+      "UTI only",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20234,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "65-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20235,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "60-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began 48 hours ago.",
+    "choices": [
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20236,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "25-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "UTI only",
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20237,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "22-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Oral antibiotics only",
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20238,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "60-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20239,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "18-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Viral gastroenteritis",
+      "Bacterial meningitis",
+      "UTI only",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20240,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "30-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Oral antibiotics only",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20241,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "45-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20242,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "70-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "UTI only",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20243,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "55-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began 48 hours ago.",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20244,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "25-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20245,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "50-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "UTI only",
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20246,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "65-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began several months ago.",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20247,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "30-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20248,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "34-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "UTI only",
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20249,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "30-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20250,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "70-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20251,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "55-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis",
+      "UTI only",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20252,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "34-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20253,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "30-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Foreign body aspiration",
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20254,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "34-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "Bacterial meningitis",
+      "UTI only",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20255,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "65-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Oral antibiotics only",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone"
+    ],
+    "answerIndex": 3,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20256,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "18-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20257,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "40-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "UTI only",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20258,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "34-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began 48 hours ago.",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20259,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "30-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20260,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "18-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "UTI only",
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20261,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "50-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20262,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "34-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration",
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20263,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "18-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis",
+      "UTI only",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20264,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "65-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Oral antibiotics only",
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20265,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "25-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20266,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "30-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "UTI only",
+      "Bacterial meningitis",
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20267,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "70-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Oral antibiotics only",
+      "Immediate intubation",
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20268,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "25-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began two weeks ago.",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20269,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "50-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20270,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "70-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20271,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "60-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20272,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "18-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "UTI only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20273,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "22-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20274,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "40-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began several months ago.",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20275,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "50-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "UTI only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20276,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "45-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began 48 hours ago.",
+    "choices": [
+      "Oral antibiotics only",
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20277,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "45-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20278,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "45-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis",
+      "Viral gastroenteritis",
+      "UTI only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20279,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "55-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Albuterol inhaler",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20280,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "70-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20281,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "65-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis",
+      "Bacterial meningitis",
+      "UTI only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20282,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "34-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Oral antibiotics only",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20283,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "60-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20284,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "34-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Bacterial meningitis",
+      "UTI only",
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20285,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "60-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20286,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "18-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began two weeks ago.",
+    "choices": [
+      "Foreign body aspiration",
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20287,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "25-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "Viral gastroenteritis",
+      "UTI only",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20288,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "45-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy? The symptoms began two weeks ago.",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler",
+      "Oral antibiotics only",
+      "Immediate intubation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20289,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "45-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20290,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "30-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20291,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "45-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler",
+      "Immediate intubation",
+      "Oral antibiotics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20292,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "30-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for? The symptoms began 48 hours ago.",
+    "choices": [
+      "Croup — steroids",
+      "Foreign body aspiration",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Tonsillitis — oral antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20293,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "34-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "UTI only",
+      "Viral gastroenteritis",
+      "Sepsis without CNS involvement",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20294,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "55-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Albuterol inhaler",
+      "Oral antibiotics only",
+      "Nebulized epinephrine and dexamethasone",
+      "Immediate intubation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20295,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "22-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Tonsillitis — oral antibiotics",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20296,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "34-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Viral gastroenteritis",
+      "Bacterial meningitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20297,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "25-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Oral antibiotics only",
+      "Immediate intubation",
+      "Albuterol inhaler"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20298,
+    "category": "Pediatrics",
+    "difficulty": "medium",
+    "question": "25-year-old child with high fever, drooling, and sitting upright (tripod). Concerning for?",
+    "choices": [
+      "Tonsillitis — oral antibiotics",
+      "Epiglottitis — secure airway and IV antibiotics",
+      "Croup — steroids",
+      "Foreign body aspiration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tripod position and drooling are red flags for epiglottitis with potential airway compromise; airway protection is priority. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20299,
+    "category": "Pediatrics",
+    "difficulty": "hard",
+    "question": "25-month-old infant with fever, poor feeding, and bulging fontanelle. Most likely diagnosis?",
+    "choices": [
+      "Bacterial meningitis",
+      "Sepsis without CNS involvement",
+      "UTI only",
+      "Viral gastroenteritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulging fontanelle in an infant suggests increased intracranial pressure, frequently due to meningitis; urgent evaluation and empiric antibiotics are required. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20300,
+    "category": "Pediatrics",
+    "difficulty": "easy",
+    "question": "40-year-old child with barking cough, inspiratory stridor, and low-grade fever worse at night. Best initial therapy?",
+    "choices": [
+      "Nebulized epinephrine and dexamethasone",
+      "Albuterol inhaler",
+      "Oral antibiotics only",
+      "Immediate intubation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup management includes nebulized epinephrine for airway edema and systemic steroids; intubation is reserved for severe obstruction. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  }
+]

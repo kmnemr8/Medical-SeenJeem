@@ -1,0 +1,704 @@
+[
+  {
+    "question": "A 3-year-old child presents with fever and a barky cough. A lateral neck x-ray shows subglottic narrowing. Which virus is the most common cause of croup in children?",
+    "choices": [
+      "Parainfluenza virus (paramyxovirus)",
+      "Respiratory syncytial virus (RSV)",
+      "Adenovirus",
+      "Influenza A"
+    ],
+    "answerIndex": 0,
+    "explanation": "Croup (laryngotracheobronchitis) in young children is most commonly caused by parainfluenza viruses (paramyxoviridae), producing subglottic inflammation and inspiratory stridor. RSV more commonly causes bronchiolitis; influenza and adenovirus have broader presentations.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with HIV has progressive multifocal leukoencephalopathy (PML). Which virus is responsible for PML and what cell type does it infect?",
+    "choices": [
+      "JC virus; infects oligodendrocytes (causing demyelination)",
+      "HSV-1; infects neurons",
+      "CMV; infects endothelial cells",
+      "EBV; infects B lymphocytes"
+    ],
+    "answerIndex": 0,
+    "explanation": "JC virus, a polyomavirus, reactivates in immunocompromised hosts (eg, AIDS) and infects oligodendrocytes leading to demyelinating lesions seen as PML. HSV-1 causes encephalitis of temporal lobes; CMV infects various cells including endothelium; EBV infects B cells causing lymphoproliferative disease.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient presents with watery diarrhea after a cruise. Stool testing shows a noninvasive organism that causes secretory diarrhea via a heat-stable toxin activating guanylate cyclase.",
+    "choices": [
+      "Enterotoxigenic E. coli (ETEC)",
+      "Shigella dysenteriae",
+      "Enterohemorrhagic E. coli (EHEC)",
+      "Campylobacter jejuni"
+    ],
+    "answerIndex": 0,
+    "explanation": "ETEC produces heat-labile and heat-stable enterotoxins leading to secretory, noninflammatory diarrhea (traveler's diarrhea); the heat-stable toxin activates guanylate cyclase increasing cGMP. Shigella and EHEC cause inflammatory or bloody diarrhea; Campylobacter causes inflammatory diarrhea.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A 25-year-old woman presents with urethritis. Gram stain of urethral discharge shows intracellular gram-negative diplococci. Which pathogen is most likely?",
+    "choices": [
+      "Neisseria gonorrhoeae",
+      "Chlamydia trachomatis",
+      "Ureaplasma urealyticum",
+      "Staphylococcus saprophyticus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Intracellular gram-negative diplococci are characteristic of Neisseria gonorrhoeae, which infects neutrophils and causes purulent urethritis/cervicitis. Chlamydia is an obligate intracellular organism not seen on Gram stain as classic diplococci; Ureaplasma lacks a cell wall.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with suspected bacterial meningitis has Gram-negative, oxidase-positive, kidney-bean shaped diplococci on Gram stain. Which organism is most likely?",
+    "choices": [
+      "Neisseria meningitidis",
+      "Streptococcus pneumoniae",
+      "Listeria monocytogenes",
+      "Haemophilus influenzae type b"
+    ],
+    "answerIndex": 0,
+    "explanation": "Neisseria meningitidis is a gram-negative, oxidase-positive diplococcus with a characteristic kidney-bean shape and is a common cause of meningitis, especially in adolescents and young adults; it can cause rapid septicemia with purpura. S. pneumoniae is gram-positive lancet-shaped diplococcus.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with prolonged antibiotic use presents with profuse watery diarrhea and pseudomembranes on colonoscopy. Which organism is most likely the cause?",
+    "choices": [
+      "Clostridioides difficile (C. difficile)",
+      "Escherichia coli",
+      "Vibrio cholerae",
+      "Salmonella enteritidis"
+    ],
+    "answerIndex": 0,
+    "explanation": "C. difficile (formerly Clostridium difficile) overgrowth after broad-spectrum antibiotics produces toxin-mediated pseudomembranous colitis with pseudomembranes visible on colonoscopy. Diagnosis is by toxin assay or PCR. Treatment includes oral vancomycin or fidaxomicin.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with fever, weight loss, and night sweats has macrophages containing intracellular yeast seen on biopsy from the reticuloendothelial system.",
+    "choices": [
+      "Histoplasma capsulatum",
+      "Blastomyces dermatitidis",
+      "Coccidioides immitis",
+      "Aspergillus fumigatus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Histoplasma capsulatum resides within macrophages as small yeasts and causes disseminated disease in immunocompromised individuals, often presenting with systemic symptoms and hepatosplenomegaly. Blastomyces shows broad-based budding extracellular yeast.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A child presents with pharyngitis and throat culture grows beta-hemolytic, bacitracin-sensitive colonies. Which organism is most likely responsible?",
+    "choices": [
+      "Streptococcus pyogenes (Group A strep)",
+      "Streptococcus agalactiae (Group B)",
+      "Staphylococcus aureus",
+      "Corynebacterium diphtheriae"
+    ],
+    "answerIndex": 0,
+    "explanation": "Group A Streptococcus (Streptococcus pyogenes) is beta-hemolytic and bacitracin-sensitive, commonly causing pharyngitis and tonsillitis; it can lead to rheumatic fever if untreated.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient has erysipelas with sharply demarcated raised red lesion on face. Which organism causes erysipelas?",
+    "choices": [
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa",
+      "Candida albicans"
+    ],
+    "answerIndex": 0,
+    "explanation": "Erysipelas is commonly caused by Streptococcus pyogenes, producing raised, well-demarcated erythematous lesions often on face or legs, associated with systemic symptoms.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A neonate develops seizures and transplacental infection with 'owl's eye' inclusions. Which TORCH pathogen causes this?",
+    "choices": [
+      "CMV (cytomegalovirus)",
+      "Rubella",
+      "Toxoplasma gondii",
+      "HSV-2"
+    ],
+    "answerIndex": 0,
+    "explanation": "CMV is a common congenital infection causing 'owl's eye' intranuclear inclusions, sensorineural hearing loss, and other findings. Rubella and toxoplasma have different pathognomonic features.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with suspected infective endocarditis has blood cultures positive for Streptococcus gallolyticus (formerly S. bovis). Which additional diagnostic evaluation is recommended?",
+    "choices": [
+      "Colonoscopy to evaluate for colorectal neoplasm",
+      "No further workup needed",
+      "HIV testing only",
+      "CT chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "S. gallolyticus bacteremia/endocarditis is associated with underlying colorectal neoplasia; colonoscopy is recommended to evaluate for occult malignancy.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient returns from Africa with tertian fevers every 48 hours and ring forms in RBCs. Which Plasmodium species causes tertian malaria?",
+    "choices": [
+      "Plasmodium falciparum",
+      "Plasmodium vivax/ovale",
+      "Plasmodium malariae",
+      "Babesia microti"
+    ],
+    "answerIndex": 1,
+    "explanation": "P. vivax and P. ovale classically cause tertian fevers (48-hour cycles) and form hypnozoites in the liver, which can relapse; P. falciparum tends to cause severe disease and irregular fevers.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with IV drug use has infective endocarditis due to Staphylococcus aureus. Which virulence factor aids adherence to damaged valves and biofilm formation?",
+    "choices": [
+      "Protein A binding Fc region",
+      "Polysaccharide capsule only",
+      "Fibronectin-binding proteins and surface adhesins",
+      "Lipopolysaccharide"
+    ],
+    "answerIndex": 2,
+    "explanation": "S. aureus expresses adhesins (eg, fibronectin-binding proteins) and surface factors that facilitate adherence to tissues and prosthetic material and promote biofilm formation; protein A binds Fc to evade opsonization.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with urethritis tests positive for Chlamydia trachomatis. Describe its life cycle stages.",
+    "choices": [
+      "Elementary body (infectious) and reticulate body (replicative)",
+      "Spores and hyphae",
+      "Endospores and vegetative bacilli",
+      "L-form and spheroplast"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chlamydia has a biphasic lifecycle: the infectious elementary body enters host cells and transforms into the reticulate body that replicates intracellularly before producing new EBs for release; this underlies its obligate intracellular nature.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient presents with ascending flaccid paralysis after eating home-canned goods. Which organism/toxin is responsible?",
+    "choices": [
+      "Clostridium botulinum (botulinum toxin)",
+      "Clostridium tetani (tetanospasmin)",
+      "Staphylococcus aureus enterotoxin",
+      "Bacillus cereus emetic toxin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Botulinum toxin produced by C. botulinum blocks presynaptic ACh release, causing symmetric descending flaccid paralysis; classically linked to improperly canned foods and honey in neonates.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A traveler develops profuse watery 'rice-water' diarrhea after consuming contaminated shellfish. Which organism matches curved, oxidase-positive rods that grow in alkaline media?",
+    "choices": [
+      "Vibrio cholerae",
+      "Campylobacter jejuni",
+      "Shigella dysenteriae",
+      "Salmonella typhi"
+    ],
+    "answerIndex": 0,
+    "explanation": "V. cholerae is a curved, oxidase-positive gram-negative rod that causes secretory diarrhea via cholera toxin increasing cAMP; it grows in alkaline media. Campylobacter causes inflammatory diarrhea.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A neonate with respiratory distress born to a mother who consumed unpasteurized dairy has bacterial growth at 4°C. Which organism?",
+    "choices": [
+      "Listeria monocytogenes",
+      "Streptococcus agalactiae",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "answerIndex": 0,
+    "explanation": "Listeria monocytogenes is a facultative intracellular gram-positive rod able to grow at cold temperatures (4°C), associated with unpasteurized dairy and neonatal infection; it can cause meningitis in neonates and elderly.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with AIDS has multiple ring-enhancing brain lesions and positive Toxoplasma serology. Which mechanism allows Toxoplasma gondii to cause CNS disease?",
+    "choices": [
+      "Reactivation of latent tissue cysts in immunosuppression",
+      "Active extracellular bacterial proliferation",
+      "Viral lytic infection",
+      "Autoimmune demyelination"
+    ],
+    "answerIndex": 0,
+    "explanation": "Toxoplasma forms tissue cysts (bradyzoites) that can reactivate during immunosuppression causing necrotizing encephalitis; treatment includes pyrimethamine + sulfadiazine with leucovorin.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with cutaneous granulomas after a fish tank injury grows a slow acid-fast bacillus. Which organism?",
+    "choices": [
+      "Mycobacterium marinum",
+      "Mycobacterium tuberculosis",
+      "Nocardia asteroides",
+      "Mycobacterium leprae"
+    ],
+    "answerIndex": 0,
+    "explanation": "M. marinum causes granulomatous skin infections after aquatic exposures and grows optimally at lower temperatures; it is photochromogenic and slow-growing.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with lobar pneumonia and 'currant-jelly' sputum—organism likely in an alcoholic?",
+    "choices": [
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Pseudomonas aeruginosa",
+      "Legionella pneumophila"
+    ],
+    "answerIndex": 0,
+    "explanation": "Klebsiella pneumoniae causes lobar pneumonia with mucoid 'currant-jelly' sputum, particularly in alcoholics and diabetics due to its polysaccharide capsule virulence.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which diagnostic test is most appropriate to rapidly diagnose Legionella pneumophila infection in hospitalized patients?",
+    "choices": [
+      "Urinary antigen test for Legionella",
+      "Sputum Gram stain reliably showing organism",
+      "Blood culture",
+      "Cold agglutinin titer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Urinary antigen testing for Legionella pneumophila serogroup 1 is rapid and useful; culture requires special media (BCYE) and is slower. Cold agglutinins are associated with Mycoplasma pneumoniae.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes neonatal sepsis and is screened for in pregnant women to prevent transmission?",
+    "choices": [
+      "Streptococcus agalactiae (Group B strep)",
+      "Group A strep",
+      "Listeria monocytogenes",
+      "E. coli"
+    ],
+    "answerIndex": 0,
+    "explanation": "Group B Streptococcus colonizes the maternal birth canal and can cause neonatal sepsis and meningitis; intrapartum antibiotic prophylaxis reduces transmission.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient presents with meningitis and Gram-positive lancet-shaped diplococci in CSF—most likely organism?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Listeria monocytogenes",
+      "Haemophilus influenzae"
+    ],
+    "answerIndex": 0,
+    "explanation": "S. pneumoniae is the most common cause of community-acquired bacterial meningitis in adults, appearing as gram-positive lancet-shaped diplococci and producing neutrophilic CSF with low glucose.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which pathogen is associated with gastric adenocarcinoma and MALT lymphoma via chronic inflammation?",
+    "choices": [
+      "Helicobacter pylori",
+      "Escherichia coli",
+      "Salmonella typhi",
+      "Vibrio cholerae"
+    ],
+    "answerIndex": 0,
+    "explanation": "H. pylori chronic infection leads to gastritis, peptic ulcer disease, and increased risk of gastric adenocarcinoma and MALT lymphoma; eradication reduces risk.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient develops candidemia from a central venous catheter. Which Candida species is commonly invasive and a notable lab feature?",
+    "choices": [
+      "Candida albicans; germ tube positive",
+      "Candida auris; easily identified on routine labs",
+      "Aspergillus fumigatus",
+      "Cryptococcus neoformans"
+    ],
+    "answerIndex": 0,
+    "explanation": "Candida albicans is a common cause of invasive candidemia and can form germ tubes in serum; identification and susceptibility testing guide therapy, and catheter removal is often required.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes whooping cough with pertussis toxin that ADP-ribosylates Gi proteins increasing cAMP?",
+    "choices": [
+      "Bordetella pertussis",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pyogenes",
+      "Haemophilus influenzae"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bordetella pertussis produces pertussis toxin that inactivates Gi via ADP-ribosylation, increasing cAMP and causing lymphocytosis and characteristic paroxysmal cough; vaccination prevents disease.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Dark-field microscopy of a painless chancre shows spirochetes—cause?",
+    "choices": [
+      "Treponema pallidum",
+      "Haemophilus ducreyi",
+      "HSV-2",
+      "Chlamydia trachomatis L1-L3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Treponema pallidum causes syphilis with painless chancre and spirochetes visible on dark-field microscopy; confirmatory serology (treponemal tests) follows screening.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with severe fungal meningitis in an HIV patient has encapsulated yeasts on India ink—best diagnostic test?",
+    "choices": [
+      "Cryptococcal antigen (CrAg) in CSF or serum",
+      "Blood culture only",
+      "Galactomannan assay",
+      "KOH prep"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cryptococcal antigen testing in CSF or serum is sensitive and specific for Cryptococcus neoformans; India ink may show encapsulated yeasts but antigen testing is preferred for rapid diagnosis.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism is oxidase-positive, lactose-nonfermenting, and causes hospital-acquired infections with blue-green pigment?",
+    "choices": [
+      "Pseudomonas aeruginosa",
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Enterococcus faecalis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pseudomonas is oxidase-positive and nonfermenting, produces pyocyanin (blue-green pigment), and causes nosocomial infections including ventilator-associated pneumonia and wound infections.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes malaria with highest mortality and irregular fever patterns and can cause cerebral malaria?",
+    "choices": [
+      "Plasmodium falciparum",
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Babesia microti"
+    ],
+    "answerIndex": 0,
+    "explanation": "P. falciparum causes the most severe malaria with potentially fatal complications including cerebral malaria and high parasitemia; prompt diagnosis and treatment are essential.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient with suspected TB—best initial definitive diagnostic test?",
+    "choices": [
+      "Sputum culture and nucleic acid amplification test (NAAT) for Mycobacterium tuberculosis",
+      "Tuberculin skin test only",
+      "Serology for TB antibodies",
+      "Urine antigen test"
+    ],
+    "answerIndex": 0,
+    "explanation": "Definitive diagnosis of active TB relies on microbiologic evidence—sputum NAAT/PCR and culture confirm infection; TST/IGRA indicate exposure but cannot distinguish active disease.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which bacterial structure is primarily responsible for antigenic variation and immune evasion in Neisseria gonorrhoeae?",
+    "choices": [
+      "Pili (type IV pili)",
+      "Capsule",
+      "Lipopolysaccharide O antigen",
+      "Flagella"
+    ],
+    "answerIndex": 0,
+    "explanation": "Neisseria gonorrhoeae undergoes antigenic variation of pili (type IV pili), allowing immune evasion and persistent infection. Capsules and LPS play roles in virulence for other bacteria but pilus variation is key for Neisseria.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which laboratory test differentiates Treponema pallidum infection from non-treponemal false positives?",
+    "choices": [
+      "Treponemal-specific test like FTA-ABS or TP-PA",
+      "RPR alone",
+      "Blood culture",
+      "ELISA for IgM only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Treponemal-specific tests (FTA-ABS, TP-PA) confirm syphilis by detecting antibodies specific for T. pallidum, distinguishing true infection from false-positive non-treponemal tests (VDRL/RPR).",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism is classically associated with osteomyelitis in puncture wounds through the sole of the foot (e.g., stepping on a nail)?",
+    "choices": [
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Enterococcus faecalis",
+      "Clostridium perfringens"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pseudomonas species are commonly implicated in puncture wounds through shoes due to environmental exposure and tolerance of moist conditions; they can cause osteomyelitis especially in diabetic patients.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which viral family includes enveloped, segmented, negative-sense RNA viruses that undergo antigenic shift via reassortment (eg, influenza A)?",
+    "choices": [
+      "Orthomyxoviridae (influenza viruses)",
+      "Paramyxoviridae",
+      "Picornaviridae",
+      "Coronaviridae"
+    ],
+    "answerIndex": 0,
+    "explanation": "Orthomyxoviridae are enveloped, segmented negative-sense RNA viruses; reassortment of segments (antigenic shift) between strains can lead to pandemics (eg, influenza A).",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which stain is most useful to visualize Cryptosporidium oocysts in stool specimens?",
+    "choices": [
+      "Modified acid-fast (Ziehl-Neelsen) stain",
+      "Gram stain",
+      "India ink",
+      "Silver stain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cryptosporidium oocysts stain with modified acid-fast stains (variably acid-fast) and are best visualized in stool with this method; detection is important in immunocompromised patients causing profuse watery diarrhea.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which exotoxin acts as a superantigen causing massive cytokine release and is implicated in toxic shock syndrome?",
+    "choices": [
+      "Staphylococcal toxic shock syndrome toxin-1 (TSST-1)",
+      "Diphtheria toxin",
+      "Shiga toxin",
+      "Cholera toxin"
+    ],
+    "answerIndex": 0,
+    "explanation": "TSST-1 is a superantigen produced by S. aureus that non-specifically activates a large fraction of T cells via MHC-II and TCR Vβ interactions, leading to massive cytokine release and clinical toxic shock.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "A patient develops chronic osteomyelitis after a cat bite. Which organism is characteristically associated with cat bites and can cause severe infections?",
+    "choices": [
+      "Pasteurella multocida",
+      "Streptococcus pyogenes",
+      "Eikenella corrodens",
+      "Bacteroides fragilis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasteurella multocida, a small gram-negative coccobacillus, is commonly associated with animal bite infections (especially cats) and can cause rapid-onset cellulitis and deeper infections if untreated.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes paroxysmal nocturnal hemoglobinuria-like hemolysis in infections by producing Shiga toxin?",
+    "choices": [
+      "EHEC (E. coli O157:H7) causing HUS",
+      "ETEC causing watery diarrhea",
+      "Vibrio cholerae causing secretory diarrhea",
+      "Clostridium difficile causing pseudomembranous colitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "EHEC produces Shiga-like toxin damaging endothelial cells, causing hemolytic uremic syndrome (microangiopathic hemolytic anemia, thrombocytopenia, renal failure). This is distinct from PNH but causes hemolysis due to microangiopathy.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism is most commonly associated with 'rice-water' stool in cholera outbreaks and produces toxin that permanently activates Gs?",
+    "choices": [
+      "Vibrio cholerae",
+      "Shigella dysenteriae",
+      "Enterotoxigenic E. coli",
+      "Rotavirus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cholera toxin ADP-ribosylates Gs, stimulating adenylate cyclase to increase cAMP and causing profuse watery secretory diarrhea. Prompt rehydration is the mainstay of therapy.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which lab method provides definitive identification of mycobacterial species and drug susceptibility and is still considered the gold standard?",
+    "choices": [
+      "Culture of Mycobacterium tuberculosis with drug susceptibility testing",
+      "Tuberculin skin test",
+      "Chest x-ray only",
+      "NAAT alone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Culture of M. tuberculosis with drug susceptibility testing provides definitive identification and is necessary to guide therapy for drug-resistant TB, though it takes time; NAAT is rapid but culture remains gold standard.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes meningitis in adults and is associated with encapsulated gram-positive diplococci with alpha-hemolysis on blood agar and is bile soluble?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Listeria monocytogenes",
+      "Haemophilus influenzae"
+    ],
+    "answerIndex": 0,
+    "explanation": "S. pneumoniae is alpha-hemolytic, bile soluble, optochin-sensitive, and appears as lancet-shaped gram-positive diplococci; it is the most common cause of adult bacterial meningitis.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which exotoxin produced by Corynebacterium diphtheriae inhibits EF-2 via ADP-ribosylation causing pseudomembranous pharyngitis and myocarditis?",
+    "choices": [
+      "Diphtheria toxin",
+      "Tetanospasmin",
+      "Botulinum toxin",
+      "Shiga toxin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diphtheria toxin inactivates elongation factor-2 (EF-2) via ADP-ribosylation leading to inhibition of protein synthesis causing local pseudomembrane formation and systemic effects like myocarditis and neuropathy.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which cell-mediated immune test uses enzymes to detect IFN-γ release after exposure to TB antigens and helps detect latent TB?",
+    "choices": [
+      "Interferon-gamma release assay (IGRA)",
+      "Tuberculin skin test only",
+      "Blood culture",
+      "ELISA for IgG"
+    ],
+    "answerIndex": 0,
+    "explanation": "IGRA measures IFN-γ release by T cells exposed to TB-specific antigens (eg, ESAT-6), useful for detecting latent TB infection and unaffected by prior BCG vaccination.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which organism causes dental caries via acid production from fermentation of sugars and is a gram-positive cocci?",
+    "choices": [
+      "Streptococcus mutans",
+      "Porphyromonas gingivalis",
+      "Actinomyces israelii",
+      "Lactobacillus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Streptococcus mutans metabolizes dietary sugars to lactic acid, demineralizing tooth enamel and initiating dental caries; oral hygiene reduces colonization and caries risk.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which hyphae morphology is characteristic of Mucor and Rhizopus species causing rhinocerebral mucormycosis in uncontrolled diabetics?",
+    "choices": [
+      "Broad, non-septate hyphae with wide-angle (90°) branching",
+      "Septate hyphae with acute-angle branching",
+      "Yeast forms only",
+      "Spherules with endospores"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mucorales (Mucor, Rhizopus) display broad, ribbon-like nonseptate hyphae with irregular wide-angle branching; they invade blood vessels causing tissue necrosis, particularly in diabetic ketoacidosis.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which hospital infection control practice is most effective at reducing transmission of nosocomial pathogens?",
+    "choices": [
+      "Hand hygiene with alcohol-based rubs and handwashing",
+      "Sterilizing all surfaces daily",
+      "Universal antibiotic prophylaxis",
+      "Use of gloves only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hand hygiene (alcohol-based rubs and proper handwashing) is the single most effective measure to prevent healthcare-associated infections; it reduces cross-transmission more than other isolated interventions.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which antifungal inhibits ergosterol synthesis by blocking 14-alpha-demethylase and can interact with many CYP450-metabolized drugs?",
+    "choices": [
+      "Azoles (eg, fluconazole)",
+      "Amphotericin B",
+      "Echinocandins",
+      "Flucytosine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Azoles inhibit fungal 14-alpha-demethylase, impairing ergosterol synthesis; they can inhibit human CYP450 enzymes causing significant drug interactions and hepatotoxicity risks.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which vaccine type uses inactivated toxins to generate immunity against toxin-mediated diseases, such as tetanus?",
+    "choices": [
+      "Toxoid vaccine (inactivated toxin)",
+      "Live-attenuated vaccine",
+      "Subunit polysaccharide vaccine",
+      "mRNA vaccine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Toxoid vaccines use inactivated toxins (eg, tetanus toxoid) to stimulate protective antitoxin antibodies, preventing the pathogenic effects of toxin rather than infection per se.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which staining method is used to visualize fungal elements (eg, Pneumocystis) on respiratory specimens rapidly?",
+    "choices": [
+      "Silver stain (Gomori methenamine silver)",
+      "Gram stain",
+      "Acid-fast stain",
+      "India ink"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gomori methenamine silver (GMS) stain highlights fungal cell walls, including Pneumocystis jirovecii cysts, as black on green background and is commonly used in respiratory specimens.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which mechanism confers bacterial resistance by enzymatic modification of the antibiotic's target site, such as methylation of 23S rRNA conferring macrolide resistance?",
+    "choices": [
+      "Efflux pumps only",
+      "Enzymatic target modification (eg, methylation)",
+      "Porin loss only",
+      "Increased uptake"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bacteria can methylate ribosomal RNA (eg, erm genes methylate 23S rRNA) altering macrolide binding sites and conferring resistance; other mechanisms include efflux pumps and enzymatic degradation.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which virus family includes positive-sense single-stranded RNA viruses with icosahedral capsids and includes poliovirus and rhinovirus?",
+    "choices": [
+      "Picornaviridae",
+      "Flaviviridae",
+      "Orthomyxoviridae",
+      "Paramyxoviridae"
+    ],
+    "answerIndex": 0,
+    "explanation": "Picornaviridae are small, nonenveloped, positive-sense ssRNA viruses including enteroviruses (poliovirus) and rhinoviruses; they often replicate in the cytoplasm and have RNA translated directly.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which protozoan causes amebic dysentery with flask-shaped ulcers and may cause liver abscesses, often transmitted via contaminated water?",
+    "choices": [
+      "Entamoeba histolytica",
+      "Giardia lamblia",
+      "Entamoeba coli",
+      "Trichomonas vaginalis"
+    ],
+    "answerIndex": 0,
+    "explanation": "E. histolytica invades colonic mucosa producing flask-shaped ulcers and may disseminate to cause liver abscesses; diagnosis by stool antigen or serology and treat with metronidazole plus luminal agent.",
+    "difficulty": "hard",
+    "category": "Microbiology"
+  },
+  {
+    "question": "Which Gram-positive organism causes gas gangrene via alpha toxin (phospholipase) and anaerobic infection of wounds?",
+    "choices": [
+      "Clostridium perfringens",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Bacteroides fragilis"
+    ],
+    "answerIndex": 0,
+    "explanation": "C. perfringens produces alpha toxin (lecithinase/phospholipase) causing myonecrosis and gas gangrene; it is an anaerobic, spore-forming gram-positive rod often following trauma.",
+    "difficulty": "medium",
+    "category": "Microbiology"
+  }
+]

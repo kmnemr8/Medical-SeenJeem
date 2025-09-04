@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1001,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1001) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1002,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1003,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1004,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1005,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1006,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1007,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Pancreatitis",
+      "Diverticulitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1008,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1009,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1010,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1010) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1011,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1012,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1013,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Cholecystitis",
+      "Appendicitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1014,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1015,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1016,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1017,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1018,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1019,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1019) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Pancreatitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1020,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1021,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1022,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Flail chest",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1023,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1024,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1025,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1026,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1027,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1028,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1028) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1029,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1030,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Flail chest",
+      "Cardiac tamponade",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1031,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1032,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1033,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1034,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1035,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1036,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1037,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1037) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1038,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1039,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1040,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1041,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1042,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Flail chest",
+      "Tension pneumothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1043,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1044,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Flail chest",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1045,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Appendicitis",
+      "Diverticulitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1046,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1046) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1047,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1048,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1049,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1050,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1051,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Pancreatitis",
+      "Diverticulitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1052,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1053,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1054,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1055,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1055) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1056,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1057,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Diverticulitis",
+      "Pancreatitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1058,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Flail chest",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1059,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1060,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1061,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1062,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1063,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1064,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1064) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1065,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Pancreatitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1066,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1067,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1068,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1069,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1070,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Flail chest",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1071,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Appendicitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1072,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1073,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1073) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1074,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1075,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1076,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1077,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1078,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1079,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1080,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1081,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Cholecystitis",
+      "Appendicitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1082,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1082) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1083,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Diverticulitis",
+      "Pancreatitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1084,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Flail chest",
+      "Cardiac tamponade",
+      "Massive hemothorax",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1085,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Pancreatitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1086,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1087,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1088,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1089,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Appendicitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1090,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1091,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient (case 1091) presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Appendicitis",
+      "Cholecystitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1092,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1093,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Appendicitis",
+      "Pancreatitis",
+      "Diverticulitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1094,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1095,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Appendicitis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1096,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Massive hemothorax",
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Flail chest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1097,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Diverticulitis",
+      "Appendicitis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1098,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "A trauma patient has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Tension pneumothorax",
+      "Massive hemothorax",
+      "Flail chest",
+      "Cardiac tamponade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  },
+  {
+    "id": 1099,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "A 24-year-old patient presents with right lower quadrant abdominal pain, fever, and leukocytosis. Most likely diagnosis?",
+    "choices": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic presentation of acute appendicitis."
+  },
+  {
+    "id": 1100,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "A trauma patient (case 1100) has hypotension, distended neck veins, and absent breath sounds on the right. Most likely diagnosis?",
+    "choices": [
+      "Cardiac tamponade",
+      "Flail chest",
+      "Massive hemothorax",
+      "Tension pneumothorax"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypotension, JVD, absent breath sounds suggests tension pneumothorax."
+  }
+]

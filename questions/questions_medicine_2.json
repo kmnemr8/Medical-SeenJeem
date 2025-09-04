@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 20001,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "18-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20002,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "60-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20003,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "70-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Pneumothorax",
+      "Pneumonia",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 0,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20004,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "18-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Observation",
+      "Metformin and lifestyle modification only",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20005,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Histoplasma capsulatum",
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20006,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20007,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "50-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Peripheral demyelination of motor neurons",
+      "Vascular lacunar infarcts",
+      "Autoimmune demyelination of CNS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20008,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "40-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pneumonia",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20009,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "50-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Metformin and lifestyle modification only",
+      "Observation",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20010,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "50-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20011,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20012,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "34-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20013,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "65-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Pneumonia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20014,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management? The symptoms began several months ago.",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Observation",
+      "Metformin and lifestyle modification only",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20015,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "65-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20016,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20017,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "40-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began 48 hours ago.",
+    "choices": [
+      "Peripheral demyelination of motor neurons",
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Degeneration of dorsal columns (subacute combined degeneration)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20018,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "18-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Myocardial infarction",
+      "Pneumonia",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20019,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Observation",
+      "Metformin and lifestyle modification only",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20020,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20021,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "34-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20022,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "34-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20023,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "22-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumonia",
+      "Myocardial infarction",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20024,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Observation",
+      "Metformin and lifestyle modification only",
+      "Insulin therapy and fluid management",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20025,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "34-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20026,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "70-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20027,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "25-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began several months ago.",
+    "choices": [
+      "Vascular lacunar infarcts",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20028,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "30-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumonia",
+      "Myocardial infarction",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20029,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "60-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Observation",
+      "Metformin and lifestyle modification only",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20030,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "34-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began two weeks ago.",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20031,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20032,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "22-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began several months ago.",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Peripheral demyelination of motor neurons",
+      "Vascular lacunar infarcts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20033,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "55-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Pneumothorax",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20034,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "60-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Observation",
+      "Insulin therapy and fluid management",
+      "Metformin and lifestyle modification only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20035,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20036,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "34-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20037,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "34-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons",
+      "Degeneration of dorsal columns (subacute combined degeneration)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20038,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "45-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumonia",
+      "Pneumothorax",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20039,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "18-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Metformin and lifestyle modification only",
+      "Observation",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20040,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20041,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Heart failure due to ischemic cardiomyopathy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20042,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "22-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Peripheral demyelination of motor neurons",
+      "Vascular lacunar infarcts",
+      "Autoimmune demyelination of CNS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20043,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "30-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Pneumonia",
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20044,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "34-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Sulfonylurea monotherapy",
+      "Observation",
+      "Metformin and lifestyle modification only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20045,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "50-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20046,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "45-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Heart failure due to ischemic cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20047,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "70-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Peripheral demyelination of motor neurons",
+      "Vascular lacunar infarcts",
+      "Degeneration of dorsal columns (subacute combined degeneration)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20048,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "25-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumothorax",
+      "Pneumonia",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20049,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Observation",
+      "Insulin therapy and fluid management",
+      "Metformin and lifestyle modification only",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20050,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began several months ago.",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20051,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Restrictive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20052,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "50-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Peripheral demyelination of motor neurons",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Vascular lacunar infarcts",
+      "Autoimmune demyelination of CNS"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20053,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "50-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pneumonia",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20054,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "45-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Sulfonylurea monotherapy",
+      "Metformin and lifestyle modification only",
+      "Observation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20055,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "70-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum",
+      "Mycoplasma pneumoniae"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20056,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "70-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Heart failure due to ischemic cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Primary pulmonary hypertension"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20057,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "65-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Peripheral demyelination of motor neurons",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20058,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "22-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Pneumonia",
+      "Pneumothorax"
+    ],
+    "answerIndex": 0,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20059,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Insulin therapy and fluid management",
+      "Observation",
+      "Metformin and lifestyle modification only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20060,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "50-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began several months ago.",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20061,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Primary pulmonary hypertension"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20062,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "18-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons",
+      "Autoimmune demyelination of CNS",
+      "Degeneration of dorsal columns (subacute combined degeneration)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20063,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "65-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumothorax",
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20064,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "60-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management? The symptoms began two weeks ago.",
+    "choices": [
+      "Metformin and lifestyle modification only",
+      "Insulin therapy and fluid management",
+      "Observation",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20065,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "18-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20066,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20067,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "18-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Vascular lacunar infarcts",
+      "Autoimmune demyelination of CNS",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20068,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "50-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Myocardial infarction",
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pneumonia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20069,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Metformin and lifestyle modification only",
+      "Observation",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20070,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20071,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Primary pulmonary hypertension"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20072,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "55-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began 48 hours ago.",
+    "choices": [
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons",
+      "Autoimmune demyelination of CNS",
+      "Degeneration of dorsal columns (subacute combined degeneration)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20073,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "40-year-old man with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Myocardial infarction",
+      "Pneumonia",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20074,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Observation",
+      "Insulin therapy and fluid management",
+      "Metformin and lifestyle modification only",
+      "Sulfonylurea monotherapy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20075,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "70-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20076,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Restrictive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20077,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "25-year-old woman with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began 48 hours ago.",
+    "choices": [
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20078,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "45-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Pneumothorax",
+      "Myocardial infarction",
+      "Pneumonia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20079,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "70-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Observation",
+      "Sulfonylurea monotherapy",
+      "Metformin and lifestyle modification only",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20080,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "45-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began two weeks ago.",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20081,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Hypertrophic obstructive cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Primary pulmonary hypertension"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20082,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "40-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Peripheral demyelination of motor neurons",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Vascular lacunar infarcts"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20083,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "30-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pneumonia",
+      "Myocardial infarction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20084,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management? The symptoms began two weeks ago.",
+    "choices": [
+      "Metformin and lifestyle modification only",
+      "Sulfonylurea monotherapy",
+      "Observation",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20085,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began two weeks ago.",
+    "choices": [
+      "Histoplasma capsulatum",
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20086,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Hypertrophic obstructive cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Primary pulmonary hypertension",
+      "Heart failure due to ischemic cardiomyopathy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20087,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "65-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20088,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "50-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Myocardial infarction",
+      "Pneumonia",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20089,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Insulin therapy and fluid management",
+      "Sulfonylurea monotherapy",
+      "Metformin and lifestyle modification only",
+      "Observation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20090,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "55-year-old man with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20091,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old woman with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis?",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20092,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "50-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings? The symptoms began several months ago.",
+    "choices": [
+      "Autoimmune demyelination of CNS",
+      "Vascular lacunar infarcts",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Peripheral demyelination of motor neurons"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20093,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "34-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Pneumonia",
+      "Myocardial infarction",
+      "Pneumothorax",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20094,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "65-year-old woman with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management? The symptoms began 48 hours ago.",
+    "choices": [
+      "Sulfonylurea monotherapy",
+      "Insulin therapy and fluid management",
+      "Observation",
+      "Metformin and lifestyle modification only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20095,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "40-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism? The symptoms began two weeks ago.",
+    "choices": [
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum",
+      "Mycobacterium tuberculosis",
+      "Streptococcus pneumoniae"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20096,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "25-year-old man with progressive exertional dyspnea, orthopnea and lower extremity edema. Exam: JVD and S3. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Primary pulmonary hypertension",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Heart failure due to ischemic cardiomyopathy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clinical signs (JVD, S3, edema, orthopnea) indicate congestive heart failure. In older patients with vascular risk, ischemic cardiomyopathy is a leading cause. Pathophysiology: ischemia and loss of contractile myocardium. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20097,
+    "category": "Medicine",
+    "difficulty": "hard",
+    "question": "55-year-old man with paresthesias and unsteady gait. Labs: macrocytic anemia with low B12. What explains the neurologic findings?",
+    "choices": [
+      "Peripheral demyelination of motor neurons",
+      "Degeneration of dorsal columns (subacute combined degeneration)",
+      "Vascular lacunar infarcts",
+      "Autoimmune demyelination of CNS"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin B12 deficiency produces subacute combined degeneration affecting dorsal columns and lateral corticospinal tracts, causing paresthesia and gait instability. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20098,
+    "category": "Medicine",
+    "difficulty": "easy",
+    "question": "25-year-old woman with sudden unilateral pleuritic chest pain after a long flight, tachycardia, and hypoxemia. Most likely diagnosis?",
+    "choices": [
+      "Myocardial infarction",
+      "Pulmonary embolism",
+      "Pneumonia",
+      "Pneumothorax"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recent prolonged immobilization with acute pleuritic pain and hypoxemia is classic for pulmonary embolism; confirm with imaging (CT pulmonary angiography) and treat promptly. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20099,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "30-year-old man with polyuria, polydipsia, and weight loss. Fasting glucose 320 mg/dL. Initial management?",
+    "choices": [
+      "Metformin and lifestyle modification only",
+      "Observation",
+      "Sulfonylurea monotherapy",
+      "Insulin therapy and fluid management"
+    ],
+    "answerIndex": 3,
+    "explanation": "Marked hyperglycemia with symptomatic presentation suggests insulin therapy initially, especially if ketosis or severe hyperglycemia is present; further chronic therapy can be adjusted later. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20100,
+    "category": "Medicine",
+    "difficulty": "medium",
+    "question": "65-year-old woman with chronic cough, night sweats, and 10 kg weight loss. CXR shows upper lobe cavitary lesion. Most likely organism?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Histoplasma capsulatum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic constitutional symptoms with upper lobe cavitation strongly suggest pulmonary tuberculosis; microbiologic confirmation and public health measures follow. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  }
+]

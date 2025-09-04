@@ -1,0 +1,1302 @@
+[
+  {
+    "question": "During moderate exercise, skeletal muscle blood flow increases dramatically despite sympathetic activation. Which local factor primarily mediates this increase in perfusion?",
+    "choices": [
+      "Decreased adenosine",
+      "Increased local adenosine and metabolites (CO2, H+, K+)",
+      "Decreased temperature",
+      "Increased parasympathetic tone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Active skeletal muscle produces vasodilatory metabolites—adenosine, CO2, H+, K+, and lactate—that override sympathetic vasoconstriction and cause metabolic hyperemia, increasing local blood flow during exercise. Parasympathetic tone is not the primary mediator; temperature changes play a minor role.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 25-year-old patient breathes 100% oxygen. Which statement explains why arterial O2 content only increases modestly if hemoglobin is nearly fully saturated?",
+    "choices": [
+      "Dissolved O2 contributes the majority of O2 content",
+      "Most O2 is bound to hemoglobin; dissolved O2 increases PaO2 but adds little to total content when Hb is saturated",
+      "Hemoglobin concentration rises immediately",
+      "Cardiac output falls"
+    ],
+    "answerIndex": 1,
+    "explanation": "Supplemental oxygen raises PaO2 by increasing dissolved O2, but most oxygen is carried bound to hemoglobin. If hemoglobin is already near full saturation, the additional dissolved O2 contributes only a small amount to total O2 content; hemoglobin concentration doesn't change acutely.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "In SIADH, which electrolyte and volume status best describes the patient?",
+    "choices": [
+      "Hypernatremia and hypovolemia",
+      "Hyponatremia with euvolemia (dilutional) and low serum osmolality",
+      "Hyperkalemia and metabolic alkalosis",
+      "Hypocalcemia and hypervolemia"
+    ],
+    "answerIndex": 1,
+    "explanation": "SIADH causes excessive ADH-mediated water retention leading to dilutional hyponatremia and low serum osmolality; patients are often clinically euvolemic because sodium content is normal but water is expanded. Hypovolemia is not characteristic.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which cardiac event produces the first heart sound (S1) and what does it mark in the cardiac cycle?",
+    "choices": [
+      "Aortic valve closure marking diastole",
+      "Mitral and tricuspid valve closure marking onset of ventricular systole (isovolumetric contraction)",
+      "Pulmonic valve closure marking diastole",
+      "Opening of mitral valve marking ventricular filling"
+    ],
+    "answerIndex": 1,
+    "explanation": "S1 results primarily from closure of the atrioventricular valves (mitral and tricuspid) at the start of ventricular systole during isovolumetric contraction. Aortic and pulmonic valve closures produce S2 at the end of systole.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 35-year-old COPD patient has increased physiologic dead space. What composes physiologic dead space?",
+    "choices": [
+      "Conducting airways only",
+      "Anatomic dead space plus alveolar dead space (ventilated but not perfused)",
+      "Pulmonary capillary blood volume",
+      "Residual volume after maximal exhalation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physiologic dead space includes anatomic dead space (conducting airways) and alveolar dead space (ventilated alveoli that are poorly perfused). It represents wasted ventilation and increases in conditions like pulmonary embolism and some COPD phenotypes.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "During hypovolemia, baroreceptor firing falls. What immediate autonomic response follows?",
+    "choices": [
+      "Increased parasympathetic outflow causing bradycardia",
+      "Increased sympathetic outflow causing tachycardia and vasoconstriction",
+      "Increased vagal tone causing hypotension",
+      "Decreased renin release"
+    ],
+    "answerIndex": 1,
+    "explanation": "Decreased baroreceptor firing triggers increased sympathetic and decreased parasympathetic activity, producing tachycardia, increased contractility, and systemic vasoconstriction to maintain arterial pressure. Renin release actually increases to support longer-term volume restoration.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Using Winter's formula, estimate expected PaCO2 for metabolic acidosis with HCO3− = 12 mEq/L.",
+    "choices": [
+      "~10 mmHg",
+      "~26 mmHg (±2)",
+      "~40 mmHg",
+      "~55 mmHg"
+    ],
+    "answerIndex": 1,
+    "explanation": "Winter's formula approximates expected respiratory compensation: PaCO2 ≈ 1.5 × HCO3− + 8. For HCO3− = 12, PaCO2 ≈ 1.5×12+8 = 26 mmHg (±2), reflecting appropriate hyperventilation compensation.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which renal tubular segment reabsorbs the majority of filtered sodium and water under normal physiology?",
+    "choices": [
+      "Proximal convoluted tubule (PCT)",
+      "Thick ascending limb (TAL)",
+      "Distal convoluted tubule (DCT)",
+      "Collecting duct"
+    ],
+    "answerIndex": 0,
+    "explanation": "The PCT reabsorbs ~65–70% of filtered Na+ and water via isosmotic mechanisms (Na+/H+ exchange, Na+-coupled transporters), with water following solutes. TAL and DCT reabsorb smaller fractions and participate in fine-tuning.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 65-year-old patient with pulmonary edema has worsened hypoxemia when supine. Which physiologic mechanism explains this?",
+    "choices": [
+      "Improved V/Q matching in supine",
+      "Increased venous return raising pulmonary capillary pressures and alveolar flooding, increasing shunt",
+      "Decreased cardiac output improving oxygenation",
+      "Improved diaphragmatic mechanics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Supine positioning increases venous return, raising pulmonary capillary hydrostatic pressure, worsening alveolar flooding in pulmonary edema and increasing intrapulmonary shunt (perfusion without ventilation), thereby worsening hypoxemia.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "What is the immediate effect of inspiration on right and left ventricular stroke volumes in the absence of compensatory mechanisms?",
+    "choices": [
+      "Immediate rise in LV stroke volume",
+      "Transient increase in RV stroke volume followed after a delay by increased LV stroke volume (interventricular transit delay)",
+      "No change",
+      "Immediate decrease in RV output only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Inspiration increases venous return to the right heart, increasing RV stroke volume; after transit through pulmonary circulation, this increases LV preload and stroke volume with a short delay. Intrathoracic pressure changes can transiently alter LV filling.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which gas uptake pattern is described as perfusion-limited?",
+    "choices": [
+      "Gases like CO that are diffusion-limited",
+      "Gases with high diffusion and low solubility (eg, N2O) equilibrating rapidly—uptake limited by blood flow",
+      "Gases that bind tightly to hemoglobin preventing equilibration",
+      "Gases that are trapped in alveoli permanently"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perfusion-limited uptake occurs when alveolar–capillary equilibration is rapid (eg, N2O); further uptake is limited by pulmonary capillary blood flow. Diffusion-limited gases (eg, CO) are limited by membrane diffusion.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which factors shift the oxyhemoglobin dissociation curve to the right (promoting tissue O2 unloading)?",
+    "choices": [
+      "Decreased CO2, increased pH, decreased temperature",
+      "Increased CO2, decreased pH, increased temperature, and increased 2,3-BPG",
+      "Decreased 2,3-BPG",
+      "Presence of fetal hemoglobin"
+    ],
+    "answerIndex": 1,
+    "explanation": "A right shift (Bohr effect) is caused by increased CO2, increased H+ (lower pH), higher temperature, and elevated 2,3-BPG, all of which decrease hemoglobin O2 affinity and facilitate tissue unloading. Fetal hemoglobin causes a left shift.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which vascular bed uses a portal venous system to deliver hypothalamic hormones to the anterior pituitary?",
+    "choices": [
+      "Adrenal medulla",
+      "Hypothalamic-hypophyseal portal system to anterior pituitary",
+      "Thyroid gland",
+      "Posterior pituitary"
+    ],
+    "answerIndex": 1,
+    "explanation": "The hypothalamic-hypophyseal portal system carries hypothalamic releasing/inhibiting hormones directly to the anterior pituitary, allowing concentrated regulation of pituitary hormone release. The posterior pituitary stores and releases hypothalamic hormones but is not supplied by a portal system.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why are multiple cortisol measurements or suppression tests used when suspecting Cushing syndrome?",
+    "choices": [
+      "Cortisol secretion is constant",
+      "Cortisol secretion is pulsatile with diurnal variation so single values can be misleading",
+      "Cortisol is only secreted under stress",
+      "Cortisol levels do not vary clinically"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cortisol has a diurnal rhythm (peak in morning, nadir at night) and pulsatile secretion, so single serum cortisol values may be misleading. Multiple measures (24-h urine, late-night salivary cortisol) or dexamethasone suppression tests help confirm Cushing syndrome.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What does the Frank–Starling mechanism describe?",
+    "choices": [
+      "Increased preload decreases stroke volume",
+      "Within physiologic limits, increased preload increases stroke volume by optimizing sarcomere length and contractile force",
+      "Contractility is independent of preload always",
+      "Afterload increases preload"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Frank–Starling mechanism states that increased end-diastolic volume stretches myocardial fibers, increasing stroke volume (up to an optimal point) because of improved sarcomere overlap and contractile force. Contractility and afterload are separate determinants.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "How does renal artery stenosis lead to hypertension?",
+    "choices": [
+      "Decreased renin release",
+      "Renal hypoperfusion increases renin → angiotensin II → vasoconstriction and aldosterone-mediated sodium retention",
+      "Direct adrenal hyperplasia",
+      "Increased ANP release"
+    ],
+    "answerIndex": 1,
+    "explanation": "Renal ischemia stimulates juxtaglomerular renin release, activating the RAAS cascade; angiotensin II causes vasoconstriction and aldosterone promotes sodium/water retention, elevating blood pressure (renovascular hypertension).",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What is the primary mechanism that concentrates urine when ADH is present?",
+    "choices": [
+      "Active water secretion in collecting duct",
+      "Countercurrent multiplier in loop of Henle creating hyperosmotic medulla and ADH-mediated water permeability in collecting ducts",
+      "Reduced medullary osmolarity",
+      "Increased proximal tubular water loss"
+    ],
+    "answerIndex": 1,
+    "explanation": "The countercurrent multiplier established by the loop of Henle creates a hyperosmotic medullary interstitium; ADH increases aquaporin insertion in collecting ducts allowing water reabsorption down that gradient, concentrating urine. Urea recycling further amplifies medullary osmolarity.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which cranial nerve carries taste from the anterior two-thirds of the tongue?",
+    "choices": [
+      "Glossopharyngeal (CN IX)",
+      "Facial nerve (CN VII) via chorda tympani",
+      "Vagus (CN X)",
+      "Trigeminal (CN V)"
+    ],
+    "answerIndex": 1,
+    "explanation": "The chorda tympani branch of the facial nerve (CN VII) transmits taste from the anterior two-thirds of the tongue and carries parasympathetic fibers involved in salivation. CN IX transmits taste from the posterior third.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "In chronic respiratory acidosis, what renal adaptations occur?",
+    "choices": [
+      "Immediate bicarbonate loss",
+      "Increased HCO3− reabsorption and increased ammoniagenesis (NH4+ excretion) over days",
+      "No renal change",
+      "Decrease in H+ secretion"
+    ],
+    "answerIndex": 1,
+    "explanation": "Renal compensation for chronic respiratory acidosis includes increased bicarbonate reabsorption and enhanced ammoniagenesis with NH4+ excretion to remove acid, raising serum HCO3− over days to weeks.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which physiologic parameter is a major determinant of myocardial oxygen demand?",
+    "choices": [
+      "Systemic venous pressure only",
+      "Heart rate, contractility, and wall tension (wall stress via Laplace law) — with wall tension a key determinant",
+      "Pulmonary capillary pressure only",
+      "Renal blood flow only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myocardial oxygen demand is determined largely by heart rate, contractility, and wall stress (Laplace's law: wall stress ∝ pressure × radius / (2 × wall thickness)); increased wall tension raises oxygen demand and ischemic risk.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why does heliox (helium-oxygen mix) improve airflow in large-airway obstruction?",
+    "choices": [
+      "Helium's high density promotes turbulent flow",
+      "Low density reduces Reynolds number, promoting laminar flow and lowering airway resistance",
+      "Helium acts as a bronchodilator",
+      "Helium increases oxygen-carrying capacity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Helium's low density lowers the Reynolds number, making flow more laminar and decreasing turbulent resistance in narrowed airways; this can improve airflow in large-airway obstruction. Helium has no bronchodilator effect.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What triggers renal erythropoietin production?",
+    "choices": [
+      "Hyperoxia",
+      "Hypoxia sensed by renal peritubular fibroblasts stabilizing HIF and increasing EPO transcription",
+      "High serum hemoglobin",
+      "Increased renal perfusion pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypoxia stabilizes hypoxia-inducible factor (HIF) in renal peritubular cells, upregulating erythropoietin (EPO) production and stimulating erythropoiesis. Increased hemoglobin feeds back to suppress EPO.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 50-year-oldcute respiratory alkalosis from hyperventilation causes which immediate change in ionized calcium?",
+    "choices": [
+      "Increase in ionized calcium causing tetany",
+      "Decrease in ionized calcium causing paresthesias and tetany",
+      "No change in calcium binding",
+      "Increase in serum phosphate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Acute alkalosis increases albumin's binding of calcium, reducing ionized (free) calcium levels and potentially causing paresthesias, muscle cramps, or tetany. Total calcium may be unchanged while ionized fraction decreases.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which system provides fastest ATP for the first ~10 seconds of maximal skeletal muscle activity?",
+    "choices": [
+      "Oxidative phosphorylation",
+      "Phosphocreatine (creatine kinase) system",
+      "Anaerobic glycolysis",
+      "Gluconeogenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "The phosphocreatine system rapidly donates phosphate to ADP via creatine kinase, regenerating ATP for immediate explosive activity lasting about 8–10 seconds, before anaerobic glycolysis and oxidative phosphorylation predominate.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which reflex responds to standing by increasing sympathetic outflow and heart rate?",
+    "choices": [
+      "Chemoreceptor reflex",
+      "Baroreceptor reflex (decreased baroreceptor firing → ↑ sympathetic)",
+      "Cushing reflex",
+      "Oculocardiac reflex"
+    ],
+    "answerIndex": 1,
+    "explanation": "When standing causes transient fall in arterial pressure, baroreceptor firing decreases, leading to increased sympathetic and decreased parasympathetic output—tachycardia and vasoconstriction—to maintain blood pressure.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which type of muscle contraction is seen when a muscle shortens while generating force?",
+    "choices": [
+      "Isometric",
+      "Concentric",
+      "Eccentric",
+      "Reflex only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Concentric contractions involve muscle shortening while generating force (eg, lifting a weight). Eccentric contractions occur when the muscle lengthens under load (eg, lowering a weight); isometric involves tension without length change.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which hormone directly stimulates cortisol production from the adrenal cortex?",
+    "choices": [
+      "CRH",
+      "ACTH",
+      "TSH",
+      "Aldosterone"
+    ],
+    "answerIndex": 1,
+    "explanation": "ACTH from the anterior pituitary directly stimulates cortisol synthesis in the adrenal zona fasciculata; CRH acts upstream on the pituitary. Aldosterone is regulated primarily by the RAAS system.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why does fetal hemoglobin (HbF) have higher O2 affinity than adult hemoglobin (HbA)?",
+    "choices": [
+      "Binds 2,3-BPG more strongly",
+      "Binds 2,3-BPG less strongly due to gamma chains, causing left shift and enhancing placental O2 transfer",
+      "Higher iron content",
+      "Higher P50"
+    ],
+    "answerIndex": 1,
+    "explanation": "HbF (α2γ2) has reduced affinity for 2,3-BPG compared to HbA, increasing its oxygen affinity (left shift) and facilitating transfer of oxygen from maternal to fetal blood across the placenta.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Blocking L-type calcium channels in vascular smooth muscle leads to which immediate effect?",
+    "choices": [
+      "Vasoconstriction",
+      "Arteriolar vasodilation lowering afterload and blood pressure",
+      "Increased AV conduction",
+      "Increased heart rate due to intrinsic effect"
+    ],
+    "answerIndex": 1,
+    "explanation": "L-type calcium channel blockers (especially dihydropyridines) reduce calcium entry into vascular smooth muscle causing arteriolar vasodilation, decreased afterload, and lowered blood pressure; non-dihydropyridine CCBs affect cardiac conduction more.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "How do the kidneys compensate for chronic respiratory acidosis?",
+    "choices": [
+      "Rapid bicarbonate loss",
+      "Increase bicarbonate reabsorption and ammoniagenesis to excrete H+ as NH4+",
+      "Immediate respiratory compensation",
+      "Decrease renin release"
+    ],
+    "answerIndex": 1,
+    "explanation": "Over days, kidneys compensate for chronic respiratory acidosis by increasing bicarbonate reabsorption and generating ammonium (NH4+) for H+ excretion, thereby raising serum HCO3− and partially correcting pH.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why does anemia increase cardiac output at rest?",
+    "choices": [
+      "Decreased sympathetic tone",
+      "Reduced blood viscosity and systemic vascular resistance cause increased stroke volume and heart rate to maintain O2 delivery",
+      "Increased hemoglobin affinity",
+      "Decreased venous return"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anemia lowers oxygen-carrying capacity and blood viscosity; systemic vascular resistance decreases and cardiac output rises (via increased heart rate and stroke volume) to maintain oxygen delivery to tissues.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What underlies the absolute refractory period in neuronal action potentials?",
+    "choices": [
+      "Closed but activatable Na+ channels",
+      "Inactivated Na+ channels that cannot reopen until repolarized",
+      "Persistent K+ conductance only",
+      "Chloride channel activation"
+    ],
+    "answerIndex": 1,
+    "explanation": "During the absolute refractory period, voltage-gated sodium channels are in the inactivated state and cannot be reactivated regardless of stimulus strength until the membrane repolarizes, preventing immediate re-firing.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "In chronic COPD with hypercapnia, which receptor primarily drives ventilation?",
+    "choices": [
+      "Central chemoreceptors responding more strongly",
+      "Peripheral chemoreceptors responding to hypoxia (carotid bodies) become dominant",
+      "Baroreceptors",
+      "Gastric stretch receptors"
+    ],
+    "answerIndex": 1,
+    "explanation": "In chronic hypercapnia, central chemoreceptors adapt to high PaCO2 and their drive diminishes; peripheral chemoreceptors (carotid bodies) responding to hypoxemia become more important for stimulating ventilation, which is why high-flow O2 can depress drive.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which GI hormone stimulates pancreatic bicarbonate secretion in response to acidic chyme?",
+    "choices": [
+      "Gastrin",
+      "Secretin",
+      "CCK",
+      "Motilin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Secretin is released by S cells in the duodenum in response to low pH and stimulates pancreatic duct cells to secrete bicarbonate-rich fluid to neutralize gastric acid and protect the intestine.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "During acute hemorrhage, which immediate endocrine response helps restore blood pressure?",
+    "choices": [
+      "Decreased renin",
+      "Increased renin → angiotensin II → vasoconstriction and aldosterone-mediated retention",
+      "Increased insulin",
+      "Increased ANP"
+    ],
+    "answerIndex": 1,
+    "explanation": "Acute hypovolemia stimulates renin release, increasing angiotensin II that causes vasoconstriction and aldosterone-mediated sodium/water retention, helping restore blood pressure. ANP is released in volume overload, not hemorrhage.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which ionic current produces the plateau (phase 2) of ventricular action potential?",
+    "choices": [
+      "Fast Na+ influx",
+      "L-type Ca2+ influx balanced by K+ efflux",
+      "Slow K+ influx only",
+      "Chloride current"
+    ],
+    "answerIndex": 1,
+    "explanation": "The plateau phase arises from inward L-type Ca2+ current balanced by outward delayed rectifier K+ currents, sustaining depolarization and allowing prolonged contraction for efficient ejection.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why must chronic hyponatremia be corrected slowly?",
+    "choices": [
+      "Rapid correction causes pulmonary edema",
+      "Rapid correction risks osmotic demyelination (central pontine myelinolysis)",
+      "Slow correction causes seizures",
+      "It doesn't matter how fast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rapidly increasing serum sodium in chronic hyponatremia can cause osmotic demyelination syndrome (central pontine myelinolysis) due to osmotic stress on oligodendrocytes; gradual correction is essential to reduce this risk.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why do lipophilic molecules cross cell membranes faster by passive diffusion?",
+    "choices": [
+      "They dissolve better in aqueous phase",
+      "They partition into and diffuse through lipid bilayers more easily, increasing membrane permeability",
+      "They require active transport",
+      "They are repelled by membranes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lipophilic molecules more readily partition into the hydrophobic core of lipid bilayers, allowing faster passive diffusion across membranes. Hydrophilic molecules usually require channels or transporters.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which renal process perpetuates metabolic alkalosis after volume depletion from vomiting?",
+    "choices": [
+      "Bicarbonate excretion increases",
+      "RAAS activation increases bicarbonate reabsorption and H+ secretion, perpetuating alkalosis",
+      "Immediate respiratory compensation corrects it",
+      "Decreased aldosterone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Volume depletion and chloride loss activate RAAS; aldosterone stimulates H+ secretion and bicarbonate reabsorption, maintaining metabolic alkalosis. Repletion of volume and chloride helps correct this disturbance.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which ion primarily determines resting membrane potential in most cells?",
+    "choices": [
+      "Sodium (Na+)",
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Chloride (Cl−)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Resting membrane potential is closest to the potassium equilibrium potential because membrane permeability to K+ predominates at rest; Na+/K+ ATPase maintains gradients but K+ conductance sets the potential.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "What physiologic change at birth reduces pulmonary vascular resistance?",
+    "choices": [
+      "Clamping the cord alone",
+      "Initiation of breathing with alveolar oxygenation causing pulmonary vasodilation",
+      "Closure of foramen ovale increasing resistance",
+      "Systemic hypoxia"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first breaths increase alveolar oxygen tension, causing pulmonary vasodilation and a fall in pulmonary vascular resistance; this increases pulmonary blood flow and facilitates the transition to postnatal circulation.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "In early septic shock, which hemodynamic profile is typical?",
+    "choices": [
+      "High systemic vascular resistance and low cardiac output",
+      "Low systemic vascular resistance with often high cardiac output (hyperdynamic circulation)",
+      "High PCWP and bradycardia",
+      "Profound hypovolemia only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Distributive (septic) shock typically presents with systemic vasodilation (low SVR) and a hyperdynamic circulation with increased cardiac output due to compensatory mechanisms; tissue perfusion may still be inadequate.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which reflex increases gastric acid secretion in response to gastric distention and protein in the meal?",
+    "choices": [
+      "Enterogastric reflex",
+      "Gastrin release (vagal and G-cell mediated)",
+      "Ileogastric reflex",
+      "Cologastric reflex"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gastrin, released by G cells in response to stomach distention, peptides, and vagal stimulation, increases gastric acid secretion and motility; the enterogastric reflex inhibits gastric activity in response to duodenal signals.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What causes a left shift in the oxyhemoglobin dissociation curve that favors O2 uptake in lungs?",
+    "choices": [
+      "Increased temperature and 2,3-BPG",
+      "Decreased temperature, decreased 2,3-BPG, decreased H+ (alkalosis), and fetal hemoglobin",
+      "Acidosis and high CO2",
+      "Exercise-induced increases only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Left shift (higher O2 affinity) is caused by decreased temperature, decreased 2,3-BPG, and alkalosis, and is characteristic of fetal hemoglobin, promoting O2 loading in the lungs. Acidosis, high CO2 and exercise cause right shift.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which natriuretic peptide is released in response to ventricular stretch and promotes natriuresis and vasodilation?",
+    "choices": [
+      "Aldosterone",
+      "BNP (B-type natriuretic peptide)",
+      "ADH",
+      "Renin"
+    ],
+    "answerIndex": 1,
+    "explanation": "BNP is released from ventricular myocytes in response to increased wall stretch, promoting natriuresis, vasodilation, and inhibiting RAAS and sympathetic tone to reduce volume overload.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which transporter in the thick ascending limb is inhibited by loop diuretics and contributes to the lumen-positive potential driving paracellular Ca2+ reabsorption?",
+    "choices": [
+      "ENaC",
+      "Na+-K+-2Cl− cotransporter (NKCC2)",
+      "Na+/glucose cotransporter",
+      "H+-ATPase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Loop diuretics inhibit NKCC2 in the TAL, abolishing the lumen-positive potential that drives paracellular reabsorption of cations including Ca2+ and Mg2+, often resulting in increased urinary calcium excretion.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which sleep stage features rapid eye movements and vivid dreaming?",
+    "choices": [
+      "NREM stage N3 (slow-wave)",
+      "REM sleep",
+      "Stage N1",
+      "Stage N2"
+    ],
+    "answerIndex": 1,
+    "explanation": "REM sleep is characterized by rapid eye movements, muscle atonia, active cortical EEG, and vivid dreaming; it plays roles in memory consolidation and emotional processing.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 31-year-oldt high altitude, increased 2,3-BPG shifts the oxyhemoglobin curve right. What is the physiologic advantage?",
+    "choices": [
+      "Improves maternal–fetal oxygen transfer",
+      "Enhances oxygen unloading to tissues under hypoxic conditions",
+      "Decreases oxygen delivery",
+      "Raises hemoglobin affinity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Increased 2,3-BPG reduces hemoglobin's O2 affinity (right shift), facilitating tissue O2 unloading in hypoxic environments like high altitude, which helps compensate for lower arterial PO2.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which nephron segment is impermeable to water even in presence of ADH, contributing to dilution of tubular fluid?",
+    "choices": [
+      "Descending limb of Henle",
+      "Thick ascending limb of Henle",
+      "Collecting duct",
+      "Proximal tubule"
+    ],
+    "answerIndex": 1,
+    "explanation": "The thick ascending limb is impermeable to water and actively reabsorbs solutes via NKCC2, diluting tubular fluid and contributing to the medullary osmotic gradient necessary for urine concentration.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which mechanism explains increased sympathetic outflow when aortic baroreceptor stretch decreases?",
+    "choices": [
+      "Increased vagal tone",
+      "Decreased baroreceptor firing leading to increased sympathetic and decreased parasympathetic output",
+      "Increased pulmonary stretch receptor activity",
+      "Chemoreceptor-mediated bradycardia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reduced baroreceptor stretch lowers afferent firing to NTS, causing increased sympathetic and decreased parasympathetic outflow, resulting in tachycardia and vasoconstriction to restore blood pressure.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which metabolic pathway predominates in skeletal muscle during prolonged low-intensity exercise?",
+    "choices": [
+      "Phosphocreatine",
+      "Anaerobic glycolysis",
+      "Oxidative phosphorylation (fatty acid oxidation) in mitochondria",
+      "Glycogenolysis only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Prolonged low-intensity exercise relies on oxidative phosphorylation of fatty acids and glucose within mitochondria for efficient ATP generation; phosphocreatine and anaerobic glycolysis supply short-term needs.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why can severe anemia lead to high-output heart failure?",
+    "choices": [
+      "Because anemia increases afterload only",
+      "Low oxygen-carrying capacity causes decreased SVR and increased cardiac output to meet O2 demand; chronic high output can decompensate",
+      "Anemia causes increased blood viscosity",
+      "Anemia lowers heart rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Severe anemia reduces oxygen-carrying capacity, often lowering systemic vascular resistance and increasing cardiac output to maintain tissue oxygenation; sustained high-output states can lead to heart failure symptoms.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which PFT pattern is typical of restrictive lung disease?",
+    "choices": [
+      "Decreased FEV1 with normal or low FVC and low FEV1/FVC",
+      "Decreased FEV1 and FVC with normal or increased FEV1/FVC ratio",
+      "Only decreased FEV1",
+      "Increased residual volume"
+    ],
+    "answerIndex": 1,
+    "explanation": "Restrictive disease reduces both FEV1 and FVC proportionally, so the FEV1/FVC ratio is normal or increased; obstructive disease reduces FEV1 more than FVC, lowering the ratio.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 42-year-oldldosterone acts on principal cells of the collecting duct to increase which processes?",
+    "choices": [
+      "Increase water permeability via AQP2 insertion",
+      "Increase Na+ reabsorption via ENaC and K+ secretion via ROMK",
+      "Inhibit ENaC",
+      "Increase HCO3- secretion only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Aldosterone upregulates ENaC and Na+/K+ ATPase in principal cells, enhancing Na+ reabsorption and K+ secretion. ADH regulates water permeability via AQP2 in collecting ducts.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What causes the hypoxic ventilatory response at high altitude?",
+    "choices": [
+      "Decreased peripheral chemoreceptor sensitivity",
+      "Peripheral chemoreceptors (carotid bodies) respond to low PaO2 increasing ventilation",
+      "Central chemoreceptors sensing CO2 only",
+      "Increased hemoglobin directly causing hypoventilation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peripheral chemoreceptors sense low arterial O2 and stimulate ventilation (hypoxic ventilatory response). Over days, renal compensation adjusts bicarbonate to stabilize pH.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which cardiovascular changes accompany normal pregnancy?",
+    "choices": [
+      "Decreased blood volume and decreased cardiac output",
+      "Increased plasma volume and cardiac output with decreased systemic vascular resistance",
+      "Increased afterload and decreased stroke volume",
+      "Marked bradycardia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pregnancy increases plasma volume and cardiac output (via increased stroke volume and heart rate) to meet metabolic demands; systemic vascular resistance typically decreases, and these changes peak in mid-pregnancy.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "What is the primary trigger for insulin secretion from pancreatic β-cells after a meal?",
+    "choices": [
+      "Low plasma glucose",
+      "High plasma glucose increases ATP/ADP ratio leading to KATP channel closure, depolarization, Ca2+ influx, and insulin release",
+      "High glucagon only",
+      "Vagal inhibition"
+    ],
+    "answerIndex": 1,
+    "explanation": "Glucose metabolism raises the ATP/ADP ratio in β-cells, closing KATP channels, depolarizing the cell, opening voltage-gated Ca2+ channels, and triggering insulin exocytosis; incretins and parasympathetic input modulate release.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "How does acute respiratory compensation respond to metabolic acidosis (eg, diarrhea)?",
+    "choices": [
+      "Hypoventilation to retain CO2",
+      "Hyperventilation (lower PaCO2) to partially compensate for low HCO3−",
+      "No change in ventilation",
+      "Immediate renal correction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metabolic acidosis stimulates ventilation causing hyperventilation (Kussmaul respirations) to lower PaCO2, which partially compensates for decreased HCO3−; renal compensation occurs over days.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which receptor mediates increased heart rate and contractility with sympathetic stimulation?",
+    "choices": [
+      "Muscarinic M2 receptors",
+      "β1-adrenergic receptors",
+      "α1-adrenergic receptors",
+      "Dopamine D2 receptors"
+    ],
+    "answerIndex": 1,
+    "explanation": "β1-adrenergic receptors in the heart increase heart rate (chronotropy), contractility (inotropy), and conduction velocity (dromotropy) via cAMP/PKA-mediated calcium handling enhancement.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Where do loop diuretics act and why do they increase urinary Ca2+ excretion?",
+    "choices": [
+      "Proximal tubule by inhibiting carbonic anhydrase",
+      "Thick ascending limb by blocking NKCC2, reducing lumen-positive potential that drives paracellular Ca2+ reabsorption",
+      "Distal tubule increasing Ca2+ reabsorption",
+      "Collecting duct primarily"
+    ],
+    "answerIndex": 1,
+    "explanation": "Loop diuretics inhibit NKCC2 in the TAL, abolishing the lumen-positive transepithelial potential that drives paracellular reabsorption of Ca2+ and Mg2+, leading to increased urinary calcium loss.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What mechanism preserves cerebral blood flow despite fluctuations in systemic BP?",
+    "choices": [
+      "Baroreceptor reflex exclusively",
+      "Cerebral autoregulation—intrinsic arteriolar constriction/dilation to maintain constant flow",
+      "Vagus nerve control only",
+      "Pulmonary reflexes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cerebral autoregulation uses intrinsic myogenic and metabolic mechanisms to adjust arteriolar tone so cerebral blood flow remains relatively constant across a range of systemic blood pressures, protecting the brain.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "How do loop diuretics perpetuate metabolic alkalosis in volume-contracted states?",
+    "choices": [
+      "They directly reduce aldosterone release",
+      "Volume contraction stimulates RAAS and aldosterone, increasing H+ secretion and bicarbonate reabsorption",
+      "They neutralize bicarbonate",
+      "They increase chloride reabsorption only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Loop diuretics cause volume contraction and RAAS activation; aldosterone promotes H+ secretion and bicarbonate retention, perpetuating metabolic alkalosis until volume and chloride are repleted.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which lung zone at rest has highest V/Q and why?",
+    "choices": [
+      "Zone 3 (base) due to gravity increasing perfusion",
+      "Zone 1 (apex) because perfusion is low relative to ventilation",
+      "Zone 2 is highest",
+      "V/Q uniform"
+    ],
+    "answerIndex": 1,
+    "explanation": "At rest, the apex (zone 1) has relatively high ventilation compared to perfusion because gravity reduces blood flow there, producing a high V/Q approaching dead space. The base has higher perfusion and lower V/Q.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which transporter in the proximal tubule is central to bicarbonate reclamation and is targeted indirectly by carbonic anhydrase inhibitors?",
+    "choices": [
+      "NKCC2",
+      "Na+/H+ exchanger (NHE3) working with carbonic anhydrase",
+      "ENaC",
+      "ROMK"
+    ],
+    "answerIndex": 1,
+    "explanation": "Proximal bicarbonate reclamation depends on NHE3-mediated H+ secretion and carbonic anhydrase-mediated conversion of filtered HCO3− to CO2 and H2O; carbonic anhydrase inhibitors (eg, acetazolamide) reduce bicarbonate reabsorption.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which change occurs in pulmonary circulation at birth enabling increased pulmonary blood flow?",
+    "choices": [
+      "Increase in pulmonary vascular resistance",
+      "Decrease in pulmonary vascular resistance due to increased oxygenation and lung expansion",
+      "New right-to-left shunt formation",
+      "Immediate closure of umbilical arteries only"
+    ],
+    "answerIndex": 1,
+    "explanation": "With first breaths, alveolar oxygen rises and pulmonary vasodilation occurs, dropping pulmonary vascular resistance and increasing pulmonary blood flow, enabling transition from fetal to neonatal circulation.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which hormone increases during stress and promotes gluconeogenesis, lipolysis, and protein catabolism?",
+    "choices": [
+      "Insulin",
+      "Cortisol",
+      "Aldosterone",
+      "GLP-1"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cortisol mobilizes substrates for energy by stimulating gluconeogenesis, promoting lipolysis and proteolysis, and antagonizing insulin effects during stress to ensure adequate glucose availability.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "How does obstructive sleep apnea (OSA) contribute to pulmonary hypertension over time?",
+    "choices": [
+      "OSA causes systemic hypotension only",
+      "Intermittent hypoxia triggers hypoxic pulmonary vasoconstriction and vascular remodeling leading to pulmonary hypertension and right heart strain",
+      "OSA reduces sympathetic activity",
+      "OSA lowers catecholamines"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic intermittent hypoxia in OSA induces repeated pulmonary vasoconstriction and vascular remodeling, increasing pulmonary arterial pressure and right ventricular afterload, potentially causing right heart dysfunction.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which circadian center drives diurnal cortisol variation via CRH/ACTH modulation?",
+    "choices": [
+      "Medulla oblongata",
+      "Suprachiasmatic nucleus (SCN) of hypothalamus",
+      "Pons only",
+      "Cerebellum"
+    ],
+    "answerIndex": 1,
+    "explanation": "The SCN governs circadian rhythms, influencing hypothalamic CRH release and downstream ACTH/cortisol secretion, producing the typical morning cortisol peak and nocturnal nadir.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "During prolonged fasting (~3 days), what becomes the predominant fuel for the brain?",
+    "choices": [
+      "Glucose exclusively",
+      "Ketone bodies (β-hydroxybutyrate) to spare protein",
+      "Free fatty acids directly",
+      "Amino acids only"
+    ],
+    "answerIndex": 1,
+    "explanation": "After prolonged fasting, ketone bodies produced by hepatic ketogenesis (β-hydroxybutyrate) supply a significant portion of brain energy, reducing reliance on gluconeogenesis and sparing muscle protein.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "What does an increased anion gap suggest in metabolic acidosis?",
+    "choices": [
+      "High chloride metabolic acidosis",
+      "Presence of unmeasured anions (lactate, ketones, toxins) causing increased gap",
+      "Low albumin only",
+      "Respiratory acidosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "An increased anion gap indicates accumulation of unmeasured anions such as lactate or ketone bodies, as seen in lactic acidosis, DKA, or toxic ingestions; it helps classify metabolic acidoses.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which structure senses NaCl delivery to the distal tubule and helps regulate GFR via renin?",
+    "choices": [
+      "Afferent arteriole baroreceptors",
+      "Macula densa cells in the distal tubule",
+      "Renal interstitial osmoreceptors",
+      "Collecting duct principal cells"
+    ],
+    "answerIndex": 1,
+    "explanation": "The macula densa senses distal NaCl delivery; low NaCl triggers signals that increase renin release from juxtaglomerular cells and dilate the afferent arteriole to adjust GFR and maintain homeostasis.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "LH stimulation of Leydig cells primarily increases production of which hormone?",
+    "choices": [
+      "Estrogen",
+      "Testosterone",
+      "Inhibin",
+      "Progesterone"
+    ],
+    "answerIndex": 1,
+    "explanation": "LH stimulates Leydig cell steroidogenesis converting cholesterol to testosterone, which supports spermatogenesis and secondary sex characteristics; Sertoli cells produce inhibin.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Pulmonary embolism typically produces which change in arterial blood gases?",
+    "choices": [
+      "Hyperoxia with normal A–a gradient",
+      "Hypoxemia with increased A–a gradient from V/Q mismatch or shunt",
+      "Isolated hypercapnia only",
+      "Normal gases due to compensation"
+    ],
+    "answerIndex": 1,
+    "explanation": "PE causes perfusion defects leading to V/Q mismatch and hypoxemia with an increased alveolar–arterial gradient; hypercapnia is often absent initially due to compensatory hyperventilation.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Fever generation involves which hypothalamic mediator and effect?",
+    "choices": [
+      "Direct muscle infection only",
+      "Pyrogen-mediated PGE2 increase resetting hypothalamic set point, causing vasoconstriction and shivering",
+      "Immediate sweating",
+      "Decreased metabolic rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endogenous pyrogens (eg, IL-1, TNF) induce prostaglandin E2 in the hypothalamus, resetting the thermoregulatory set point upward, prompting vasoconstriction and shivering to increase body temperature.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What renal response follows a high-protein meal to handle nitrogenous waste?",
+    "choices": [
+      "Decrease GFR",
+      "Transient increase in renal blood flow and GFR with increased urea production and ammoniagenesis",
+      "Immediate loss of bicarbonate only",
+      "Reduced renal perfusion"
+    ],
+    "answerIndex": 1,
+    "explanation": "A high-protein meal increases renal blood flow and GFR and enhances urea generation to excrete nitrogen; ammoniagenesis increases to handle acid load from amino acid metabolism.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "During moderate exercise, skeletal muscle blood flow increases dramatically despite sympathetic activation. Which local factor primarily mediates this increase in perfusion? (variant 75)",
+    "choices": [
+      "Decreased adenosine",
+      "Increased local adenosine and metabolites (CO2, H+, K+)",
+      "Decreased temperature",
+      "Increased parasympathetic tone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Active skeletal muscle produces vasodilatory metabolites—adenosine, CO2, H+, K+, and lactate—that override sympathetic vasoconstriction and cause metabolic hyperemia, increasing local blood flow during exercise. Parasympathetic tone is not the primary mediator; temperature changes play a minor role.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 73-year-old patient breathes 100% oxygen. Which statement explains why arterial O2 content only increases modestly if hemoglobin is nearly fully saturated? (variant 76)",
+    "choices": [
+      "Dissolved O2 contributes the majority of O2 content",
+      "Most O2 is bound to hemoglobin; dissolved O2 increases PaO2 but adds little to total content when Hb is saturated",
+      "Hemoglobin concentration rises immediately",
+      "Cardiac output falls"
+    ],
+    "answerIndex": 1,
+    "explanation": "Supplemental oxygen raises PaO2 by increasing dissolved O2, but most oxygen is carried bound to hemoglobin. If hemoglobin is already near full saturation, the additional dissolved O2 contributes only a small amount to total O2 content; hemoglobin concentration doesn't change acutely.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "In SIADH, which electrolyte and volume status best describes the patient? (variant 77)",
+    "choices": [
+      "Hypernatremia and hypovolemia",
+      "Hyponatremia with euvolemia (dilutional) and low serum osmolality",
+      "Hyperkalemia and metabolic alkalosis",
+      "Hypocalcemia and hypervolemia"
+    ],
+    "answerIndex": 1,
+    "explanation": "SIADH causes excessive ADH-mediated water retention leading to dilutional hyponatremia and low serum osmolality; patients are often clinically euvolemic because sodium content is normal but water is expanded. Hypovolemia is not characteristic.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which cardiac event produces the first heart sound (S1) and what does it mark in the cardiac cycle? (variant 78)",
+    "choices": [
+      "Aortic valve closure marking diastole",
+      "Mitral and tricuspid valve closure marking onset of ventricular systole (isovolumetric contraction)",
+      "Pulmonic valve closure marking diastole",
+      "Opening of mitral valve marking ventricular filling"
+    ],
+    "answerIndex": 1,
+    "explanation": "S1 results primarily from closure of the atrioventricular valves (mitral and tricuspid) at the start of ventricular systole during isovolumetric contraction. Aortic and pulmonic valve closures produce S2 at the end of systole.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 30-year-old COPD patient has increased physiologic dead space. What composes physiologic dead space? (variant 79)",
+    "choices": [
+      "Conducting airways only",
+      "Anatomic dead space plus alveolar dead space (ventilated but not perfused)",
+      "Pulmonary capillary blood volume",
+      "Residual volume after maximal exhalation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physiologic dead space includes anatomic dead space (conducting airways) and alveolar dead space (ventilated alveoli that are poorly perfused). It represents wasted ventilation and increases in conditions like pulmonary embolism and some COPD phenotypes.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "During hypovolemia, baroreceptor firing falls. What immediate autonomic response follows? (variant 80)",
+    "choices": [
+      "Increased parasympathetic outflow causing bradycardia",
+      "Increased sympathetic outflow causing tachycardia and vasoconstriction",
+      "Increased vagal tone causing hypotension",
+      "Decreased renin release"
+    ],
+    "answerIndex": 1,
+    "explanation": "Decreased baroreceptor firing triggers increased sympathetic and decreased parasympathetic activity, producing tachycardia, increased contractility, and systemic vasoconstriction to maintain arterial pressure. Renin release actually increases to support longer-term volume restoration.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Using Winter's formula, estimate expected PaCO2 for metabolic acidosis with HCO3− = 12 mEq/L. (variant 81)",
+    "choices": [
+      "~10 mmHg",
+      "~26 mmHg (±2)",
+      "~40 mmHg",
+      "~55 mmHg"
+    ],
+    "answerIndex": 1,
+    "explanation": "Winter's formula approximates expected respiratory compensation: PaCO2 ≈ 1.5 × HCO3− + 8. For HCO3− = 12, PaCO2 ≈ 1.5×12+8 = 26 mmHg (±2), reflecting appropriate hyperventilation compensation.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which renal tubular segment reabsorbs the majority of filtered sodium and water under normal physiology? (variant 82)",
+    "choices": [
+      "Proximal convoluted tubule (PCT)",
+      "Thick ascending limb (TAL)",
+      "Distal convoluted tubule (DCT)",
+      "Collecting duct"
+    ],
+    "answerIndex": 0,
+    "explanation": "The PCT reabsorbs ~65–70% of filtered Na+ and water via isosmotic mechanisms (Na+/H+ exchange, Na+-coupled transporters), with water following solutes. TAL and DCT reabsorb smaller fractions and participate in fine-tuning.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 60-year-old patient with pulmonary edema has worsened hypoxemia when supine. Which physiologic mechanism explains this? (variant 83)",
+    "choices": [
+      "Improved V/Q matching in supine",
+      "Increased venous return raising pulmonary capillary pressures and alveolar flooding, increasing shunt",
+      "Decreased cardiac output improving oxygenation",
+      "Improved diaphragmatic mechanics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Supine positioning increases venous return, raising pulmonary capillary hydrostatic pressure, worsening alveolar flooding in pulmonary edema and increasing intrapulmonary shunt (perfusion without ventilation), thereby worsening hypoxemia.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "What is the immediate effect of inspiration on right and left ventricular stroke volumes in the absence of compensatory mechanisms? (variant 84)",
+    "choices": [
+      "Immediate rise in LV stroke volume",
+      "Transient increase in RV stroke volume followed after a delay by increased LV stroke volume (interventricular transit delay)",
+      "No change",
+      "Immediate decrease in RV output only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Inspiration increases venous return to the right heart, increasing RV stroke volume; after transit through pulmonary circulation, this increases LV preload and stroke volume with a short delay. Intrathoracic pressure changes can transiently alter LV filling.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which gas uptake pattern is described as perfusion-limited? (variant 85)",
+    "choices": [
+      "Gases like CO that are diffusion-limited",
+      "Gases with high diffusion and low solubility (eg, N2O) equilibrating rapidly—uptake limited by blood flow",
+      "Gases that bind tightly to hemoglobin preventing equilibration",
+      "Gases that are trapped in alveoli permanently"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perfusion-limited uptake occurs when alveolar–capillary equilibration is rapid (eg, N2O); further uptake is limited by pulmonary capillary blood flow. Diffusion-limited gases (eg, CO) are limited by membrane diffusion.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which factors shift the oxyhemoglobin dissociation curve to the right (promoting tissue O2 unloading)? (variant 86)",
+    "choices": [
+      "Decreased CO2, increased pH, decreased temperature",
+      "Increased CO2, decreased pH, increased temperature, and increased 2,3-BPG",
+      "Decreased 2,3-BPG",
+      "Presence of fetal hemoglobin"
+    ],
+    "answerIndex": 1,
+    "explanation": "A right shift (Bohr effect) is caused by increased CO2, increased H+ (lower pH), higher temperature, and elevated 2,3-BPG, all of which decrease hemoglobin O2 affinity and facilitate tissue unloading. Fetal hemoglobin causes a left shift.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which vascular bed uses a portal venous system to deliver hypothalamic hormones to the anterior pituitary? (variant 87)",
+    "choices": [
+      "Adrenal medulla",
+      "Hypothalamic-hypophyseal portal system to anterior pituitary",
+      "Thyroid gland",
+      "Posterior pituitary"
+    ],
+    "answerIndex": 1,
+    "explanation": "The hypothalamic-hypophyseal portal system carries hypothalamic releasing/inhibiting hormones directly to the anterior pituitary, allowing concentrated regulation of pituitary hormone release. The posterior pituitary stores and releases hypothalamic hormones but is not supplied by a portal system.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why are multiple cortisol measurements or suppression tests used when suspecting Cushing syndrome? (variant 88)",
+    "choices": [
+      "Cortisol secretion is constant",
+      "Cortisol secretion is pulsatile with diurnal variation so single values can be misleading",
+      "Cortisol is only secreted under stress",
+      "Cortisol levels do not vary clinically"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cortisol has a diurnal rhythm (peak in morning, nadir at night) and pulsatile secretion, so single serum cortisol values may be misleading. Multiple measures (24-h urine, late-night salivary cortisol) or dexamethasone suppression tests help confirm Cushing syndrome.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What does the Frank–Starling mechanism describe? (variant 89)",
+    "choices": [
+      "Increased preload decreases stroke volume",
+      "Within physiologic limits, increased preload increases stroke volume by optimizing sarcomere length and contractile force",
+      "Contractility is independent of preload always",
+      "Afterload increases preload"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Frank–Starling mechanism states that increased end-diastolic volume stretches myocardial fibers, increasing stroke volume (up to an optimal point) because of improved sarcomere overlap and contractile force. Contractility and afterload are separate determinants.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "How does renal artery stenosis lead to hypertension? (variant 90)",
+    "choices": [
+      "Decreased renin release",
+      "Renal hypoperfusion increases renin → angiotensin II → vasoconstriction and aldosterone-mediated sodium retention",
+      "Direct adrenal hyperplasia",
+      "Increased ANP release"
+    ],
+    "answerIndex": 1,
+    "explanation": "Renal ischemia stimulates juxtaglomerular renin release, activating the RAAS cascade; angiotensin II causes vasoconstriction and aldosterone promotes sodium/water retention, elevating blood pressure (renovascular hypertension).",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What is the primary mechanism that concentrates urine when ADH is present? (variant 91)",
+    "choices": [
+      "Active water secretion in collecting duct",
+      "Countercurrent multiplier in loop of Henle creating hyperosmotic medulla and ADH-mediated water permeability in collecting ducts",
+      "Reduced medullary osmolarity",
+      "Increased proximal tubular water loss"
+    ],
+    "answerIndex": 1,
+    "explanation": "The countercurrent multiplier established by the loop of Henle creates a hyperosmotic medullary interstitium; ADH increases aquaporin insertion in collecting ducts allowing water reabsorption down that gradient, concentrating urine. Urea recycling further amplifies medullary osmolarity.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which cranial nerve carries taste from the anterior two-thirds of the tongue? (variant 92)",
+    "choices": [
+      "Glossopharyngeal (CN IX)",
+      "Facial nerve (CN VII) via chorda tympani",
+      "Vagus (CN X)",
+      "Trigeminal (CN V)"
+    ],
+    "answerIndex": 1,
+    "explanation": "The chorda tympani branch of the facial nerve (CN VII) transmits taste from the anterior two-thirds of the tongue and carries parasympathetic fibers involved in salivation. CN IX transmits taste from the posterior third.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "In chronic respiratory acidosis, what renal adaptations occur? (variant 93)",
+    "choices": [
+      "Immediate bicarbonate loss",
+      "Increased HCO3− reabsorption and increased ammoniagenesis (NH4+ excretion) over days",
+      "No renal change",
+      "Decrease in H+ secretion"
+    ],
+    "answerIndex": 1,
+    "explanation": "Renal compensation for chronic respiratory acidosis includes increased bicarbonate reabsorption and enhanced ammoniagenesis with NH4+ excretion to remove acid, raising serum HCO3− over days to weeks.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which physiologic parameter is a major determinant of myocardial oxygen demand? (variant 94)",
+    "choices": [
+      "Systemic venous pressure only",
+      "Heart rate, contractility, and wall tension (wall stress via Laplace law) — with wall tension a key determinant",
+      "Pulmonary capillary pressure only",
+      "Renal blood flow only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myocardial oxygen demand is determined largely by heart rate, contractility, and wall stress (Laplace's law: wall stress ∝ pressure × radius / (2 × wall thickness)); increased wall tension raises oxygen demand and ischemic risk.",
+    "difficulty": "hard",
+    "category": "Physiology"
+  },
+  {
+    "question": "Why does heliox (helium-oxygen mix) improve airflow in large-airway obstruction? (variant 95)",
+    "choices": [
+      "Helium's high density promotes turbulent flow",
+      "Low density reduces Reynolds number, promoting laminar flow and lowering airway resistance",
+      "Helium acts as a bronchodilator",
+      "Helium increases oxygen-carrying capacity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Helium's low density lowers the Reynolds number, making flow more laminar and decreasing turbulent resistance in narrowed airways; this can improve airflow in large-airway obstruction. Helium has no bronchodilator effect.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "What triggers renal erythropoietin production? (variant 96)",
+    "choices": [
+      "Hyperoxia",
+      "Hypoxia sensed by renal peritubular fibroblasts stabilizing HIF and increasing EPO transcription",
+      "High serum hemoglobin",
+      "Increased renal perfusion pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypoxia stabilizes hypoxia-inducible factor (HIF) in renal peritubular cells, upregulating erythropoietin (EPO) production and stimulating erythropoiesis. Increased hemoglobin feeds back to suppress EPO.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "A 41-year-oldcute respiratory alkalosis from hyperventilation causes which immediate change in ionized calcium? (variant 97)",
+    "choices": [
+      "Increase in ionized calcium causing tetany",
+      "Decrease in ionized calcium causing paresthesias and tetany",
+      "No change in calcium binding",
+      "Increase in serum phosphate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Acute alkalosis increases albumin's binding of calcium, reducing ionized (free) calcium levels and potentially causing paresthesias, muscle cramps, or tetany. Total calcium may be unchanged while ionized fraction decreases.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which system provides fastest ATP for the first ~10 seconds of maximal skeletal muscle activity? (variant 98)",
+    "choices": [
+      "Oxidative phosphorylation",
+      "Phosphocreatine (creatine kinase) system",
+      "Anaerobic glycolysis",
+      "Gluconeogenesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "The phosphocreatine system rapidly donates phosphate to ADP via creatine kinase, regenerating ATP for immediate explosive activity lasting about 8–10 seconds, before anaerobic glycolysis and oxidative phosphorylation predominate.",
+    "difficulty": "easy",
+    "category": "Physiology"
+  },
+  {
+    "question": "Which reflex responds to standing by increasing sympathetic outflow and heart rate? (variant 99)",
+    "choices": [
+      "Chemoreceptor reflex",
+      "Baroreceptor reflex (decreased baroreceptor firing → ↑ sympathetic)",
+      "Cushing reflex",
+      "Oculocardiac reflex"
+    ],
+    "answerIndex": 1,
+    "explanation": "When standing causes transient fall in arterial pressure, baroreceptor firing decreases, leading to increased sympathetic and decreased parasympathetic output—tachycardia and vasoconstriction—to maintain blood pressure.",
+    "difficulty": "medium",
+    "category": "Physiology"
+  }
+]

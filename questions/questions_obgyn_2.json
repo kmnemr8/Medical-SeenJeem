@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 20301,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "60-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20302,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "18-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ovarian cyst",
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20303,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "25-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI",
+      "Pulmonary embolism",
+      "Wound infection only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20304,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "25-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20305,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20306,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "50-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20307,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "22-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20308,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "30-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20309,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "22-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20310,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "30-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20311,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "50-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20312,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "40-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "UTI",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20313,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "34-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20314,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "25-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20315,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "60-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism",
+      "UTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20316,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "22-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Manual removal of placenta",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20317,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "30-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20318,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "60-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism",
+      "UTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20319,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "55-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20320,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "22-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began 48 hours ago.",
+    "choices": [
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20321,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "25-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "Pulmonary embolism",
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20322,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "45-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20323,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "22-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began several months ago.",
+    "choices": [
+      "Molar pregnancy",
+      "Ovarian cyst",
+      "Ectopic pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20324,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "18-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20325,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "55-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20326,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began several months ago.",
+    "choices": [
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20327,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "55-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Wound infection only",
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20328,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "18-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20329,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "30-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20330,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "50-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20331,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "50-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20332,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "50-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20333,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "60-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Wound infection only",
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20334,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "45-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20335,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "60-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20336,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "22-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Wound infection only",
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20337,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "18-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20338,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "22-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20339,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "30-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20340,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "40-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20341,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "22-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20342,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "65-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "UTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20343,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "25-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20344,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "34-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Ovarian cyst",
+      "Normal early pregnancy",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20345,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "45-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Pulmonary embolism",
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20346,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "45-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Administer tocolytics",
+      "Immediate induction of labor",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20347,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "18-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst",
+      "Ectopic pregnancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20348,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "25-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Wound infection only",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20349,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "55-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20350,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "25-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began two weeks ago.",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20351,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "70-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Pulmonary embolism",
+      "Wound infection only",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20352,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "60-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began two weeks ago.",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20353,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began 48 hours ago.",
+    "choices": [
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20354,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "60-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism",
+      "UTI",
+      "Wound infection only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20355,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "45-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20356,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "30-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began two weeks ago.",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20357,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "50-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20358,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "40-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Administer tocolytics",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20359,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "34-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20360,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "34-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism",
+      "Wound infection only",
+      "UTI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20361,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "65-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20362,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "40-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began several months ago.",
+    "choices": [
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20363,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "34-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism",
+      "Wound infection only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20364,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "60-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20365,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "18-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ovarian cyst",
+      "Normal early pregnancy",
+      "Ectopic pregnancy",
+      "Molar pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20366,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "55-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "Pulmonary embolism",
+      "UTI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20367,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "45-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20368,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20369,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "22-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "UTI",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20370,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "25-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20371,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "65-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began 48 hours ago.",
+    "choices": [
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20372,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "34-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20373,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "34-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Immediate induction of labor",
+      "Manual removal of placenta",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20374,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "60-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20375,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "25-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "UTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20376,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "22-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Immediate induction of labor",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20377,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "55-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Normal early pregnancy",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20378,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "65-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Wound infection only",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20379,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "60-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Administer tocolytics",
+      "Immediate induction of labor",
+      "Manual removal of placenta",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20380,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "45-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20381,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "70-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only",
+      "UTI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20382,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "25-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20383,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Normal early pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 1,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20384,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "45-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI",
+      "Wound infection only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20385,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "50-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20386,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "22-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Molar pregnancy",
+      "Ovarian cyst",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20387,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "50-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Wound infection only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20388,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "60-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20389,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "50-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ectopic pregnancy",
+      "Ovarian cyst",
+      "Molar pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 0,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20390,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "70-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "UTI",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20391,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "40-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Manual removal of placenta",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20392,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "70-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began several months ago.",
+    "choices": [
+      "Molar pregnancy",
+      "Normal early pregnancy",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20393,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "50-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Wound infection only",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "UTI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20394,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "70-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation? The symptoms began several months ago.",
+    "choices": [
+      "Immediate induction of labor",
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Administer tocolytics",
+      "Manual removal of placenta"
+    ],
+    "answerIndex": 1,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20395,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "65-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern?",
+    "choices": [
+      "Ovarian cyst",
+      "Molar pregnancy",
+      "Ectopic pregnancy",
+      "Normal early pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20396,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "18-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "UTI",
+      "Wound infection only",
+      "Pulmonary embolism",
+      "Postpartum endometritis — broad-spectrum antibiotics"
+    ],
+    "answerIndex": 3,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20397,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "22-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Manual removal of placenta",
+      "Administer tocolytics",
+      "Immediate induction of labor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20398,
+    "category": "OBGYN",
+    "difficulty": "easy",
+    "question": "30-year-old with amenorrhea and positive pregnancy test; transvaginal ultrasound shows no intrauterine sac and plateauing β‑hCG. Concern? The symptoms began several months ago.",
+    "choices": [
+      "Ovarian cyst",
+      "Normal early pregnancy",
+      "Ectopic pregnancy",
+      "Molar pregnancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "No intrauterine sac and plateauing hCG suggest ectopic pregnancy; further evaluation and management are needed to avoid rupture. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20399,
+    "category": "OBGYN",
+    "difficulty": "hard",
+    "question": "45-year-old postpartum on day 4 with fever, uterine tenderness, and foul lochia. Most likely diagnosis?",
+    "choices": [
+      "Wound infection only",
+      "UTI",
+      "Postpartum endometritis — broad-spectrum antibiotics",
+      "Pulmonary embolism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Endometritis typically presents with fever and uterine tenderness in the postpartum period and requires broad-spectrum antibiotics targeting mixed vaginal flora. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20400,
+    "category": "OBGYN",
+    "difficulty": "medium",
+    "question": "50-year-old pregnant at 34 weeks with painless vaginal bleeding. Ultrasound suggests placenta previa. Immediate recommendation?",
+    "choices": [
+      "Avoid vaginal exam and prepare for delivery based on bleeding severity",
+      "Immediate induction of labor",
+      "Manual removal of placenta",
+      "Administer tocolytics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Painless third-trimester bleeding with placenta previa necessitates avoiding vaginal exam and planning management depending on bleeding and fetal status. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  }
+]

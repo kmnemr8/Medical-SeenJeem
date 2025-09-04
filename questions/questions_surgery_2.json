@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 20101,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "55-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20102,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "25-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action? The symptoms began two weeks ago.",
+    "choices": [
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20103,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "25-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "HIDA scan first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20104,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "50-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20105,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "45-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20106,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20107,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "65-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20108,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "70-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20109,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "22-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "HIDA scan first",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "CT abdomen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20110,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "65-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20111,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "55-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20112,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "CT abdomen",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20113,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "18-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Conservative management only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20114,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "60-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20115,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "RUQ ultrasound",
+      "HIDA scan first",
+      "CT abdomen",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20116,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "60-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20117,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "60-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20118,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "CT abdomen",
+      "RUQ ultrasound",
+      "HIDA scan first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20119,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "22-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20120,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "18-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast",
+      "Observation in ICU"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20121,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "HIDA scan first",
+      "Abdominal X-ray",
+      "CT abdomen",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20122,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began two weeks ago.",
+    "choices": [
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20123,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "34-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20124,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "RUQ ultrasound",
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20125,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "55-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began 48 hours ago.",
+    "choices": [
+      "Conservative management only",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20126,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "25-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20127,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "HIDA scan first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20128,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Conservative management only",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20129,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "18-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20130,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "22-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "RUQ ultrasound",
+      "HIDA scan first",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20131,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "70-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20132,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "18-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action? The symptoms began several months ago.",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20133,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "HIDA scan first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20134,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "65-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20135,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "55-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast",
+      "Observation in ICU"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20136,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "60-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging? The symptoms began two weeks ago.",
+    "choices": [
+      "RUQ ultrasound",
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20137,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "50-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Endoscopy",
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20138,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "40-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20139,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "65-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "RUQ ultrasound",
+      "HIDA scan first",
+      "CT abdomen",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20140,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began 48 hours ago.",
+    "choices": [
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20141,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "65-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20142,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20143,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Surgical evaluation for appendectomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20144,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "22-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20145,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging? The symptoms began 48 hours ago.",
+    "choices": [
+      "RUQ ultrasound",
+      "CT abdomen",
+      "HIDA scan first",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20146,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "18-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20147,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "25-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20148,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "18-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "RUQ ultrasound",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "CT abdomen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20149,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "60-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20150,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "45-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20151,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "CT abdomen",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20152,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "60-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20153,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "40-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20154,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "CT abdomen",
+      "HIDA scan first"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20155,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "55-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20156,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "60-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20157,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "HIDA scan first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20158,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20159,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "45-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20160,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "65-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "RUQ ultrasound",
+      "HIDA scan first",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20161,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "30-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began 48 hours ago.",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20162,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "70-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action? The symptoms began two weeks ago.",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast",
+      "Observation in ICU",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20163,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20164,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "40-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20165,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "18-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20166,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging? The symptoms began two weeks ago.",
+    "choices": [
+      "RUQ ultrasound",
+      "CT abdomen",
+      "HIDA scan first",
+      "Abdominal X-ray"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20167,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "50-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began 48 hours ago.",
+    "choices": [
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20168,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "40-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20169,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "30-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "HIDA scan first",
+      "CT abdomen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20170,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "18-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "Conservative management only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20171,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "65-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20172,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "70-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound",
+      "CT abdomen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20173,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "50-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20174,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "18-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20175,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging? The symptoms began two weeks ago.",
+    "choices": [
+      "HIDA scan first",
+      "Abdominal X-ray",
+      "RUQ ultrasound",
+      "CT abdomen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20176,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "65-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20177,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "55-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Diagnostic laparoscopy later",
+      "Observation in ICU",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20178,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "22-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "RUQ ultrasound",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "CT abdomen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20179,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "50-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20180,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "25-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast",
+      "Diagnostic laparoscopy later",
+      "Observation in ICU"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20181,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "70-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound",
+      "CT abdomen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20182,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "40-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20183,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "40-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20184,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "18-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20185,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "25-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain",
+      "Conservative management only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20186,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "34-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Immediate exploratory laparotomy",
+      "Observation in ICU",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20187,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "18-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "RUQ ultrasound",
+      "Abdominal X-ray",
+      "HIDA scan first"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20188,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "34-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began 48 hours ago.",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20189,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "25-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action? The symptoms began several months ago.",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Observation in ICU",
+      "CT abdomen with contrast",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20190,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "50-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "CT abdomen",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20191,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "25-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step? The symptoms began several months ago.",
+    "choices": [
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "Conservative management only",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20192,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "60-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action? The symptoms began several months ago.",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "CT abdomen with contrast"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20193,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "55-year-old woman with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging? The symptoms began 48 hours ago.",
+    "choices": [
+      "RUQ ultrasound",
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "CT abdomen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20194,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "65-year-old woman with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy",
+      "Surgical evaluation for appendectomy",
+      "Conservative management only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20195,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "40-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "Diagnostic laparoscopy later",
+      "CT abdomen with contrast",
+      "Observation in ICU",
+      "Immediate exploratory laparotomy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20196,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "40-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "Abdominal X-ray",
+      "HIDA scan first",
+      "RUQ ultrasound",
+      "CT abdomen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20197,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "25-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "Endoscopy",
+      "CT abdomen if diagnosis uncertain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20198,
+    "category": "Surgery",
+    "difficulty": "hard",
+    "question": "22-year-old trauma patient with hypotension and abdominal distension after high-speed crash. FAST positive for free fluid. Next action?",
+    "choices": [
+      "CT abdomen with contrast",
+      "Observation in ICU",
+      "Immediate exploratory laparotomy",
+      "Diagnostic laparoscopy later"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hemodynamically unstable trauma with positive FAST indicates likely intra-abdominal hemorrhage and need for urgent laparotomy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20199,
+    "category": "Surgery",
+    "difficulty": "easy",
+    "question": "45-year-old man with acute RUQ pain after fatty meal, fever, leukocytosis, Murphy sign positive. Initial imaging?",
+    "choices": [
+      "HIDA scan first",
+      "CT abdomen",
+      "Abdominal X-ray",
+      "RUQ ultrasound"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultrasound is the initial test for suspected acute cholecystitis; it can identify gallstones, wall thickening, and pericholecystic fluid. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20200,
+    "category": "Surgery",
+    "difficulty": "medium",
+    "question": "18-year-old man with acute RLQ pain, nausea, and fever. Tenderness at McBurney point. Best next step?",
+    "choices": [
+      "Conservative management only",
+      "Surgical evaluation for appendectomy",
+      "CT abdomen if diagnosis uncertain",
+      "Endoscopy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classic appendicitis presentation warrants surgical consultation; imaging may be used if signs are atypical. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  }
+]

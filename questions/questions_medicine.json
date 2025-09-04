@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "category": "Cardiology",
+    "difficulty": "medium",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Pericarditis",
+      "Unstable angina",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 2,
+    "category": "Cardiology",
+    "difficulty": "hard",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Bed rest and analgesia",
+      "Immediate IV antibiotics",
+      "Start thrombolysis",
+      "Emergent surgical consultation for possible aortic injury"
+    ],
+    "answerIndex": 3,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 3,
+    "category": "Pulmonology",
+    "difficulty": "medium",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Oral montelukast",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Long-acting beta agonist",
+      "Inhaled corticosteroid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 4,
+    "category": "Pulmonology",
+    "difficulty": "easy",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Alpha-glucosidase inhibitor",
+      "Metformin",
+      "Sulfonylurea",
+      "Insulin pump immediate therapy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 5,
+    "category": "Endocrinology",
+    "difficulty": "medium",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Oncocytoma",
+      "Transitional cell carcinoma",
+      "Wilms tumor",
+      "Renal cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 6,
+    "category": "Endocrinology",
+    "difficulty": "hard",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Central hypothyroidism",
+      "Subclinical hypothyroidism",
+      "Euthyroid sick syndrome",
+      "Primary hyperthyroidism (Graves disease likely)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 7,
+    "category": "Nephrology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Isolated hematuria",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Nephritic syndrome with RBC casts"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 8,
+    "category": "Nephrology",
+    "difficulty": "hard",
+    "question": "A patient (case 8) with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "High-dose loop diuretics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 9,
+    "category": "Gastroenterology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe",
+      "Oral antibiotics at home",
+      "CT head before LP if focal signs or papilledema"
+    ],
+    "answerIndex": 3,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 10,
+    "category": "Gastroenterology",
+    "difficulty": "easy",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Pericarditis",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 11,
+    "category": "Infectious Diseases",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Bed rest and analgesia",
+      "Start thrombolysis",
+      "Emergent surgical consultation for possible aortic injury",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 12,
+    "category": "Infectious Diseases",
+    "difficulty": "hard",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Inhaled corticosteroid",
+      "Oral montelukast",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Long-acting beta agonist"
+    ],
+    "answerIndex": 2,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 13,
+    "category": "Hematology",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Metformin",
+      "Sulfonylurea",
+      "Insulin pump immediate therapy",
+      "Alpha-glucosidase inhibitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 14,
+    "category": "Hematology",
+    "difficulty": "hard",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Wilms tumor",
+      "Transitional cell carcinoma",
+      "Renal cell carcinoma",
+      "Oncocytoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 15,
+    "category": "Rheumatology",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Subclinical hypothyroidism",
+      "Euthyroid sick syndrome",
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Central hypothyroidism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 16,
+    "category": "Neurology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Isolated hematuria",
+      "Nephritic syndrome with RBC casts",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 17,
+    "category": "Neurology",
+    "difficulty": "hard",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately",
+      "High-dose loop diuretics only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 18,
+    "category": "Dermatology",
+    "difficulty": "easy",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe",
+      "CT head before LP if focal signs or papilledema",
+      "Oral antibiotics at home"
+    ],
+    "answerIndex": 2,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 19,
+    "category": "Dermatology",
+    "difficulty": "medium",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Pericarditis",
+      "Aortic stenosis",
+      "Unstable angina",
+      "Stable angina due to fixed atherosclerotic narrowing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 20,
+    "category": "General Medicine",
+    "difficulty": "easy",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Emergent surgical consultation for possible aortic injury",
+      "Bed rest and analgesia",
+      "Start thrombolysis",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 21,
+    "category": "Cardiology",
+    "difficulty": "medium",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Short-acting beta-2 agonist (albuterol)",
+      "Inhaled corticosteroid",
+      "Long-acting beta agonist",
+      "Oral montelukast"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 22,
+    "category": "Cardiology",
+    "difficulty": "hard",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Metformin",
+      "Sulfonylurea",
+      "Alpha-glucosidase inhibitor",
+      "Insulin pump immediate therapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 23,
+    "category": "Pulmonology",
+    "difficulty": "medium",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Wilms tumor",
+      "Oncocytoma",
+      "Transitional cell carcinoma",
+      "Renal cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 24,
+    "category": "Pulmonology",
+    "difficulty": "easy",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Subclinical hypothyroidism",
+      "Euthyroid sick syndrome",
+      "Central hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 25,
+    "category": "Endocrinology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Nephritic syndrome with RBC casts",
+      "Isolated hematuria",
+      "Acute tubular necrosis pattern"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 26,
+    "category": "Endocrinology",
+    "difficulty": "hard",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Liver transplant immediately",
+      "High-dose loop diuretics only",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "Surgical peritoneovenous shunt as first-line"
+    ],
+    "answerIndex": 2,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 27,
+    "category": "Nephrology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Oral antibiotics at home",
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe",
+      "CT head before LP if focal signs or papilledema"
+    ],
+    "answerIndex": 3,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 28,
+    "category": "Nephrology",
+    "difficulty": "hard",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Pericarditis",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 29,
+    "category": "Gastroenterology",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Emergent surgical consultation for possible aortic injury",
+      "Bed rest and analgesia",
+      "Start thrombolysis",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 30,
+    "category": "Gastroenterology",
+    "difficulty": "easy",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Long-acting beta agonist",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Oral montelukast",
+      "Inhaled corticosteroid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 31,
+    "category": "Infectious Diseases",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Insulin pump immediate therapy",
+      "Metformin",
+      "Alpha-glucosidase inhibitor",
+      "Sulfonylurea"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 32,
+    "category": "Infectious Diseases",
+    "difficulty": "hard",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Oncocytoma",
+      "Wilms tumor",
+      "Renal cell carcinoma",
+      "Transitional cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 33,
+    "category": "Hematology",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Subclinical hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Euthyroid sick syndrome",
+      "Central hypothyroidism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 34,
+    "category": "Hematology",
+    "difficulty": "hard",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts",
+      "Isolated hematuria",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 35,
+    "category": "Rheumatology",
+    "difficulty": "medium",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "Surgical peritoneovenous shunt as first-line",
+      "High-dose loop diuretics only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 36,
+    "category": "Neurology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Oral antibiotics at home",
+      "CT head before LP if focal signs or papilledema",
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe"
+    ],
+    "answerIndex": 1,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 37,
+    "category": "Neurology",
+    "difficulty": "hard",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis",
+      "Unstable angina",
+      "Pericarditis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 38,
+    "category": "Dermatology",
+    "difficulty": "easy",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Emergent surgical consultation for possible aortic injury",
+      "Bed rest and analgesia",
+      "Start thrombolysis",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 39,
+    "category": "Dermatology",
+    "difficulty": "medium",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Short-acting beta-2 agonist (albuterol)",
+      "Inhaled corticosteroid",
+      "Oral montelukast",
+      "Long-acting beta agonist"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 40,
+    "category": "General Medicine",
+    "difficulty": "easy",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Metformin",
+      "Sulfonylurea",
+      "Alpha-glucosidase inhibitor",
+      "Insulin pump immediate therapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 41,
+    "category": "Cardiology",
+    "difficulty": "medium",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Renal cell carcinoma",
+      "Transitional cell carcinoma",
+      "Oncocytoma",
+      "Wilms tumor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 42,
+    "category": "Cardiology",
+    "difficulty": "hard",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Central hypothyroidism",
+      "Subclinical hypothyroidism",
+      "Euthyroid sick syndrome"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 43,
+    "category": "Pulmonology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Isolated hematuria",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 44,
+    "category": "Pulmonology",
+    "difficulty": "easy",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "High-dose loop diuretics only",
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 45,
+    "category": "Endocrinology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "CT head before LP if focal signs or papilledema",
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe",
+      "Oral antibiotics at home"
+    ],
+    "answerIndex": 0,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 46,
+    "category": "Endocrinology",
+    "difficulty": "hard",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Aortic stenosis",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Pericarditis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 47,
+    "category": "Nephrology",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Start thrombolysis",
+      "Bed rest and analgesia",
+      "Emergent surgical consultation for possible aortic injury",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 2,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 48,
+    "category": "Nephrology",
+    "difficulty": "hard",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Long-acting beta agonist",
+      "Oral montelukast",
+      "Inhaled corticosteroid",
+      "Short-acting beta-2 agonist (albuterol)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 49,
+    "category": "Gastroenterology",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Alpha-glucosidase inhibitor",
+      "Insulin pump immediate therapy",
+      "Metformin",
+      "Sulfonylurea"
+    ],
+    "answerIndex": 2,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 50,
+    "category": "Gastroenterology",
+    "difficulty": "easy",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Wilms tumor",
+      "Oncocytoma",
+      "Renal cell carcinoma",
+      "Transitional cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 51,
+    "category": "Infectious Diseases",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Central hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Subclinical hypothyroidism",
+      "Euthyroid sick syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 52,
+    "category": "Infectious Diseases",
+    "difficulty": "hard",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts",
+      "Isolated hematuria",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 53,
+    "category": "Hematology",
+    "difficulty": "medium",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "High-dose loop diuretics only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 54,
+    "category": "Hematology",
+    "difficulty": "hard",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Start broad-spectrum IV antibiotics after LP",
+      "Wait and observe",
+      "Oral antibiotics at home",
+      "CT head before LP if focal signs or papilledema"
+    ],
+    "answerIndex": 3,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 55,
+    "category": "Rheumatology",
+    "difficulty": "medium",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Pericarditis",
+      "Aortic stenosis",
+      "Stable angina due to fixed atherosclerotic narrowing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 56,
+    "category": "Neurology",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Emergent surgical consultation for possible aortic injury",
+      "Start thrombolysis",
+      "Bed rest and analgesia",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 57,
+    "category": "Neurology",
+    "difficulty": "hard",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Long-acting beta agonist",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Oral montelukast",
+      "Inhaled corticosteroid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 58,
+    "category": "Dermatology",
+    "difficulty": "easy",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Sulfonylurea",
+      "Alpha-glucosidase inhibitor",
+      "Insulin pump immediate therapy",
+      "Metformin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 59,
+    "category": "Dermatology",
+    "difficulty": "medium",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Wilms tumor",
+      "Oncocytoma",
+      "Transitional cell carcinoma",
+      "Renal cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 60,
+    "category": "General Medicine",
+    "difficulty": "easy",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Euthyroid sick syndrome",
+      "Central hypothyroidism",
+      "Subclinical hypothyroidism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 61,
+    "category": "Cardiology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Isolated hematuria"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 62,
+    "category": "Cardiology",
+    "difficulty": "hard",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Liver transplant immediately",
+      "High-dose loop diuretics only",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "Surgical peritoneovenous shunt as first-line"
+    ],
+    "answerIndex": 2,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 63,
+    "category": "Pulmonology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Oral antibiotics at home",
+      "Wait and observe",
+      "Start broad-spectrum IV antibiotics after LP",
+      "CT head before LP if focal signs or papilledema"
+    ],
+    "answerIndex": 3,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 64,
+    "category": "Pulmonology",
+    "difficulty": "easy",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Pericarditis",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 65,
+    "category": "Endocrinology",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Start thrombolysis",
+      "Emergent surgical consultation for possible aortic injury",
+      "Immediate IV antibiotics",
+      "Bed rest and analgesia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 66,
+    "category": "Endocrinology",
+    "difficulty": "hard",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Inhaled corticosteroid",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Oral montelukast",
+      "Long-acting beta agonist"
+    ],
+    "answerIndex": 1,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 67,
+    "category": "Nephrology",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Alpha-glucosidase inhibitor",
+      "Sulfonylurea",
+      "Insulin pump immediate therapy",
+      "Metformin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 68,
+    "category": "Nephrology",
+    "difficulty": "hard",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Oncocytoma",
+      "Renal cell carcinoma",
+      "Wilms tumor",
+      "Transitional cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 69,
+    "category": "Gastroenterology",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Subclinical hypothyroidism",
+      "Central hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Euthyroid sick syndrome"
+    ],
+    "answerIndex": 2,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 70,
+    "category": "Gastroenterology",
+    "difficulty": "easy",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Isolated hematuria",
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 71,
+    "category": "Infectious Diseases",
+    "difficulty": "medium",
+    "question": "A patient (case 71) with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Surgical peritoneovenous shunt as first-line",
+      "High-dose loop diuretics only",
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 72,
+    "category": "Infectious Diseases",
+    "difficulty": "hard",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "CT head before LP if focal signs or papilledema",
+      "Start broad-spectrum IV antibiotics after LP",
+      "Oral antibiotics at home",
+      "Wait and observe"
+    ],
+    "answerIndex": 0,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 73,
+    "category": "Hematology",
+    "difficulty": "medium",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis",
+      "Pericarditis",
+      "Unstable angina"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 74,
+    "category": "Hematology",
+    "difficulty": "hard",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Bed rest and analgesia",
+      "Emergent surgical consultation for possible aortic injury",
+      "Immediate IV antibiotics",
+      "Start thrombolysis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 75,
+    "category": "Rheumatology",
+    "difficulty": "medium",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Short-acting beta-2 agonist (albuterol)",
+      "Long-acting beta agonist",
+      "Oral montelukast",
+      "Inhaled corticosteroid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 76,
+    "category": "Neurology",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Metformin",
+      "Insulin pump immediate therapy",
+      "Sulfonylurea",
+      "Alpha-glucosidase inhibitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 77,
+    "category": "Neurology",
+    "difficulty": "hard",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Transitional cell carcinoma",
+      "Wilms tumor",
+      "Renal cell carcinoma",
+      "Oncocytoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 78,
+    "category": "Dermatology",
+    "difficulty": "easy",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Euthyroid sick syndrome",
+      "Central hypothyroidism",
+      "Subclinical hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 79,
+    "category": "Dermatology",
+    "difficulty": "medium",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Isolated hematuria",
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 80,
+    "category": "General Medicine",
+    "difficulty": "easy",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "High-dose loop diuretics only",
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately"
+    ],
+    "answerIndex": 0,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 81,
+    "category": "Cardiology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Start broad-spectrum IV antibiotics after LP",
+      "Oral antibiotics at home",
+      "CT head before LP if focal signs or papilledema",
+      "Wait and observe"
+    ],
+    "answerIndex": 2,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 82,
+    "category": "Cardiology",
+    "difficulty": "hard",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Unstable angina",
+      "Pericarditis",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 83,
+    "category": "Pulmonology",
+    "difficulty": "medium",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Immediate IV antibiotics",
+      "Start thrombolysis",
+      "Bed rest and analgesia",
+      "Emergent surgical consultation for possible aortic injury"
+    ],
+    "answerIndex": 3,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 84,
+    "category": "Pulmonology",
+    "difficulty": "easy",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Short-acting beta-2 agonist (albuterol)",
+      "Inhaled corticosteroid",
+      "Oral montelukast",
+      "Long-acting beta agonist"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 85,
+    "category": "Endocrinology",
+    "difficulty": "medium",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Alpha-glucosidase inhibitor",
+      "Insulin pump immediate therapy",
+      "Metformin",
+      "Sulfonylurea"
+    ],
+    "answerIndex": 2,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 86,
+    "category": "Endocrinology",
+    "difficulty": "hard",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Wilms tumor",
+      "Transitional cell carcinoma",
+      "Oncocytoma",
+      "Renal cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 87,
+    "category": "Nephrology",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Euthyroid sick syndrome",
+      "Subclinical hypothyroidism",
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Central hypothyroidism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 88,
+    "category": "Nephrology",
+    "difficulty": "hard",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Acute tubular necrosis pattern",
+      "Nephritic syndrome with RBC casts",
+      "Isolated hematuria",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 89,
+    "category": "Gastroenterology",
+    "difficulty": "medium",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "High-dose loop diuretics only",
+      "Liver transplant immediately",
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "Surgical peritoneovenous shunt as first-line"
+    ],
+    "answerIndex": 2,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 90,
+    "category": "Gastroenterology",
+    "difficulty": "easy",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "Oral antibiotics at home",
+      "CT head before LP if focal signs or papilledema",
+      "Wait and observe",
+      "Start broad-spectrum IV antibiotics after LP"
+    ],
+    "answerIndex": 1,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 91,
+    "category": "Infectious Diseases",
+    "difficulty": "medium",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Aortic stenosis",
+      "Unstable angina",
+      "Pericarditis",
+      "Stable angina due to fixed atherosclerotic narrowing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  },
+  {
+    "id": 92,
+    "category": "Infectious Diseases",
+    "difficulty": "hard",
+    "question": "A 72-year-old woman presents with sudden onset severe chest pain and hypotension after blunt chest trauma. Chest X‑ray shows widened mediastinum. What is the most urgent next step?",
+    "choices": [
+      "Emergent surgical consultation for possible aortic injury",
+      "Bed rest and analgesia",
+      "Start thrombolysis",
+      "Immediate IV antibiotics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Widened mediastinum after trauma raises concern for aortic injury — requires urgent surgical evaluation."
+  },
+  {
+    "id": 93,
+    "category": "Hematology",
+    "difficulty": "medium",
+    "question": "A 24-year-old woman with asthma develops wheeze and uses albuterol with good response. Which medication provides best immediate relief of bronchospasm?",
+    "choices": [
+      "Inhaled corticosteroid",
+      "Oral montelukast",
+      "Short-acting beta-2 agonist (albuterol)",
+      "Long-acting beta agonist"
+    ],
+    "answerIndex": 2,
+    "explanation": "Short-acting beta-2 agonists are first-line for immediate bronchodilation in asthma exacerbation."
+  },
+  {
+    "id": 94,
+    "category": "Hematology",
+    "difficulty": "hard",
+    "question": "A 45-year-old man with type 2 diabetes has polyuria and polydipsia. Fasting glucose is 280 mg/dL. Which is first-line therapy?",
+    "choices": [
+      "Metformin",
+      "Insulin pump immediate therapy",
+      "Sulfonylurea",
+      "Alpha-glucosidase inhibitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is first-line for type 2 diabetes unless contraindicated."
+  },
+  {
+    "id": 95,
+    "category": "Rheumatology",
+    "difficulty": "medium",
+    "question": "A 67-year-old man presents with hematuria and flank mass; imaging reveals a renal mass. Which is the most likely primary renal malignancy?",
+    "choices": [
+      "Oncocytoma",
+      "Wilms tumor",
+      "Transitional cell carcinoma",
+      "Renal cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Renal cell carcinoma commonly presents with hematuria and flank mass in older adults."
+  },
+  {
+    "id": 96,
+    "category": "Neurology",
+    "difficulty": "medium",
+    "question": "A 30-year-old woman has weight loss, heat intolerance, palpitations, and tremor. TSH is suppressed and free T4 elevated. Most likely diagnosis?",
+    "choices": [
+      "Primary hyperthyroidism (Graves disease likely)",
+      "Central hypothyroidism",
+      "Euthyroid sick syndrome",
+      "Subclinical hypothyroidism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low TSH with elevated T4 indicates primary hyperthyroidism; in young women Graves' disease is a common cause."
+  },
+  {
+    "id": 97,
+    "category": "Neurology",
+    "difficulty": "hard",
+    "question": "A 55-year-old man with long-standing diabetes has proteinuria 4 g/day and edema. Which pattern fits diabetic nephropathy?",
+    "choices": [
+      "Nephritic syndrome with RBC casts",
+      "Acute tubular necrosis pattern",
+      "Nephrotic syndrome with heavy proteinuria and hypoalbuminemia",
+      "Isolated hematuria"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diabetic nephropathy typically causes nephrotic-range proteinuria leading to hypoalbuminemia and edema."
+  },
+  {
+    "id": 98,
+    "category": "Dermatology",
+    "difficulty": "easy",
+    "question": "A patient with cirrhosis develops tense ascites. Which is the best initial management for symptomatic ascites?",
+    "choices": [
+      "Immediate paracentesis with albumin replacement if large-volume",
+      "High-dose loop diuretics only",
+      "Surgical peritoneovenous shunt as first-line",
+      "Liver transplant immediately"
+    ],
+    "answerIndex": 0,
+    "explanation": "Large-volume paracentesis relieves tense ascites; albumin is given when >5L removed to prevent circulatory dysfunction."
+  },
+  {
+    "id": 99,
+    "category": "Dermatology",
+    "difficulty": "medium",
+    "question": "A 21-year-old college student with fever, headache, and neck stiffness. Kernig and Brudzinski signs positive. Next best step?",
+    "choices": [
+      "CT head before LP if focal signs or papilledema",
+      "Start broad-spectrum IV antibiotics after LP",
+      "Oral antibiotics at home",
+      "Wait and observe"
+    ],
+    "answerIndex": 0,
+    "explanation": "In suspected meningitis, perform CT prior to LP if there are focal neurologic signs or papilledema; otherwise LP and immediate antibiotics."
+  },
+  {
+    "id": 100,
+    "category": "General Medicine",
+    "difficulty": "easy",
+    "question": "A 58-year-old man with hypertension and exertional chest pain has ST depressions on exercise ECG. Which is the most likely diagnosis?",
+    "choices": [
+      "Pericarditis",
+      "Unstable angina",
+      "Stable angina due to fixed atherosclerotic narrowing",
+      "Aortic stenosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exertional chest pain relieved by rest with ischemic changes on stress testing suggests stable angina from fixed coronary stenosis."
+  }
+]

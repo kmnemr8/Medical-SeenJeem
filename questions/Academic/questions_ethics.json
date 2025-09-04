@@ -1,0 +1,834 @@
+[
+  {
+    "question": "A 78-year-old man with advanced dementia is admitted for pneumonia. His advance directive states 'no intubation' but his daughter insists on full aggressive care including mechanical ventilation. What is the ethically appropriate action?",
+    "choices": [
+      "Agree with daughter and intubate immediately",
+      "Follow the patient's advance directive and refuse intubation",
+      "Ask the healthcare team to vote",
+      "Ignore directives and seek court order"
+    ],
+    "answerIndex": 1,
+    "explanation": "Advance directives express the patient's autonomous wishes and should guide care when applicable. If valid and applicable, clinicians should follow the patient's directive even if family disagrees. Communication with family to explain rationale is essential; court involvement is rarely needed initially.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A 16-year-old pregnant adolescent seeks termination of pregnancy but requests confidentiality from her parents. In jurisdictions where minors may consent to reproductive health services, what should the clinician do?",
+    "choices": [
+      "Notify parents regardless of minor's wishes",
+      "Respect the adolescent's confidentiality and provide care if allowed by law",
+      "Refuse care until parents consent",
+      "Report to child protective services"
+    ],
+    "answerIndex": 1,
+    "explanation": "Many jurisdictions permit minors to consent to reproductive and sexual health services; when the law allows, clinicians should respect confidentiality to promote access to care and trust. Clinicians must be aware of local laws and provide counseling and support while ensuring safety.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A surgeon realizes during an operation that she accidentally nicked a nearby structure causing additional harm. What is the ethically appropriate next step regarding disclosure?",
+    "choices": [
+      "Conceal the mistake to avoid litigation",
+      "Disclose the error to the patient/family promptly and apologize, and document appropriately",
+      "Wait until postoperative day 30 to mention",
+      "Ask another surgeon to cover it up"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethical standards support prompt, honest disclosure of medical errors to patients and families, including explanation of what happened, implications, and steps taken to rectify or mitigate harm. Open disclosure fosters trust and is often required by institutional policy and professional guidelines.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with terminal cancer requests physician-assisted dying in a jurisdiction where it is legal. What key ethical elements must be confirmed before proceeding?",
+    "choices": [
+      "Only the physician's personal beliefs",
+      "Patient decision-making capacity, voluntariness, informed consent, terminal prognosis per legal criteria",
+      "Family consent only",
+      "Insurance approval"
+    ],
+    "answerIndex": 1,
+    "explanation": "Where physician-assisted dying is lawful, safeguards typically require confirmation of capacity, voluntariness (no coercion), informed consent, and meeting statutory criteria for prognosis and waiting periods. Clinicians must follow legal protocols and document thoroughly.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A resident is asked to see a colleague suspected of impaired performance due to substance misuse. What is the ethically responsible action?",
+    "choices": [
+      "Ignore to avoid conflict",
+      "Report concerns to appropriate supervisory personnel or physician health program per institutional policy to protect patients and assist colleague",
+      "Confront colleague privately and do nothing else",
+      "Spread rumors among staff"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physicians have an obligation to protect patients by reporting impairment per institutional policy while also facilitating help for the impaired colleague. Confidential reporting channels and physician health programs aim to balance safety and rehabilitation; ignoring would risk patient harm.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A research team is conducting a randomized controlled trial. A participant asks whether they are receiving active drug or placebo. What should the investigator tell the participant during the trial?",
+    "choices": [
+      "Reveal the assignment immediately",
+      "Explain that blinding is in place and provide general information; unblind only if medically necessary or per protocol",
+      "Lie about assignment",
+      "Withdraw participant without explanation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maintaining blinding preserves study integrity; participants should be informed about the possibility of placebo and the importance of blinding during consent. Unblinding is permissible when medically necessary for participant safety or per protocol; provide appropriate support if unblinded.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient requests access to her medical record and finds notes she perceives as stigmatizing. What is an appropriate clinician response?",
+    "choices": [
+      "Deny access to records",
+      "Engage the patient in discussion, correct factual errors, and consider amending language to be respectful/document disagreement",
+      "Delete the notes",
+      "Ignore the complaint"
+    ],
+    "answerIndex": 1,
+    "explanation": "Patients have rights to access their records; clinicians should address concerns by correcting factual inaccuracies and, if appropriate, amending language to maintain respectful, nonjudgmental documentation. Deleting records is not appropriate; transparent communication preserves trust.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "During triage after a mass casualty incident, resources are limited. Which triage principle ethically guides allocation to maximize overall lives saved?",
+    "choices": [
+      "First-come, first-served always",
+      "Utilitarian approach prioritizing those most likely to survive with intervention",
+      "Prioritize the wealthy",
+      "Random lottery always"
+    ],
+    "answerIndex": 1,
+    "explanation": "In mass casualty settings, utilitarian triage aims to maximize lives saved by prioritizing patients with the best chance of benefit; while ethically fraught, this approach is commonly used in disaster triage protocols. Fairness, transparency, and consistent criteria are important.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A physician discovers a breach of patient confidentiality on social media when an intern posted a photo from the ward. What is the appropriate response?",
+    "choices": [
+      "Like the post and ignore",
+      "Remove the content, report the breach to institutional compliance, inform affected patients if required, and provide remediation/education",
+      "Celebrate the intern's initiative",
+      "Delete the intern's account silently"
+    ],
+    "answerIndex": 1,
+    "explanation": "Breach of confidentiality on social media requires prompt removal of identifying content, notification of institutional privacy/compliance teams, assessment of harm, and education or disciplinary action. Transparency and appropriate remediation protect patients and maintain professionalism.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with diminished capacity has no advance directive and no family. A neurologist believes withdrawal of life-sustaining treatment is appropriate. Who should make decisions for the patient?",
+    "choices": [
+      "The treating physician alone",
+      "A court-appointed guardian or surrogate decision-maker per legal hierarchy; if none, follow institutional policies involving ethics consultation",
+      "Nurses only",
+      "Hospital CEO by default"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a patient lacks capacity and no surrogate exists, decision-making follows legal hierarchies or requires appointment of a guardian or involvement of ethics committees and courts. Clinicians should not unilaterally withdraw life-sustaining treatment without appropriate legal and ethical process.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician is offered a substantial gift from a pharmaceutical company to attend a sponsored conference. What is the ethically appropriate action?",
+    "choices": [
+      "Accept all gifts regardless of source",
+      "Decline or follow institutional conflict-of-interest policies and disclose the offer; avoid gifts that might influence prescribing",
+      "Accept secretly and do not disclose",
+      "Demand more gifts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinicians should recognize conflicts of interest; many institutions prohibit or limit gifts from pharmaceutical companies that could influence clinical judgment. Disclosure and adherence to policies protect professional integrity and patient trust.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient is enrolled in a clinical trial testing a new therapy. They state they want to withdraw from the trial. What is the ethically appropriate response?",
+    "choices": [
+      "Deny withdrawal; enforce participation",
+      "Respect the participant's right to withdraw at any time without penalty and explain consequences for treatment options",
+      "Threaten to withhold care",
+      "Ignore and continue interventions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Respect for autonomy requires that research participants can withdraw at any time without penalty. Investigators should ensure withdrawal is documented, offer alternative care as appropriate, and explain potential implications for follow-up.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A physician learns that a colleague falsified research data. What is the ethical obligation?",
+    "choices": [
+      "Ignore to avoid trouble",
+      "Report the misconduct to institutional research integrity office and relevant authorities per policies",
+      "Help hide the falsification",
+      "Publish the data unchanged"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falsifying data is research misconduct with serious ethical and legal implications; clinicians and researchers have obligations to report to institutional research integrity offices to correct the record and protect participants. Concealment undermines trust and harms science.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A family requests that a loved one with capacity not be told of a terminal diagnosis despite the patient's explicit question asking 'Am I dying?'. The patient has been asking repeatedly. What is the ethically appropriate approach?",
+    "choices": [
+      "Honor family request and withhold information",
+      "Assess patient's decision-making capacity, explore reasons for family request, and, if patient has capacity, respect patient's right to be informed",
+      "Lie to the patient",
+      "Discharge patient immediately"
+    ],
+    "answerIndex": 1,
+    "explanation": "Respecting autonomy means that a capable patient has a right to information about their health. Clinicians should assess capacity, discuss with family, and respect the patient's preference for information; withholding information at family's insistence undermines autonomy unless patient lacks capacity.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A hospital faces a ventilator shortage during a pandemic. Which procedural values should guide allocation decisions?",
+    "choices": [
+      "Opacity and clinician whim",
+      "Transparency, consistency, proportionality, and accountability with triage criteria based on objective clinical factors",
+      "Favor those with best insurance",
+      "Random selection without criteria"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethical allocation requires transparent, consistent policies applied equitably, with accountability and support for clinicians. Prioritization should be based on objective clinical criteria (e.g., likelihood of survival), not social worth or insurance status.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A physician is asked by a patient to provide false documentation to obtain disability benefits. What should the physician do?",
+    "choices": [
+      "Provide false documentation to help the patient",
+      "Refuse to falsify records, explain legal/ethical implications, and provide accurate documentation and support services",
+      "Forge a signature for the patient",
+      "Ignore the request"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falsifying medical records or documentation is unethical and illegal. Doctors should refuse, explain consequences, and help the patient pursue legitimate avenues of support and appeal while documenting truthfully.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with suicidal ideation expresses intent and has a plan. What is the clinician's immediate ethical and legal duty?",
+    "choices": [
+      "Respect absolute confidentiality and do nothing",
+      "Ensure patient safety which may include hospitalization, notify appropriate parties, and involve crisis services; confidentiality may be breached for safety",
+      "Ignore until patient insists again",
+      "Only provide medication"
+    ],
+    "answerIndex": 1,
+    "explanation": "When patients pose imminent risk to themselves, clinicians have a duty to take steps to protect them, which may require breaching confidentiality to notify authorities or family and arranging hospitalization. Safety overrides confidentiality in imminent harm situations.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A trainee observes attending physicians making derogatory jokes about patients. What is the professional obligation of the trainee?",
+    "choices": [
+      "Join in to fit in",
+      "Address concerns with professionalism, seek mentorship, and report to an appropriate supervisor or professionalism office if repeated",
+      "Share jokes on social media",
+      "Quit immediately without reporting"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physicians must uphold professionalism; trainees should address unprofessional behavior, seek guidance, and report patterns via institutional channels. Ignoring or participating undermines patient dignity and team culture.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient requests access to their genetic testing results and asks for an explanation of risks to relatives. What ethical considerations apply to sharing genetic information with at-risk family members?",
+    "choices": [
+      "Physician must always notify relatives without patient consent",
+      "Balance patient confidentiality with the potential duty to warn at-risk relatives; encourage patient-led disclosure and offer counseling; disclose only if there is a serious, preventable harm and patient refuses",
+      "Ignore familial risk",
+      "Publish results publicly"
+    ],
+    "answerIndex": 1,
+    "explanation": "Genetic information raises familial implications. Clinicians should encourage and assist patients to inform at-risk relatives, provide counseling, and consider disclosure only when there is a clear and serious risk and the patient refuses, following legal and institutional guidance.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient lacks capacity and no surrogate is immediately available. Urgent surgery is indicated to save life. What is the ethically appropriate action?",
+    "choices": [
+      "Delay surgery until a surrogate is found",
+      "Proceed with surgery under implied consent to prevent imminent harm and document rationale",
+      "Refuse to operate",
+      "Call the police"
+    ],
+    "answerIndex": 1,
+    "explanation": "In emergencies where delay would cause significant harm and the patient lacks capacity, clinicians may proceed under the principle of implied consent to provide life-saving treatment, documenting the decision and efforts to identify surrogates.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A pharmaceutical company offers to fund a department's educational symposium with speakers selected by the company. What conflict-of-interest concerns arise and how should they be addressed?",
+    "choices": [
+      "No concerns—accept without oversight",
+      "Potential bias in content; disclose sponsorship, maintain independent control over content/speakers, and follow institutional COI policies",
+      "Let company write all slides",
+      "Hide the sponsorship from attendees"
+    ],
+    "answerIndex": 1,
+    "explanation": "Industry funding can create perceived or real bias. Ethical practice requires transparency, disclosure of financial relationships, independent selection of educational content and speakers, and adherence to COI policies to preserve educational integrity.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with HIV asks if their diagnosis will be disclosed to their employer if they receive care at a clinic. What is the clinician's duty regarding confidentiality and disclosure?",
+    "choices": [
+      "Clinician may disclose freely to employer",
+      "Protect patient confidentiality; disclose only with patient's consent or if legally required (public health laws), and explain mandatory reporting requirements",
+      "Share information with coworkers",
+      "Post on social media"
+    ],
+    "answerIndex": 1,
+    "explanation": "HIV status is highly confidential. Clinicians must protect patient privacy, disclose only with consent or when legally mandated, and inform patients of any public health reporting obligations while providing counseling and support.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient consents to a blood transfusion but later withdraws consent immediately before the procedure. The team has already prepared and crossmatched blood. What should the team do ethically?",
+    "choices": [
+      "Proceed anyway because preparation was done",
+      "Respect the patient's withdrawal of consent and do not transfuse; document and explore reasons",
+      "Force the transfusion for patient's own good",
+      "Discharge the patient"
+    ],
+    "answerIndex": 1,
+    "explanation": "Patients retain the right to withdraw consent at any time before an intervention. Clinicians should respect this decision, document it, discuss implications, and offer alternatives or further counseling if appropriate.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician is conducting qualitative research interviews with vulnerable populations. What measures should be taken to protect participants?",
+    "choices": [
+      "No consent required for qualitative interviews",
+      "Obtain informed consent, ensure confidentiality, minimize risks, provide resources, and use ethics board review",
+      "Publish identifying details for authenticity",
+      "Discard consent forms"
+    ],
+    "answerIndex": 1,
+    "explanation": "Research involving vulnerable populations requires careful protections: informed consent tailored to comprehension, confidentiality safeguards, minimizing risk of harm, and institutional review board oversight. Participants should be provided with support and referral resources.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient's family requests that physicians continue life-sustaining measures despite clear futility and suffering. What ethical approach should clinicians take?",
+    "choices": [
+      "Provide all possible interventions regardless of benefit",
+      "Engage in compassionate communication, explain medical futility, involve palliative care and ethics consultation, and seek consensus while respecting cultural values",
+      "Unilaterally withdraw without discussion",
+      "Ignore family's concerns"
+    ],
+    "answerIndex": 1,
+    "explanation": "When interventions are medically futile, clinicians should communicate compassionately, explain the burdens and benefits, involve palliative care, and seek an ethically defensible plan, using ethics consultation and mediation if conflicts persist. Respectful negotiation is key.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient enrolled in a trial is offered an off-label drug outside the study that could benefit them. What is the investigator's ethical duty?",
+    "choices": [
+      "Deny access to off-label drug to protect study data",
+      "Discuss options, potential impacts on study participation, obtain informed consent for off-label therapy, and consider unblinding if clinically necessary",
+      "Coerce the patient to remain in trial",
+      "Hide the option from the patient"
+    ],
+    "answerIndex": 1,
+    "explanation": "Investigators must prioritize patient welfare. They should inform participants of available off-label therapies, discuss implications for trial participation, and facilitate informed decisions; study integrity should not override patient care.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A hospital implements surveillance testing for performance metrics and shares results publicly. What ethical principles should guide public reporting of clinician performance?",
+    "choices": [
+      "Accuracy, risk adjustment, context, fairness, and opportunity for improvement",
+      "Publish raw numbers without context",
+      "Shame clinicians to improve performance",
+      "Ignore clinician input"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public reporting should be accurate, risk-adjusted, contextualized, and fair, allowing clinicians to understand and improve performance. Misleading or unadjusted data can harm patients and clinicians and undermine improvement efforts.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with diminished decision-making capacity has previously expressed a preference against blood transfusions for religious reasons. Now lacks capacity and is bleeding. What should clinicians do?",
+    "choices": [
+      "Administer transfusion because patient is incapacitated",
+      "Respect previously expressed wishes (advance directive/refusal) unless overridden by clear emergency statute and document discussion",
+      "Seek family approval over patient's prior wishes",
+      "Ignore prior preferences"
+    ],
+    "answerIndex": 1,
+    "explanation": "Respect for prior competent wishes guides care when patients become incapacitated; if a valid and applicable advance refusal exists, clinicians should honor it. Emergency statutory exceptions vary; document rationale and legal consultation if needed.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "During hiring, an applicant reveals a disability that may require accommodation. What is the employer's ethical and legal obligation in healthcare settings?",
+    "choices": [
+      "Refuse to hire on disability alone",
+      "Provide reasonable accommodations unless undue hardship, ensuring nondiscrimination and equal opportunity",
+      "Make the applicant fund their own accommodations",
+      "Ignore requests for accommodation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Employers must provide reasonable accommodations under disability laws and ethical commitments to inclusion, unless such accommodations cause undue hardship or compromise safety. Healthcare employers should balance safety and nondiscrimination.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician suspects elder abuse in a patient with unexplained injuries and cognitive impairment. What steps should they take ethically and legally?",
+    "choices": [
+      "Ignore to avoid family conflict",
+      "Report to appropriate adult protective services or authorities per mandatory reporting laws, ensure patient safety, and involve multidisciplinary resources",
+      "Confront the family only in front of the patient",
+      "Discharge patient home immediately"
+    ],
+    "answerIndex": 1,
+    "explanation": "Healthcare providers have obligations to report suspected elder abuse per local laws, ensure immediate patient safety, document findings, and engage social work, protective services, and legal resources. Ignoring suspected abuse risks ongoing harm.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinical team deliberates whether to enroll a prisoner in a research study. What additional protections are ethically required for research involving incarcerated persons?",
+    "choices": [
+      "No protections—treat same as general population",
+      "Enhanced protections to ensure voluntariness, minimize coercion, review by special ethical oversight, and justification of risks/benefits",
+      "Automatic enrollment for all prisoners",
+      "Pay prisoners exorbitantly to enroll"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prisoners are a vulnerable population prone to coercion; regulations require enhanced safeguards, independent ethical review, minimal risk or clear benefit, and measures to ensure voluntary informed consent without undue inducement.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A trainee is asked to perform a procedure beyond their competence due to staffing shortages. What should the trainee do?",
+    "choices": [
+      "Proceed without supervision to avoid inconveniencing staff",
+      "Decline and request appropriate supervision or transfer responsibility, ensuring patient safety",
+      "Perform and hope for the best",
+      "Blame others afterwards"
+    ],
+    "answerIndex": 1,
+    "explanation": "Trainees must prioritize patient safety and should not perform unsupervised procedures beyond their competence; they should seek supervision, sign out appropriately, or arrange for a more experienced provider, documenting limitations.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician discovers that a commonly used clinical algorithm disproportionately misclassifies risk for a minority population. What ethical steps should be taken?",
+    "choices": [
+      "Continue using algorithm unchanged",
+      "Investigate bias, disclose limitations, adjust or validate algorithms for diverse populations, and advocate for equitable tools",
+      "Hide the misclassification",
+      "Apply algorithm strictly without oversight"
+    ],
+    "answerIndex": 1,
+    "explanation": "Algorithmic bias can exacerbate health disparities. Clinicians and institutions should evaluate, disclose, and remediate biased tools, validate performance across populations, and work to implement fair, evidence-based alternatives.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient requests a do-not-resuscitate (DNR) order while family insists on full code. The patient has capacity. What is the correct action?",
+    "choices": [
+      "Honor the patient's informed decision and document DNR despite family objections",
+      "Override patient wishes for family's preference",
+      "Delay decision until family agrees",
+      "Ignore patient's request"
+    ],
+    "answerIndex": 0,
+    "explanation": "A capacitated patient's preferences about resuscitation take precedence; clinicians should respect autonomy, document the DNR order, and communicate compassionately with family to explain the decision.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A medical student witnesses a senior physician making diagnostic decisions influenced by stereotyping. What is the student's professional responsibility?",
+    "choices": [
+      "Stay silent to avoid repercussions",
+      "Address the behavior, seek mentorship, and report if necessary to protect patients and promote equitable care",
+      "Adopt the same practices",
+      "Publicly shame the physician on social media"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physicians-in-training should advocate for patients, address biased or discriminatory practices through appropriate channels, seek guidance, and report persistent harmful behavior; silence perpetuates inequity and patient harm.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient presents requesting access to their de-identified research data for secondary analysis. What ethical considerations apply to data sharing?",
+    "choices": [
+      "No consent is needed for any reuse",
+      "Ensure proper de-identification, consider participants' consent for secondary uses, protect privacy, and follow data-use agreements and IRB guidance",
+      "Sell data commercially without oversight",
+      "Publish identifiable data widely"
+    ],
+    "answerIndex": 1,
+    "explanation": "Data sharing must balance scientific benefit and participant privacy. Even de-identified data require safeguards; respect original consent terms, ensure robust de-identification, and follow regulatory and IRB requirements for secondary use.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician receives a subpoena for a patient's medical records. How should they respond ethically and legally?",
+    "choices": [
+      "Ignore the subpoena",
+      "Consult legal counsel, follow legal process to provide records as mandated while protecting privileged information and notify patient unless restricted by law",
+      "Post records publicly",
+      "Refuse to cooperate always"
+    ],
+    "answerIndex": 1,
+    "explanation": "Subpoenas require legal compliance; clinicians should consult institutional legal counsel to ensure proper disclosure, protect privileged information, and notify patients when permissible while following court orders and confidentiality rules.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with early dementia wants to appoint a durable power of attorney for healthcare. What is the ethical value of doing this early?",
+    "choices": [
+      "No benefit—wait until later",
+      "It preserves patient's autonomy by documenting preferences while capacity exists and eases surrogate decision-making later",
+      "Illegal to appoint POA early",
+      "Only family can appoint a surrogate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Appointing a durable power of attorney while patients retain capacity ensures that their chosen surrogate can advocate for their values when capacity declines, preserving autonomy and reducing future conflict and uncertainty.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician suspects a colleague forged a patient's consent form to expedite care. What are the responsibilities?",
+    "choices": [
+      "Cover up the forgery to protect the colleague",
+      "Report to institutional leadership and risk management, ensure patient safety, and document concerns",
+      "Alter records to match forged consent",
+      "Ignore and continue practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Forgery of consent undermines informed consent and legal validity; clinicians must report concerns, protect patients, and involve appropriate institutional authorities for investigation and remediation.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient from a culture that prefers family-centered decision-making asks the physician to defer disclosure to family. How should the physician handle disclosure?",
+    "choices": [
+      "Always disclose to patient only, regardless of preferences",
+      "Respect the patient's preference for family-centered communication if the patient has capacity, while ensuring informed consent and documenting the request",
+      "Refuse to accommodate cultural differences",
+      "Discharge patient"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clinicians should respect patient autonomy including preferences for family-centered decision-making, provided the patient has capacity. Culturally sensitive communication and documentation help balance respect for cultural values with ethical obligations.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A pharmaceutical company requests access to patient-level data from a completed trial for marketing analysis. What safeguards should be required?",
+    "choices": [
+      "Provide data without restrictions",
+      "Require de-identification, data-use agreements, oversight, and restrict marketing-only access to protect participant privacy and consent terms",
+      "Sell raw identifiable data",
+      "Provide only to marketing if paid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sharing study data requires protecting participant confidentiality and honoring consent; data-use agreements, de-identification, and oversight ensure ethical reuse and prevent misuse for purely commercial purposes without appropriate safeguards.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician is asked to participate in an advertisement endorsing a medical device for which they received payment. What should they disclose to patients and the public?",
+    "choices": [
+      "Nothing—no disclosure necessary",
+      "Disclose the financial relationship and potential conflicts of interest when endorsing clinical products",
+      "Lie about payment",
+      "Only disclose if asked in court"
+    ],
+    "answerIndex": 1,
+    "explanation": "Transparency about financial ties helps patients assess potential conflicts; professional guidelines recommend disclosure of significant financial relationships in endorsements and educational content to maintain trust.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A research protocol proposes enrolling children in a low-risk observational study with no direct benefit. What ethical standard must be met?",
+    "choices": [
+      "No parental permission required",
+      "Obtain parental permission and child assent appropriate to age; minimize risks and ensure ethical review",
+      "Coerce participation",
+      "Offer excessive payment to children"
+    ],
+    "answerIndex": 1,
+    "explanation": "Research involving children requires parental permission and assent from the child when appropriate, minimization of risk, and IRB oversight to protect this vulnerable population. Avoid undue inducement and ensure benefits justify inclusion.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A terminally ill patient asks for increased opioid dosing for pain relief; clinician is concerned about potential respiratory depression. What is the appropriate ethical approach?",
+    "choices": [
+      "Withhold opioids due to fear of respiratory depression",
+      "Prescribe adequate analgesia in line with hospice/palliative principles, titrate carefully, and monitor; principle of double effect may apply",
+      "Refuse all analgesia",
+      "Call law enforcement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Palliative care emphasizes relief of suffering; appropriate opioid dosing for pain is ethically permissible even if it may hasten death as an unintended effect (double effect), provided intent is symptom relief and dosing is proportionate and monitored.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A hospital seeks to implement an AI tool for diagnosis but lacks explanations of how it reaches conclusions. What ethical principles apply to adopting such a 'black-box' AI?",
+    "choices": [
+      "Adopt without scrutiny",
+      "Require validation, transparency, explainability, clinician oversight, and monitoring for bias before clinical deployment",
+      "Replace clinicians immediately",
+      "Ignore performance metrics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethical AI deployment needs robust validation, transparency about limitations, clinician oversight to interpret outputs, and monitoring for bias to prevent harm. 'Black-box' tools risk opaque errors and inequitable outcomes without safeguards.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient is enrolled in genetic research that may reveal incidental findings with health implications. What should researchers do regarding disclosure?",
+    "choices": [
+      "Never disclose any findings",
+      "Plan for managing incidental findings: inform participants during consent, offer options for return of results, and provide counseling",
+      "Publish results without consent",
+      "Only tell family members"
+    ],
+    "answerIndex": 1,
+    "explanation": "Researchers should address incidental findings in consent, offering participants choices about receiving such results, and ensure access to counseling and confirmatory testing. Ethical frameworks balance beneficence and respect for persons.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician finds a do-not-attempt-resuscitation (DNAR) order in the chart from years ago but the patient now seems to want aggressive care. What steps are ethically required?",
+    "choices": [
+      "Ignore the old DNAR and act without discussion",
+      "Assess current decision-making capacity and, if the patient has capacity, re-discuss goals and update code status accordingly",
+      "Destroy the old DNAR",
+      "Follow the old DNAR regardless of current wishes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Advance directives can be revisited; if a patient currently has capacity, clinicians should re-evaluate preferences and honor current, informed decisions. Documentation of the discussion and updated orders is essential.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician is offered unrestricted research funding contingent on using a particular device. What are the ethical considerations?",
+    "choices": [
+      "Accept unconditional funding without oversight",
+      "Disclose potential conflicts, ensure academic freedom, independent review of research design, and transparency about sponsor role",
+      "Let sponsor control publication",
+      "Conceal funding source"
+    ],
+    "answerIndex": 1,
+    "explanation": "Accepting sponsor-funded research requires safeguards to preserve scientific integrity: independent oversight, disclosure of funding, and protection against sponsor influence on design, conduct, or publication.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient from a marginalized group mistrusts medical care due to historical abuses. What ethically appropriate approach should clinicians take to build trust?",
+    "choices": [
+      "Dismiss concerns as irrational",
+      "Acknowledge historical context, practice cultural humility, engage in transparent communication, and involve community resources",
+      "Force care upon patient",
+      "Avoid answering questions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Building trust requires acknowledging past injustices, listening empathetically, practicing cultural humility, ensuring transparency, and partnering with community organizations to improve access and respect.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician must allocate limited research biospecimens to multiple investigative teams. What principles should guide fair allocation?",
+    "choices": [
+      "Favor the most senior investigator always",
+      "Prioritize scientifically meritorious, ethically approved proposals with transparency and equitable access",
+      "Sell to the highest bidder",
+      "Allocate randomly without oversight"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fair allocation of scarce research resources should be based on scientific merit, ethical review, transparency, and equitable access, rather than favoritism or financial incentives.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient with dementia lacks capacity and has no advance directive. The family is evenly split on tube feeding. What is an appropriate process to resolve conflict?",
+    "choices": [
+      "Unilaterally endorse tube feeding",
+      "Facilitate family meetings, involve ethics consultation, clarify goals of care, and use best-interest standard with input from care team",
+      "Ignore family opinions",
+      "Assign to whoever shouts loudest"
+    ],
+    "answerIndex": 1,
+    "explanation": "When families disagree, structured mediation, ethics consultation, and focusing on the patient's best interests and values (as known) facilitate decision-making. Avoid unilateral decisions without fair deliberation.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "A resident is instructed to document false notes to 'simplify billing'. What is the resident's ethical and professional duty?",
+    "choices": [
+      "Comply quietly",
+      "Refuse, report the instruction to compliance/ethics office, and document concerns; fraudulent documentation is illegal and unethical",
+      "Alter records later to match billing",
+      "Ignore the instruction but do nothing else"
+    ],
+    "answerIndex": 1,
+    "explanation": "Altered or false documentation for billing is fraudulent and violates legal and ethical duties. Residents should refuse, report to appropriate channels, and protect patient records and institutional integrity.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A clinician suspects a child is being subjected to female genital mutilation (FGM) in the community. What are the clinician's responsibilities?",
+    "choices": [
+      "Ignore cultural practices",
+      "Report per mandatory reporting laws, provide culturally sensitive counseling, ensure safety, and engage protective services",
+      "Assist in arranging the procedure",
+      "Publish details online"
+    ],
+    "answerIndex": 1,
+    "explanation": "FGM is a human rights violation and often illegal; clinicians must report suspected cases per law, prioritize the child's safety, provide culturally appropriate counseling, and engage social and protective services.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "A patient enrolled in a blinded randomized trial develops an adverse event potentially related to the study drug. What is the appropriate action?",
+    "choices": [
+      "Ignore event to preserve blinding",
+      "Report adverse event per protocol and safety monitoring board; unblinding may occur if necessary for patient safety",
+      "Continue without reporting",
+      "Terminate trial immediately without review"
+    ],
+    "answerIndex": 1,
+    "explanation": "Safety reporting mechanisms protect participants; adverse events must be reported promptly to the DSMB/IRB and sponsor, and unblinding can occur if needed for clinical management, while preserving trial integrity when possible.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "Informed consent: a non-English-speaking patient needs surgery and an interpreter is not available. What is appropriate?",
+    "choices": [
+      "Proceed without consent to save time",
+      "Delay surgery until professional interpreter or qualified translator is available unless emergency",
+      "Use family translator only always",
+      "Use online translator without verification"
+    ],
+    "answerIndex": 1,
+    "explanation": "Informed consent requires comprehension. Use professional interpreters to ensure understanding; in emergencies, proceed under implied consent. Family members may assist but are not substitutes for professional interpretation when possible.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "Confidentiality: A minor seeks STI testing and treatment; parents demand to know results. What should clinician do?",
+    "choices": [
+      "Disclose regardless of minor's confidentiality",
+      "Respect minor's confidentiality when law permits minors to consent for STI services and encourage communication with parents",
+      "Always inform parents",
+      "Refuse to treat minor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Many jurisdictions allow minors to consent to STI care; clinicians should respect confidentiality to encourage care access while providing counseling and resources. Know local laws and exceptions.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "Capacity: A patient with fluctuating delirium consents to a high-risk procedure during lucid interval. How should the team proceed?",
+    "choices": [
+      "Rely only on the brief consent",
+      "Assess capacity at time of decision, document fluctuating capacity, seek surrogate or wait until capacity restored if possible",
+      "Proceed without reassessment",
+      "Ignore delirium"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capacity is decision-specific and time-specific. If capacity fluctuates, assess at decision time, involve surrogates, and if possible defer until capacity restored. Documentation and ethics consultation may be helpful.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "End-of-life: Family demands CPR 'at all costs' for a patient in irreversible coma with prior DNR discussed. How to proceed?",
+    "choices": [
+      "Perform CPR regardless",
+      "Respect the documented DNR order and discuss family concerns compassionately, involve ethics if conflict persists",
+      "Perform partial measures only",
+      "Ignore DNR"
+    ],
+    "answerIndex": 1,
+    "explanation": "A valid DNR reflects patient's wishes; clinicians should follow it and communicate compassionately with family. Ethics consultation can assist in resolving disputes, but patient autonomy prevails when documented and applicable.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "Reporting: A provider suspects a colleague is altering opioid prescriptions for personal use. What is the obligation?",
+    "choices": [
+      "Confront only in person and keep silent",
+      "Report to appropriate supervisory or regulatory body to protect patients and seek treatment for colleague",
+      "Ignore to avoid conflict",
+      "Assist colleague clandestinely"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prescription diversion endangers patients and public trust; clinicians must report suspected misconduct per institutional policy and regulatory requirements to protect patients and facilitate help for the colleague.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "Resource stewardship",
+    "choices": [
+      "Use unlimited tests for every patient",
+      "Steward resources responsibly, avoid unnecessary tests, and consider value-based care",
+      "Order tests to increase billing",
+      "Ignore cost concerns"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stewardship balances patient benefit with system sustainability; unnecessary testing can harm patients and the system.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "Professional boundaries and physician self-care",
+    "choices": [
+      "Share patient info on social media",
+      "Maintain professional boundaries and seek help for burnout",
+      "Accept gifts always",
+      "Ignore mental health concerns"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maintaining boundaries protects patients; physicians should seek support for burnout and mental health to preserve safe care.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  },
+  {
+    "question": "Consent in psychiatric patients",
+    "choices": [
+      "Assume lack of capacity always",
+      "Assess capacity specifically and involve surrogates if absent; treat emergently if imminent risk",
+      "Refuse all treatments",
+      "Always detain patients"
+    ],
+    "answerIndex": 1,
+    "explanation": "Psychiatric diagnoses do not automatically indicate incapacity; assessment must be decision-specific and time-specific, with emergency exceptions.",
+    "difficulty": "easy",
+    "category": "Ethics"
+  },
+  {
+    "question": "Cultural competence and treatment refusal",
+    "choices": [
+      "Force treatment for cultural reasons",
+      "Respect culturally-informed refusals if patient has capacity, negotiate alternatives, and use interpreters/mediators",
+      "Dismiss culture",
+      "Ignore patient values"
+    ],
+    "answerIndex": 1,
+    "explanation": "Respect for cultural values is important; clinicians should negotiate, provide information, and respect autonomous refusals when capacity exists.",
+    "difficulty": "medium",
+    "category": "Ethics"
+  },
+  {
+    "question": "Duty to treat in epidemics vs personal risk",
+    "choices": [
+      "Always refuse to treat",
+      "Balance duty to treat with safety, use PPE and institutional support; obligations may not be absolute",
+      "Treat without PPE regardless",
+      "Quarantine patients at home without care"
+    ],
+    "answerIndex": 1,
+    "explanation": "Professionals have duties to treat but also to protect themselves and others; institutions must provide PPE and support, and ethics demands proportionality.",
+    "difficulty": "hard",
+    "category": "Ethics"
+  }
+]

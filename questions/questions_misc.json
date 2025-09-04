@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 4001,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4001) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4002,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4003,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4004,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4005,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Iron",
+      "Vitamin C",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4006,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4007,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4008,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4009,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4010,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4011,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4012,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4013,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4014,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4015,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4016,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4017,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4018,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4019,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4019) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4020,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4021,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4022,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4023,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4024,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4025,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4026,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4027,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4028,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4029,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4030,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4031,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4032,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4033,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4034,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4035,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin K",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4036,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4037,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4037) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4038,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4039,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4040,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4041,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4042,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4043,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4044,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4045,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4046,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4047,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4048,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4049,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4050,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4051,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4052,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4053,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4054,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4055,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4055) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4056,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4057,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4058,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4059,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin K",
+      "Iron"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4060,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4061,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4062,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4063,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4064,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4065,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4066,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4067,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K",
+      "Iron"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4068,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4069,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4070,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4071,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin K",
+      "Iron"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4072,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4073,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4073) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4074,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4075,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4076,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4077,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4078,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4079,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4080,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4081,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4082,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4083,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4084,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4085,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Iron",
+      "Vitamin K"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4086,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4087,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4088,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4089,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Iron",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4090,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4091,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient (case 4091) develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Iron",
+      "Vitamin K"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4092,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4093,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4094,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4095,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Iron",
+      "Vitamin K"
+    ],
+    "answerIndex": 1,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4096,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Large cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4097,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4098,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  },
+  {
+    "id": 4099,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "A 35-year-old patient develops fatigue, pallor, and glossitis. Labs show MCV 115 fL. Most likely deficiency?",
+    "choices": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 2,
+    "explanation": "Macrocytosis with neurologic signs is due to B12 deficiency."
+  },
+  {
+    "id": 4100,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "A 60-year-old smoker presents with chronic cough and hemoptysis. Chest X-ray shows a hilar mass. Likely diagnosis?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Large cell carcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "answerIndex": 3,
+    "explanation": "Squamous cell carcinoma often central/hilar and associated with smoking."
+  }
+]

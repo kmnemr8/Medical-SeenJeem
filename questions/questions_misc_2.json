@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 20401,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "30-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Gastritis",
+      "Pancreatitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20402,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "50-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20403,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "25-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Botulism",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20404,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "55-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Peptic ulcer disease",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20405,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "18-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis",
+      "Ear abscess"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20406,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "65-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Botulism",
+      "Multiple sclerosis",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20407,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "45-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20408,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "22-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20409,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "55-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Myasthenia gravis",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20410,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "55-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Gastritis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20411,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "70-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20412,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "34-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Botulism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20413,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "70-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20414,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "34-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20415,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "34-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Botulism",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20416,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "60-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Gastritis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20417,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "55-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20418,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "60-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Botulism",
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20419,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "45-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Gastritis",
+      "Pancreatitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20420,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "40-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Ear abscess"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20421,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "30-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Botulism",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20422,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20423,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "18-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Ear abscess",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20424,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "40-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20425,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "65-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Cholecystitis",
+      "Pancreatitis",
+      "Peptic ulcer disease",
+      "Gastritis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20426,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "50-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20427,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "25-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome",
+      "Multiple sclerosis",
+      "Botulism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20428,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20429,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "40-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Ear abscess",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20430,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "55-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Botulism",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 0,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20431,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "60-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20432,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "65-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20433,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "45-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20434,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20435,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "30-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20436,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "70-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Multiple sclerosis",
+      "Botulism",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20437,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "60-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20438,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "65-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Ear abscess",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20439,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "65-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Botulism",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20440,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Gastritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20441,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "65-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20442,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "34-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Myasthenia gravis",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20443,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "22-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Gastritis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20444,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "25-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke",
+      "Ear abscess"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20445,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "45-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Botulism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20446,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "22-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20447,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "60-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Ear abscess"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20448,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "22-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20449,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "50-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Pancreatitis",
+      "Peptic ulcer disease",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20450,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "45-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20451,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "55-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20452,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "65-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Gastritis",
+      "Cholecystitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20453,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "18-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20454,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "30-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome",
+      "Botulism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20455,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "50-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20456,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "50-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20457,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "40-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Botulism",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20458,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "25-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20459,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "55-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20460,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "65-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome",
+      "Botulism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20461,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "70-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Gastritis",
+      "Peptic ulcer disease",
+      "Cholecystitis",
+      "Pancreatitis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20462,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "65-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20463,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "25-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20464,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "70-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20465,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "22-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Peripheral (Bell) palsy",
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20466,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "30-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20467,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "45-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Gastritis",
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20468,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "18-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20469,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "40-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Botulism"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20470,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Gastritis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20471,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "18-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20472,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "45-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20473,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "60-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Gastritis",
+      "Cholecystitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20474,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "60-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20475,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "22-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Botulism",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20476,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "18-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Gastritis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Peptic ulcer disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20477,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "34-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20478,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "40-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Botulism",
+      "Multiple sclerosis",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20479,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "18-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20480,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "45-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20481,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "18-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Botulism",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20482,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "18-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20483,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "55-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Central facial palsy from stroke",
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20484,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "22-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Multiple sclerosis",
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20485,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "34-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Gastritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20486,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "70-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20487,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "70-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20488,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "55-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Gastritis",
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20489,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "50-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20490,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "60-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome",
+      "Multiple sclerosis",
+      "Botulism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20491,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "25-year-old man with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis? The symptoms began 48 hours ago.",
+    "choices": [
+      "Peptic ulcer disease",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20492,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "25-year-old man with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis? The symptoms began several months ago.",
+    "choices": [
+      "Peripheral (Bell) palsy",
+      "Ear abscess",
+      "Myasthenia gravis",
+      "Central facial palsy from stroke"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20493,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "55-year-old man with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis? The symptoms began two weeks ago.",
+    "choices": [
+      "Myasthenia gravis",
+      "Multiple sclerosis",
+      "Lambert-Eaton syndrome",
+      "Botulism"
+    ],
+    "answerIndex": 0,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20494,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "22-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Pancreatitis",
+      "Peptic ulcer disease",
+      "Cholecystitis",
+      "Gastritis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20495,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "40-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Peripheral (Bell) palsy",
+      "Central facial palsy from stroke",
+      "Ear abscess"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20496,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "40-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Lambert-Eaton syndrome",
+      "Myasthenia gravis",
+      "Multiple sclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20497,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "60-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Pancreatitis",
+      "Cholecystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20498,
+    "category": "Misc",
+    "difficulty": "medium",
+    "question": "22-year-old woman with sudden unilateral facial droop involving forehead, hyperacusis, and taste disturbance. Most likely diagnosis?",
+    "choices": [
+      "Myasthenia gravis",
+      "Ear abscess",
+      "Central facial palsy from stroke",
+      "Peripheral (Bell) palsy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bell palsy involves the entire side of the face including forehead; hyperacusis can occur due to stapedius muscle involvement. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20499,
+    "category": "Misc",
+    "difficulty": "hard",
+    "question": "30-year-old woman with fatigable ptosis and diplopia worsened by activity; edrophonium transiently improves symptoms. Diagnosis?",
+    "choices": [
+      "Botulism",
+      "Multiple sclerosis",
+      "Myasthenia gravis",
+      "Lambert-Eaton syndrome"
+    ],
+    "answerIndex": 2,
+    "explanation": "Myasthenia gravis is characterized by fatigable weakness improved by acetylcholinesterase inhibitors; antibodies against ACh receptors are common. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  },
+  {
+    "id": 20500,
+    "category": "Misc",
+    "difficulty": "easy",
+    "question": "40-year-old woman with epigastric burning relieved by antacids, worse after meals. Most likely diagnosis?",
+    "choices": [
+      "Gastritis",
+      "Cholecystitis",
+      "Peptic ulcer disease",
+      "Pancreatitis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Epigastric pain relieved by antacids is characteristic of peptic ulcer disease; evaluation includes testing for H. pylori and acid suppression therapy. Pathophysiology: disruption of normal physiology. Management typically includes appropriate stabilization and disease-specific therapy."
+  }
+]
